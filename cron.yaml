@@ -1,0 +1,4 @@
+cron:
+- description: hourly tweet
+  url: /maketweet/hourly/
+  schedule: every 1 hours
