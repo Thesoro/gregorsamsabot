@@ -1,9 +1,19 @@
 import webapp2
 import random
 import sources
+import logging
+import urllib2
+import oauth2 as oauth
+import time
+import tweetposter
 
 class maketweet(webapp2.RequestHandler):
   def get(self):
+
+
+    logging.info('meep')
+
+
 
     orig = "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
     firstadj = random.choice(sources.adjlist)
@@ -18,12 +28,13 @@ class maketweet(webapp2.RequestHandler):
       article = "an"
 
     temp = "As Gregor Samsa awoke one morning from %s dreams he found himself transformed in his bed into %s %s %s." % (firstadj,article,secondadj,noun)
-    print temp
+    url = 'https://api.twitter.com/1.1/statuses/update.json?status='+temp.replace(' ','%20')
+    home_timeline = tweetposter.oauth_req( url, 'abcdefg', 'hijklmnop' )
+    logging.info(home_timeline)
+    self.response.write('')
 
 
-
-
-application = webapp2.WSGIApplication( [
+app = webapp2.WSGIApplication( [
   # make a dang tweet
   ("/maketweet/hourly/$", maketweet)
 ], debug=True)
