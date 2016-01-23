@@ -10,11 +10,6 @@ import tweetposter
 class maketweet(webapp2.RequestHandler):
   def get(self):
 
-
-    logging.info('meep')
-
-
-
     orig = "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
     firstadj = random.choice(sources.adjlist)
     secondadj = random.choice(sources.adjlist)
@@ -24,7 +19,7 @@ class maketweet(webapp2.RequestHandler):
       noun = random.choice(sources.nounlist)
 
     article = "a"
-    if secondadj[0] in 'aeiou':
+    if secondadj[0] in 'aeiou' and not secondadj[0:3] == "use":
       article = "an"
 
     temp = "As Gregor Samsa awoke one morning from %s dreams he found himself transformed in his bed into %s %s %s." % (firstadj,article,secondadj,noun)
