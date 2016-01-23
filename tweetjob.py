@@ -2,7 +2,7 @@ import webapp2
 import random
 import sources
 import logging
-import urllib2
+import urllib
 import oauth2 as oauth
 import time
 import tweetposter
@@ -28,7 +28,7 @@ class maketweet(webapp2.RequestHandler):
       article = "an"
 
     temp = "As Gregor Samsa awoke one morning from %s dreams he found himself transformed in his bed into %s %s %s." % (firstadj,article,secondadj,noun)
-    url = 'https://api.twitter.com/1.1/statuses/update.json?status='+temp.replace(' ','%20')
+    url = 'https://api.twitter.com/1.1/statuses/update.json?status='+urllib.quote_plus(temp)
     home_timeline = tweetposter.oauth_req( url, 'abcdefg', 'hijklmnop' )
     logging.info(home_timeline)
     self.response.write('')

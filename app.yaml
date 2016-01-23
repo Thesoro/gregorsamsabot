@@ -11,6 +11,7 @@ handlers:
 
 - url: /maketweet/hourly/.*
   script: tweetjob.app
+  login: admin
 
 - url: .*
   script: main.app
