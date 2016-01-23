@@ -1,2 +1,5 @@
 secret.py
 *.pyc
+/samsabot/index.*
+/samsabot/*.txt
+/samsabot/*.xml
