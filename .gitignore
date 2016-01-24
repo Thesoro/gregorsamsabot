@@ -1,5 +1,7 @@
-secret.py
+authsec.py
 *.pyc
 /samsabot/index.*
 /samsabot/*.txt
 /samsabot/*.xml
+/samsabot/backup/*
+/samsabot/*.xml.*
