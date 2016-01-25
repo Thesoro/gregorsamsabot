@@ -11,18 +11,58 @@ class maketweet(webapp2.RequestHandler):
   def get(self):
 
     orig = "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
-    firstadj = random.choice(sources.adjlist)
-    secondadj = random.choice(sources.adjlist)
-    noun = random.choice(sources.nounlist)
+    adjs = []
+    firstadj = ''
+    secondadj = ''
+    noun = ''
+    article = 'an '
+    superl = ''
 
-    while " " in noun:
-      noun = random.choice(sources.nounlist)
+    z = open('wikt.adjs', 'r')
+    x = z.readlines()
+    num = random.randint(0,len(x)) - 1
+    num2 = random.randint(0,len(x)) - 1
+    for n in [num, num2]:
+      s = x[n].split('|||')
+      s[2] = s[2][:-1]
+      adjs.append(s)
 
-    article = "a"
-    if secondadj[0] in 'aeiou' and not secondadj[0:3] == "use":
-      article = "an"
+    firstadj = adjs[0][0]
+    secondadj = adjs[1][0]
 
-    temp = "As Gregor Samsa awoke one morning from %s dreams he found himself transformed in his bed into %s %s %s." % (firstadj,article,secondadj,noun)
+    o = open('wikt.nouns','r')
+    l = o.readlines()
+    num = random.randint(0,len(l)) - 1
+
+    f = l[num].split('|||')
+    f[1] = f[1][:-1]
+
+    countable = f[1]
+    noun = f[0]
+
+    if countable == 'yes':
+      article = 'a '
+    elif countable == 'no':
+      article = ''
+    elif countable == 'both':
+      coin = random.randint(0,1)
+      if coin == 0:
+        article = 'a '
+      if coin == 1:
+        article = ''
+    else:
+      article = 'a '
+
+    if adjs[0][1] == "super":
+      superl = "the "
+
+    if article and adjs[1][1] == "super":
+      article = "the "
+    elif article:
+      article = adjs[1][2] + ' '
+
+
+    temp = "As Gregor Samsa awoke one morning from %s%s dreams he found himself transformed in his bed into %s%s %s." % (superl,firstadj,article,secondadj,noun)
     url = 'https://api.twitter.com/1.1/statuses/update.json?status='+urllib.quote_plus(temp)
     home_timeline = tweetposter.oauth_req( url, 'abcdefg', 'hijklmnop' )
     logging.info(home_timeline)

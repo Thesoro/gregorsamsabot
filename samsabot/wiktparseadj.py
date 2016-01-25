@@ -32,6 +32,21 @@ for letterone in 'abcdefghijklmnopqr':
         continue
       if title[0:4].lower() == "the ":
         continue
+
+      #we crawl the text to isolate the first definition
+      defs = ''
+      multidef = False
+      defs = text[text.find('==Adjective=='):]
+      defs = defs[defs.find('#')+1:]
+      end = len(defs)-1
+      for item in ['--','==','[[','</']:
+        i = defs.find(item)
+        if i < end and i != -1:
+          end = i
+
+      defs = defs[:end+1].encode('utf8', 'replace')
+      defs = defs.split('# ')
+
         #there's a lot of obscure and scientific words in the source. we try to remove them here.
       badstrings = ['alternate spelling','|rare',
                     '{{alternate form', '|obsolete', 'archaic','|anatomy',
@@ -41,13 +56,18 @@ for letterone in 'abcdefghijklmnopqr':
                     '|biochemistry','|dated','genus', '{prefix','{suffix','|prefix','|suffix',
                     '|botany', '|geology', '|chemistry', 'A particular', 'subdivision of currency',
                     '|acronym', '|organic compound', '=Abbreviation=', '|abbreviation',
-                    'Abbreviation of', '[drug]',
+                    'Abbreviation of', '[drug]','{alt form',
                     '{abbreviation', '|biology', 'irregular plural', 'plural form',
                     '|protein','|medicine', 'misspelling', 'mispelling', 'polymer', '[molecular formula]',
                     '|mineral','{{synonym of', '|mineralogy','|histology', 'antibiotic', '|surgery',
-                    '|pathology','|mycology','{{Webster 1913}}']
+                    '|pathology','|mycology','{{Webster 1913}}','|ornithology', 'fungi of the family',
+                    '|pharmacology','|ichthyology','{alternative', 'alternative case']
       if any(x in text for x in badstrings):
         continue
+      #any word whose only definition is mostly the word itself is probably some scientific obscurity
+      if len(title) > 11 and not multidef:
+        if title[:10].lower() in fd.lower():
+          continue
       #anything that's a verb first isn't what we're looking for.
       #usually this is present participles (e.g. 'a shellacking')
       if '==Verb' in text and text.find('==Verb') < text.find('==Adjective'):
