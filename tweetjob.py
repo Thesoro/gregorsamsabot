@@ -58,8 +58,10 @@ class maketweet(webapp2.RequestHandler):
 
     if article and adjs[1][1] == "super":
       article = "the "
-    elif article:
+    elif article and ('False' in f[2]):
       article = adjs[1][2] + ' '
+    elif article and ('True' in f[2]):
+      article = ' '
 
 
     temp = "As Gregor Samsa awoke one morning from %s%s dreams he found himself transformed in his bed into %s%s %s." % (superl,firstadj,article,secondadj,noun)

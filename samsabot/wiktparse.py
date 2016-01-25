@@ -54,15 +54,15 @@ for thing in z:
 
         #we crawl the text to isolate the first definition
         defs = ''
-        multidef = False
+        pl = False
         defs = text[text.find('=='+pos+'=='):]
+        info = defs[:defs.find('#')]
         defs = defs[defs.find('#')+1:]
         end = len(defs)-1
         for item in ['--','==','[[','</']:
           i = defs.find(item)
           if i < end and i != -1:
             end = i
-
         defs = defs[:end+1].encode('utf8', 'replace')
         defs = defs.split('# ')
 
@@ -89,7 +89,7 @@ for thing in z:
           # print title
           continue
         #any word whose only definition is mostly the word itself is probably some scientific obscurity
-        if len(title) > 11 and not multidef:
+        if len(title) > 11 and len(defs) == 1:
           cont = False
           for num in range(len(title)-9):
             if title[num:(9+num)].lower() in defs[0].lower():
@@ -99,8 +99,11 @@ for thing in z:
 
         #we only want things that are the part of speech we're looking for in the language were lookin for
         if all(k not in text for k in ['{{en-'+pos[0:3].lower(), 'en|'+pos[0:3].lower()]):
-          print title
-          continue
+          if pos == "Noun" and 'plural' in info:
+            pl = True
+          else:
+            print title
+            continue
 
         altext = text.replace('==='+pos+'===','')
         if '===' not in altext:
@@ -123,6 +126,8 @@ for thing in z:
           else:
             is_countable += "yes"
           f.write(is_countable)
+
+          f.write('|||'+str(pl))
 
 
         if pos == "Adjective":
