@@ -131,12 +131,12 @@ for thing in z:
 
 
         if pos == "Adjective":
-          o.write('|||')
+          f.write('|||')
           if title[-3:] == "est" and title[-6:] not in ['modest','honest']:
-            o.write('super')
+            f.write('super')
           else:
-            o.write('not')
-          o.write('|||')
+            f.write('not')
+          f.write('|||')
           usea = True
           if title[0].lower() in 'aeiou':
             usea = False
@@ -146,9 +146,9 @@ for thing in z:
               usea = not usea
 
           if usea:
-            o.write('a')
+            f.write('a')
           else:
-            o.write('an')
+            f.write('an')
 
 
         f.write('\n')
