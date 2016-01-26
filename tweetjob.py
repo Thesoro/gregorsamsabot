@@ -12,33 +12,36 @@ class maketweet(webapp2.RequestHandler):
 
     orig = "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
     adjs = []
-    firstadj = ''
-    secondadj = ''
-    noun = ''
+    firstadj = 'A'
+    secondadj = 'A'
+    noun = 'A'
     article = 'an '
     superl = ''
 
     z = open('wikt.adjs', 'r')
     x = z.readlines()
-    num = random.randint(0,len(x)) - 1
-    num2 = random.randint(0,len(x)) - 1
-    for n in [num, num2]:
-      s = x[n].split('|||')
-      s[2] = s[2][:-1]
-      adjs.append(s)
+    while firstadj[0].isupper() or secondadj[0].isupper():
+      num = random.randint(0,len(x)) - 1
+      num2 = random.randint(0,len(x)) - 1
+      for n in [num, num2]:
+        s = x[n].split('|||')
+        s[2] = s[2][:-1]
+        adjs.append(s)
 
-    firstadj = adjs[0][0]
-    secondadj = adjs[1][0]
+      firstadj = adjs[0][0]
+      secondadj = adjs[1][0]
 
     o = open('wikt.nouns','r')
     l = o.readlines()
-    num = random.randint(0,len(l)) - 1
 
-    f = l[num].split('|||')
-    f[1] = f[1][:-1]
+    while noun[0].isupper():
+      num = random.randint(0,len(l)) - 1
 
-    countable = f[1]
-    noun = f[0]
+      f = l[num].split('|||')
+      f[1] = f[1][:-1]
+
+      countable = f[1]
+      noun = f[0]
 
     if countable == 'yes':
       article = 'a '
