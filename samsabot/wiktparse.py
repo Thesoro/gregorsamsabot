@@ -59,7 +59,7 @@ for thing in z:
         info = defs[:defs.find('#')]
         defs = defs[defs.find('#')+1:]
         end = len(defs)-1
-        for item in ['--','==','[[','</']:
+        for item in ['--','==','</']:
           i = defs.find(item)
           if i < end and i != -1:
             end = i
@@ -92,6 +92,8 @@ for thing in z:
         if len(title) > 11 and len(defs) == 1:
           cont = False
           for num in range(len(title)-9):
+            if cont:
+              break
             if title[num:(9+num)].lower() in defs[0].lower():
               cont = True
           if cont:

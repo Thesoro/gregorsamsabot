@@ -1,80 +1,30 @@
 # -*- coding: utf-8 -*-
-pos = 'Noun'
+pos = 'Adjective'
 
 text = """
 ==English==
-{{wikipedia}}
 
 ===Etymology===
-From {{etyl|grc|en}} {{term|κακός||bad, wretched|lang=grc}} + {{term|ἔχω|ἔχειν|to have|lang=grc}}.
+{{prefix|vaso|contractile|lang=en}}
 
-===Noun===
-{{en-noun|~}}
+===Adjective===
+{{en-adj}}
 
-# {{context|medicine|pathology|lang=en}} A systemic [[wasting]] of muscle [[tissue]], with or without loss of fat mass, that accompanies a [[chronic]] [[disease]].
-#* '''2007''', Lawrence E. Harrison, ''84: Nutritional Support for the Cancer Patient'', Alfred E. Chang, Patricia A. Ganz, Daniel F. Hayes, Timothy Kinsella, Harvey I. Pass, Joan H. Schiller, Richard M. Stone, Victor Strecher (editors), ''Oncology: An Evidence-Based Approach'', [http://books.google.com.au/books?id=vxh6u1-ETk0C&amp;pg=PA1488&amp;dq=%22cachexia%22%7C%22cachexias%22&amp;hl=en&amp;sa=X&amp;ei=3WFFU4asMMzQkQX8-4DIBQ&amp;redir_esc=y#v=onepage&amp;q=%22cachexia%22%7C%22cachexias%22&amp;f=false page 1488],
-#*: Cancer '''cachexia''' is a complex syndrome clinically manifest by progressive involuntary weight loss and diminished food intake and characterized by a variety of biochemical alterations.
-#* '''2007''', Toby C. Campbell, Jamie H. Von Roenn, ''Chapter 11: Anorexia/Weight Loss'', Ann M. Berger, John L. Shuster, Jamie H. Von Roenn (editors), ''Principles and Practice of Palliative Care and Supportive Oncology'', [http://books.google.com.au/books?id=LngD6RFXY_AC&amp;pg=PA125&amp;dq=%22cachexia%22%7C%22cachexias%22&amp;hl=en&amp;sa=X&amp;ei=3WFFU4asMMzQkQX8-4DIBQ&amp;redir_esc=y#v=onepage&amp;q=%22cachexia%22%7C%22cachexias%22&amp;f=false page 125],
-#*: Cancer '''cachexia''' is a complex metabolic process, due to both host and tumor factors, which results in excess catabolism as well as aberrant fat and carbohydrate metabolism.
-#* '''2008''', Mary Marian, Scott A. Shikora, Mary Russell, ''Clinical Nutrition for Surgical Patients'', [http://books.google.com.au/books?id=eFSzlYm0Fx8C&amp;pg=PA84&amp;dq=%22cachexia%22%7C%22cachexias%22&amp;hl=en&amp;sa=X&amp;ei=3WFFU4asMMzQkQX8-4DIBQ&amp;redir_esc=y#v=onepage&amp;q=%22cachexia%22%7C%22cachexias%22&amp;f=false page 84],
-#*: Preoperative nutritional therapy in CHF&lt;sup&gt;[Cardiac Heart Failure]&lt;/sup&gt; patients with '''cachexia''' is associated with improved postoperative survival rates (56).
-#* '''2009''', Connie W. Bales, Christine S. Ritchie, ''Handbook of Clinical Nutrition and Aging'', [http://books.google.com.au/books?id=jtsBbP2087wC&amp;pg=PA158&amp;dq=%22cachexia%22%7C%22cachexias%22&amp;hl=en&amp;sa=X&amp;ei=3WFFU4asMMzQkQX8-4DIBQ&amp;redir_esc=y#v=onepage&amp;q=%22cachexia%22%7C%22cachexias%22&amp;f=false page 158],
-#*: While sarcopenia occurs very commonly with aging, '''cachexia''' occurs mainly in association with acute or chronic disease.
+# Relating to [[vasocontraction]]
 
-====Translations====
-{{trans-top|systemic wasting of muscle tissue that accompanies a chronic disease}}
-* Czech: {{t|cs|cachexie|f}}
-{{trans-mid}}
-* Tagalog: {{t|tl|pamamayat}}
-{{trans-bottom}}
-
-===External links===
-* {{R:OneLook}}
-
-[[ca:cachexia]]
-[[et:cachexia]]
-[[io:cachexia]]
-[[my:cachexia]]
-[[pl:cachexia]]
-[[ta:cachexia]]
-[[zh:cachexia]]
 """
 
-title = ""
+title = "vasocontractile"
 
 notourpos = ['Verb', 'Adjective', 'Noun', 'Proper Noun', 'Abbreviation']
 notourpos.remove(pos)
 
-# for letterone in 'abcdefghijklmnopqr':
-#   for lettertwo in 'abcdefghijklmnopqrstuvwxyz':
-#     try:
-#       x = open('wiktdict.xml.'+letterone+lettertwo)
-#     except:
-#       pass
-#     data = x.read()
-#     start = data.find('<page>')
-#     end = data.rfind('</page>')
-#     print letterone+lettertwo
-#     data = data[start:(end+7)]
-#     data = "<root>" + data + "</root>"
-#     d = xmltodict.parse(data)
-#     x.close()
-
-    # for item in d['root']['page']:
-    #   try:
-    #     title = item['title'].encode('utf8', 'replace')
-    #   except AttributeError:
-    #     pass
-    #   if '#text' in item['revision']['text'].keys():
-    #     text = item['revision']['text']['#text'].split("=Translations=")[0]
-    #   else:
-    #     text = ''
-    #   if ':' in title or '==English==' not in text or '=='+pos+'==' not in text:
-    #     pass
-    #   if len(title) not in range(3,16):
-    #     pass
-    #   if title[0:4].lower() == "the ":
-    #     pass
+if ':' in title or '==English==' not in text or '=='+pos+'==' not in text:
+  pass
+if len(title) not in range(3,16):
+  pass
+if title[0:4].lower() == "the ":
+  pass
 
 #we only want words that are first listed as the part of speech we want
 for p in notourpos:
@@ -83,24 +33,23 @@ for p in notourpos:
     pass
 #a line of dashes indicates a section change, so if the noun form is in a different
 #  language this will hopefully catch it
-if text.find('----') != -1 and text.find('----') < text.find('==Adjective'):
+if text.find('----') != -1 and text.find('----') < text.find('=='+pos):
   pass
 
 #we crawl the text to isolate the first definition
 defs = ''
-multidef = False
+pl = False
 defs = text[text.find('=='+pos+'=='):]
+info = defs[:defs.find('#')]
 defs = defs[defs.find('#')+1:]
 end = len(defs)-1
-for item in ['--','==','[[','</']:
+for item in ['--','==','</']:
   i = defs.find(item)
   if i < end and i != -1:
     end = i
-
 defs = defs[:end+1].encode('utf8', 'replace')
-print defs
 defs = defs.split('# ')
-
+print defs
   #there's a lot of obscure and scientific words in the source. we try to remove them here.
 badstrings = ['alternate spelling','|rare',
               '{{alternate form', '|obsolete', 'archaic','|anatomy',
@@ -120,37 +69,83 @@ badstrings = ['alternate spelling','|rare',
 for d in defs:
   if any(xz in d for xz in badstrings):
     defs.remove(d)
-    print d
+
 if len(defs) == 0:
-  print title
+  # print title
   pass
 #any word whose only definition is mostly the word itself is probably some scientific obscurity
-if len(title) > 11 and not multidef:
+if len(title) > 11 and len(defs) == 1:
   cont = False
   for num in range(len(title)-9):
+    if cont:
+      break
     if title[num:(9+num)].lower() in defs[0].lower():
       cont = True
+      print 'zammo'
   if cont:
+    pass
+
+#we only want things that are the part of speech we're looking for in the language were lookin for
+if all(k not in text for k in ['{{en-'+pos[0:3].lower(), 'en|'+pos[0:3].lower()]):
+  if pos == "Noun" and 'plural' in info:
+    pl = True
+  else:
+    print title
     pass
 
 altext = text.replace('==='+pos+'===','')
 if '===' not in altext:
-  print title
+  # print title
   pass
 
-is_countable = '|||'
 
-if '{{en-noun' in text:
-  sect = text[text.find('{{en-noun'):]
-  nc = ['|-', '-}}']
-  sectb = text[:text.find('}}')+2]
-  if any(item in sectb for item in nc):
-    is_countable += 'no'
-  elif "{{en-noun|~" in text:
-    is_countable += 'both'
+if pos == "Noun":
+  is_countable = '|||'
+  if '{{en-noun' in text:
+    sect = text[text.find('{{en-noun'):]
+    nc = ['|-', '-}}']
+    sectb = text[:text.find('}}')+2]
+    if any(item in sectb for item in nc):
+      is_countable += 'no'
+    elif "{{en-noun|~" in text:
+      is_countable += 'both'
+    else:
+      is_countable += "yes"
   else:
     is_countable += "yes"
-else:
-  is_countable += "yes"
+  f.write(is_countable)
+
+  # f.write('|||'+str(pl))
+
+
+if pos == "Adjective":
+  # f.write('|||')
+  if title[-3:] == "est" and title[-6:] not in ['modest','honest']:
+    pass
+    # f.write('super')
+  else:
+    pass
+    # f.write('not')
+  # f.write('|||')
+  usea = True
+  if title[0].lower() in 'aeiou':
+    usea = False
+  exceptionlist = ['usu', 'use', 'honor', 'honest', 'one-', 'one ']
+  for item in exceptionlist:
+    if title[:(len(item))].lower() == item:
+      usea = not usea
+
+  if usea:
+    pass
+    # f.write('a')
+  else:
+    pass
+    # f.write('an')
+
+
+# f.write('\n')
+
+
+# f.close()
 
 
