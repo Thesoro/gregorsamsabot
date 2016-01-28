@@ -1,8 +1,10 @@
 import xmltodict
 
-o = open('out3.txt','w')
-p = open('out4.txt', 'w')
-z = [[o,'Noun'],[p,'Adjective']]
+nounfile = open('out3.txt','w')
+adjfile = open('out4.txt', 'w')
+verbfile = open('out5.txt', 'w')
+z = [[verbfile, 'Verb']]
+# z = [[nounfile,'Noun'],[adjfile,'Adjective']]
 
 for thing in z:
   pos = thing[1]
@@ -42,11 +44,17 @@ for thing in z:
         if title[0:4].lower() == "the ":
           continue
 
+        verbtype = False
+
         #we only want words that are first listed as the part of speech we want
+        contcheck = False
         for p in notourpos:
           npos = '=='+p
           if npos in text and text.find(npos) < text.find('=='+pos):
-            continue
+            contcheck = True
+
+        if contcheck:
+          continue
         #a line of dashes indicates a section change, so if the noun form is in a different
         #  language this will hopefully catch it
         if text.find('----') != -1 and text.find('----') < text.find('=='+pos):
@@ -69,7 +77,7 @@ for thing in z:
           #there's a lot of obscure and scientific words in the source. we try to remove them here.
         badstrings = ['alternate spelling','|rare',
                       '{{alternate form', '|obsolete', 'archaic','|anatomy',
-                      'initialism',"{obsolete",'{{plural', 'archaic',
+                      'initialism',"{obsolete",'{{plural',
                       'alternative form','alternative spelling', '|historic',
                       '|zoology','|entomology','|inorganic', '|organic',
                       '|biochemistry','|dated','genus', '{prefix','{suffix','|prefix','|suffix',
@@ -82,19 +90,22 @@ for thing in z:
                       '|pathology','|mycology','{{Webster 1913}}','|ornithology', 'fungi of the family',
                       '|pharma','|ichthyology','{alternative', 'alternative case',
                       '|steroid','[[BAN]]', 'fandom ', 'A medication', 'prodrug', ]
+        filtereddefs = []
         for d in defs:
           if any(xz in d for xz in badstrings):
-            defs.remove(d)
-        if len(defs) == 0:
+            pass
+          else:
+            filtereddefs.append(d)
+        if len(filtereddefs) == 0:
           # print title
           continue
         #any word whose only definition is mostly the word itself is probably some scientific obscurity
-        if len(title) > 11 and len(defs) == 1:
+        if len(title) > 11 and len(filtereddefs) == 1:
           cont = False
           for num in range(len(title)-9):
             if cont:
               break
-            if title[num:(9+num)].lower() in defs[0].lower():
+            if title[num:(9+num)].lower() in filtereddefs[0].lower():
               cont = True
           if cont:
             continue
@@ -103,10 +114,30 @@ for thing in z:
         if all(k not in text for k in ['{{en-'+pos[0:3].lower(), 'en|'+pos[0:3].lower()]):
           if pos == "Noun" and 'plural' in info:
             pl = True
+          # elif pos == "Verb" and any('participle' in t for t in filtereddefs):
+          #   verbtype =
+          elif pos == "Verb" and any('participle' in t for t in filtereddefs):
+            for de in filtereddefs:
+              if "participle" in de:
+                verbtype = 'part'
+                if 'present' in de:
+                  verbtype = 'pres' + verbtype
+                elif 'past' in de:
+                  verbtype = 'past' + verbtype
+                break
           else:
-            print title
+            # print title
+            continue
+        if pos == 'Verb' and not verbtype:
+
+          infolist = info.split('verb')[1].split('|')
+          if 'obsolete' in infolist[:3]:
+            # print title
             continue
 
+          if any('[' in item for item in infolist):
+            print title
+            continue
         altext = text.replace('==='+pos+'===','')
         if '===' not in altext:
           # print title
@@ -152,10 +183,25 @@ for thing in z:
           else:
             f.write('an')
 
+        if pos == "Verb":
+          f.write('|||')
+          if "en-past of" in title:
+            f.write('past')
+          elif len(infolist) == 1:
+            f.write('std')
+          elif len(infolist) == 2:
+            f.write('rt:'+(infolist[1].replace('}','').replace('\n','')).encode('utf8', 'replace'))
+          elif verbtype:
+            f.write(verbtype)
+          else:
+            f.write('`'.join(infolist))
+          f.write('|||')
 
         f.write('\n')
 
 
   f.close()
+
+
 
 
