@@ -5,6 +5,7 @@ class Word:
     self.text = text
     self.info = ''
     self.pos = None
+    self.poslist = ['Verb', 'Adjective', 'Noun', 'Proper noun', 'Abbreviation', 'Past Participle', 'Present Particple']
 
 
     self.defs = []
@@ -22,9 +23,8 @@ class Word:
       return False
     if self.title[0:4].lower() == "the ":
       return False
-    poslist = ['Verb', 'Adjective', 'Noun', 'Proper Noun', 'Abbreviation', 'Past Participle', 'Present Particple']
     pospositions = {}
-    for p in poslist:
+    for p in self.poslist:
       pospositions[p] = self.text.find('=='+p+'==')
 
     for key in pospositions.keys():
@@ -33,6 +33,7 @@ class Word:
 
     if pospositions:
       self.pos = min(pospositions, key=pospositions.get)
+
 
     return self.pos
 
@@ -108,7 +109,6 @@ class Word:
               self.pos = "Past Participle"
             elif 'present' in de:
               self.pos = "Present Participle"
-            break
       else:
         return False
 
