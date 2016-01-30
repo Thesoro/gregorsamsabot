@@ -1,5 +1,6 @@
-class Word:
+# -*- coding: utf-8 -*-
 
+class Word:
   def __init__(self, title, text):
     self.title = title
     self.text = text
@@ -66,7 +67,8 @@ class Word:
                   '|mineral','{{synonym of', '|mineralogy','|histology', 'antibiotic', '|surgery',
                   '|pathology','|mycology','{{Webster 1913}}','|ornithology', 'fungi of the family',
                   '|pharma','|ichthyology','{alternative', 'alternative case',
-                  '|steroid','[[BAN]]', 'fandom ', 'A medication', 'prodrug', ]
+                  '|steroid','[[BAN]]', 'fandom ', 'A medication', 'prodrug', 'dated form of', '|dated', '{dated',
+                  'antibody', 'steroid', '|cytology', '|law', '|historic']
     for d in self.defs:
       if any(xz in d for xz in badstrings):
         pass
@@ -78,7 +80,7 @@ class Word:
 
 
     #any word whose only definition is mostly the word itself is probably some scientific obscurity
-    if len(self.title) > 11 and len(self.filtereddefs) == 1:
+    if len(self.title) > 9 and len(self.filtereddefs) == 1:
       cont = False
       for num in range(len(self.title)-9):
         if cont:
@@ -162,23 +164,12 @@ class Word:
 
     if self.pos == "Adjective":
       self.textline += ('|||')
-      if self.title[-3:] == "est" and self.title[-6:] not in ['modest','honest']:
+      if "superlative" in self.text:
         self.textline += ('super')
       else:
         self.textline += ('not')
       self.textline += ('|||')
       usea = True
-      if self.title[0].lower() in 'aeiou':
-        usea = False
-      exceptionlist = ['usu', 'use', 'honor', 'honest', 'one-', 'one ']
-      for item in exceptionlist:
-        if self.title[:(len(item))].lower() == item:
-          usea = not usea
-
-      if usea:
-        self.textline += ('a')
-      else:
-        self.textline += ('an')
 
     if self.pos == "Verb":
       self.textline += ('|||')
@@ -190,6 +181,40 @@ class Word:
         self.textline += ('rt:'+(self.infolist[1].replace('}','').replace('\n','')))
       else:
         self.textline += ('`'.join(self.infolist).replace('\n','').replace('}',''))
+
+    #everybody gets an article
+    self.textline += ('|||')
+    #first we look for an ipa pronunciation
+    # pronun = self.text.split('ciation===')[-1]
+    # print pronun
+    # .split('IPA|/')
+    # print pronun
+    # if len(pronun) > 1:
+    #   init = pronun[1].split('/')[0]
+    #   init = init.replace('ˈ','')
+    #   init = init[0]
+    #   print init
+
+    #   if init in'ʌɑ:æeɜ:ɪi:ɒɔ:ʊu:aɪaʊeɪoʊɔɪeəɪəʊə':
+    #     print 'meep'
+    #     self.textline += "an"
+    #   else:
+    #     print 'honk'
+    #     self.textline += "a"
+    #elif
+    if self.title[0].lower() in 'aeiou':
+      usea = False
+      exceptionlist = ['usu', 'use', 'honor', 'honest', 'one-', 'one ']
+      for item in exceptionlist:
+        if self.title[:(len(item))].lower() == item:
+          usea = not usea
+
+      if usea:
+        self.textline += ('a')
+      else:
+        self.textline += ('an')
+    else:
+      self.textline += ('a')
 
     self.textline += ('\n')
     self.textline = self.textline.encode('utf8', 'replace')
