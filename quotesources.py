@@ -17,7 +17,7 @@ l['Fahrenheit 451']['reqs'] = [q.Quotereqs(pos="Noun", countmatters="yes", plura
 l['Neuromancer'] = {'orig':"The sky above the port was the color of %s, tuned to %s %s."}
 l['Neuromancer']['reqs'] = [q.Quotereqs(pos="Noun", countmatters="no"), q.Quotereqs(pos="Adjective", superl="not", needsarticle=True), q.Quotereqs(pos="Noun", countmatters="yes")]
 l['Goodfellas'] = {'orig':"As far back as I can remember, I always wanted to be %s."}
-l['Goodfellas']['reqs'] = [q.Quotereqs(pos="Noun", countmatters="no", needsarticle=True)]
+l['Goodfellas']['reqs'] = [q.Quotereqs(pos="Noun", countmatters="yes", needsarticle=True)]
 l['Stand By Me'] = {'orig':"I was 12 going on %s the first time I saw a dead %s."}
 l['Stand By Me']['reqs'] = [q.Quotereqs(pos="Noun"),q.Quotereqs(pos="Noun")]
 l['Metamorphosis'] = {'orig':"As Gregor Samsa awoke one morning from %s dreams he found himself transformed in his bed into %s %s."}
