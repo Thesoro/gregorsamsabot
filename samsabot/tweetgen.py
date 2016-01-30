@@ -2,7 +2,7 @@ import random
 import quotesources
 import quotereqs
 
-title = random.choice(quotesources.l.keys())
+title = "Moby Dick"
 m = quotesources.l[title]
 reqs = m['reqs']
 orig = m['orig']
@@ -35,7 +35,13 @@ for item in dupelist:
   words.insert(item[0], words[item[1]])
 
 f = orig % tuple(words)
-
+#ishmael gets a little custom formatting because he's imperative
+if title == "Moby Dick" and len(words[0].split(' ')) > 1:
+  c = f.split(' ')
+  print c
+  if c[-3] in ['down', 'in', 'off', 'on', 'by', 'up', 'out']:
+    c[-3], c[-2] = c[-2], c[-3]
+    f = ' '.join(c)
 print f[0].upper() + f[1:]
 ppp = len(orig % tuple(words))
 if ppp > 140:

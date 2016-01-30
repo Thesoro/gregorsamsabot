@@ -1,5 +1,8 @@
 cron:
-- description: hourly tweet
-  url: /maketweet/hourly/
+- description: samsa tweets
+  url: /maketweet/samsa/
   schedule: every 2 hours
 
+- description: general opening tweets
+  url: /maketweet/general/
+  schedule: every 2 hours
