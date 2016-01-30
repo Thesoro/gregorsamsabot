@@ -82,10 +82,10 @@ class Word:
     #any word whose only definition is mostly the word itself is probably some scientific obscurity
     if len(self.title) > 9 and len(self.filtereddefs) == 1:
       cont = False
-      for num in range(len(self.title)-9):
+      for num in range(len(self.title)-8):
         if cont:
           break
-        if self.title[num:(9+num)].lower() in self.filtereddefs[0].lower():
+        if self.title[num:(8+num)].lower() in self.filtereddefs[0].lower():
           cont = True
       if cont:
         return False
@@ -164,7 +164,7 @@ class Word:
 
     if self.pos == "Adjective":
       self.textline += ('|||')
-      if "superlative" in self.text:
+      if "superlative" in self.text.split('===Adjective===')[1].split('===')[0]:
         self.textline += ('super')
       else:
         self.textline += ('not')

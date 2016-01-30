@@ -25,7 +25,7 @@ for l in range(0,len(reqs)):
       l = x[num][:-1].split('|||')
       word = l.pop(0)
       for f in a.valuesearchers:
-        if f and not f in l:
+        if f and not f in l or (f == "yes" and "both" not in l and "yes" not in l):
           valuechecks = False
       if a.needsarticle:
         word = l[-1]+ ' ' + word
