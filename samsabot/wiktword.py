@@ -6,13 +6,14 @@ class Word:
     self.text = text
     self.info = ''
     self.pos = None
-    self.poslist = ['Verb', 'Adjective', 'Noun', 'Proper noun', 'Abbreviation', 'Past Participle', 'Present Particple']
+    self.poslist = ['Verb', 'Adjective', 'Noun', 'Proper noun', 'Abbreviation', 'Past Participle', 'Present Participle', 'Adverb']
 
 
     self.defs = []
     self.filtereddefs = []
     self.plural = False
     self.infolist = []
+    self.web = False
 
     self.textline = ''
 
@@ -24,6 +25,10 @@ class Word:
       return False
     if self.title[0:4].lower() == "the ":
       return False
+    if any(x in self.text.lower() for x in ["{{webster}}", "{{webster 1913}}"]):
+      # print self.title
+      return False
+
     pospositions = {}
     for p in self.poslist:
       pospositions[p] = self.text.find('=='+p+'==')
@@ -61,19 +66,28 @@ class Word:
                   '|biochemistry','|dated','genus', '{prefix','{suffix','|prefix','|suffix',
                   '|botany', '|geology', '|chemistry', 'A particular', 'subdivision of currency',
                   '|acronym', '|abbreviation',
-                  'Abbreviation of', '[drug]','{alt form',
+                  'abbreviation of', "abbreviated form" '[drug]','{alt form',
                   '{abbreviation', '|biology', 'irregular plural', 'plural form',
                   '|protein','|medicine', 'misspelling', 'mispelling', 'polymer', '[molecular formula]',
                   '|mineral','{{synonym of', '|mineralogy','|histology', 'antibiotic', '|surgery',
-                  '|pathology','|mycology','{{Webster 1913}}','|ornithology', 'fungi of the family',
+                  '|pathology','|mycology','{{webster 1913}}','|ornithology', 'fungi of the family',
                   '|pharma','|ichthyology','{alternative', 'alternative case',
-                  '|steroid','[[BAN]]', 'fandom ', 'A medication', 'prodrug', 'dated form of', '|dated', '{dated',
-                  'antibody', 'steroid', '|cytology', '|law', '|historic']
+                  '|steroid','[[ban]]', 'fandom ', 'A medication', 'prodrug', 'dated form of', '|dated', '{dated',
+                  'antibody', 'steroid', '|cytology', '|law', '|historic', "|physiology",
+                  'monophosphate', 'guanosine', 'amphetamine', 'antiprotozoal', 'antibacterial'
+                  'veterinary medicine', 'pharmacology', 'eye dialect', '|formal']
     for d in self.defs:
-      if any(xz in d for xz in badstrings):
+      if any(xz.lower() in d.lower() for xz in badstrings):
+        pass
+      elif " " not in d:
         pass
       else:
-        self.filtereddefs.append(d)
+        sp = d.split(' ')
+        if not any(len(k) in range(3,9) for k in sp):
+          # print d
+          pass
+        else:
+          self.filtereddefs.append(d)
     if len(self.filtereddefs) == 0:
       # print title
       return False
@@ -116,7 +130,7 @@ class Word:
 
     if self.pos == 'Verb':
       # print self.info
-      self.infolist = self.info.split('verb')[1].split('|')
+      self.infolist = self.info.split('verb')[1].split('}}')[0].split('|')
 
       #sometimes the 'obsolete' marker is listed in info rather than the defs
       # if it's one of the first three forms, shut it all down
@@ -180,7 +194,7 @@ class Word:
       elif len(self.infolist) == 2:
         self.textline += ('rt:'+(self.infolist[1].replace('}','').replace('\n','')))
       else:
-        self.textline += ('`'.join(self.infolist).replace('\n','').replace('}',''))
+        self.textline += ('`'.join(self.infolist).replace('\n','').replace('}','')).split('[')[0]
 
     #everybody gets an article
     self.textline += ('|||')
@@ -204,7 +218,7 @@ class Word:
     #elif
     if self.title[0].lower() in 'aeiou':
       usea = False
-      exceptionlist = ['usu', 'use', 'honor', 'honest', 'one-', 'one ']
+      exceptionlist = ['usu', 'use', 'honor', 'honest', 'one-', 'one ', 'hour']
       for item in exceptionlist:
         if self.title[:(len(item))].lower() == item:
           usea = not usea

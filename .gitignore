@@ -1,7 +1,7 @@
 authsec.py
 *.pyc
 /samsabot/index.*
-/samsabot/*.txt
-/samsabot/*.xml
+/samsabot/*/*.txt
+/samsabot/*/*.xml
 /samsabot/backup/*
-/samsabot/*.xml.*
+/samsabot/*/*.xml.*

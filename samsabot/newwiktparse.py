@@ -1,17 +1,17 @@
-
 import xmltodict
 import wiktword
 
-poslist = ['Verb', 'Adjective', 'Noun', 'Proper noun', 'Abbreviation', 'Past Participle', 'Present Participle']
+p = wiktword.Word('', '')
+poslist = p.poslist
 filelist = {}
 for p in poslist:
-    filelist[p] = open(p+'.txt', 'w')
+    filelist[p] = open('output/'+p+'.txt', 'w')
 
 
 for letterone in 'abcdefghijklmnopqr':
     for lettertwo in 'abcdefghijklmnopqrstuvwxyz':
       try:
-        x = open('wiktdict.xml.'+letterone+lettertwo)
+        x = open('dictionary/wiktdict.xml.'+letterone+lettertwo)
       except:
         continue
       data = x.read()
@@ -42,6 +42,10 @@ for letterone in 'abcdefghijklmnopqr':
         if not w.filterInfo():
           continue
         w.getMetaInfo()
+
+        if len(w.text) < 140:
+          # print w.title
+          continue
 
         # print w.textline
         filelist[w.pos].write(w.title)

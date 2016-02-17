@@ -22,4 +22,5 @@ l['Stand By Me'] = {'orig':"I was 12 going on %s the first time I saw a dead %s.
 l['Stand By Me']['reqs'] = [q.Quotereqs(pos="Noun"),q.Quotereqs(pos="Noun")]
 l['Metamorphosis'] = {'orig':"As Gregor Samsa awoke one morning from %s dreams he found himself transformed in his bed into %s %s."}
 l['Metamorphosis']['reqs'] = [q.Quotereqs(pos="Adjective", superl="not"),q.Quotereqs(pos="Adjective", needsarticle=True),q.Quotereqs(pos="Noun")]
-
+l['The Stranger'] = {'orig':"Mother died %s. Or maybe, %s; I can't be sure."}
+l['The Stranger']['reqs'] = [q.Quotereqs(pos="Adverb"),q.Quotereqs(pos="Adverb")]

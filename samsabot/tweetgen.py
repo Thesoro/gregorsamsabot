@@ -2,7 +2,7 @@ import random
 import quotesources
 import quotereqs
 
-title = "Moby Dick"
+title = "The Stranger"
 m = quotesources.l[title]
 reqs = m['reqs']
 orig = m['orig']

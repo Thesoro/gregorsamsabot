@@ -1,0 +1,238 @@
+been|||a
+begun|||a
+arisen|||an
+born|||a
+befallen|||a
+bitten|||a
+broken|||a
+chosen|||a
+drawn|||a
+driven|||a
+eaten|||an
+fallen|||a
+flown|||a
+foregone|||a
+foreseen|||a
+forgiven|||a
+gotten|||a
+given|||a
+gone|||a
+hidden|||a
+grown|||a
+drunken|||a
+lain|||a
+mistaken|||a
+outdone|||an
+outgrown|||an
+overeaten|||an
+overlain|||an
+overseen|||an
+overtaken|||an
+partaken|||a
+redone|||a
+rewritten|||a
+ridden|||a
+risen|||a
+seen|||a
+sewn|||a
+shaken|||a
+shown|||a
+sung|||a
+slain|||a
+sprung|||a
+stolen|||a
+stunk|||a
+strewn|||a
+stridden|||a
+striven|||a
+swum|||a
+torn|||a
+thrown|||a
+underlain|||an
+woken|||a
+begone|||a
+shewn|||a
+founded|||a
+dolven|||a
+unpacked|||an
+bidden|||a
+awoken|||an
+riven|||a
+doctored|||a
+sunk|||a
+undergone|||an
+sawn|||a
+humped|||a
+dashed|||a
+cloven|||a
+regretted|||a
+mown|||a
+betaken|||a
+sown|||a
+copywritten|||a
+thunk|||a
+brung|||a
+teed|||a
+overdrawn|||an
+holen|||a
+scuffed|||a
+outworn|||an
+swonken|||a
+begotten|||a
+awaked|||an
+comen|||a
+thriven|||a
+chidden|||a
+restricken|||a
+shriven|||a
+caved|||a
+clicked|||a
+revisited|||a
+surnamed|||a
+baken|||a
+hewed|||a
+recoiled|||a
+cautioned|||a
+recounted|||a
+retconned|||a
+bespoken|||a
+brayed|||a
+enthused|||an
+bolded|||a
+bestrewn|||a
+divulged|||a
+preshrunk|||a
+reworded|||a
+hooted|||a
+gagged|||a
+reopened|||a
+warbled|||a
+tingled|||a
+roved|||a
+fidgeted|||a
+eased|||an
+forborne|||a
+foreknown|||a
+misgiven|||a
+gone over|||a
+beaten up|||a
+spitten|||a
+blown up|||a
+thoughten|||a
+ybrought|||a
+ypight|||a
+reheard|||a
+gone bad|||a
+overflown|||an
+redrawn|||a
+taken care|||a
+given off|||a
+misdone|||a
+resown|||a
+slitten|||a
+dyun|||a
+acknown|||an
+outgone|||an
+rung off|||a
+fenced|||a
+forgone|||a
+reshelved|||a
+foresworn|||a
+flaunted|||a
+broken up|||a
+putten|||a
+jigsawn|||a
+regiven|||a
+arriven|||an
+broken in|||a
+brokedown|||a
+done up|||a
+done in|||a
+taken on|||a
+thrown up|||a
+coming in|||a
+ybegunne|||a
+ybent|||a
+ybought|||a
+rethrown|||a
+gone out|||a
+gone by|||a
+gone back|||a
+given in|||a
+got over|||a
+joyridden|||a
+infeft|||an
+akenned|||an
+sightseen|||a
+hagrid|||a
+done over|||a
+intaken|||an
+fallen over|||a
+seen in|||a
+underate|||an
+ybet|||a
+misthrown|||a
+outridden|||an
+disproven|||a
+rehidden|||a
+resewn|||a
+yrivd|||a
+outdriven|||an
+tooken|||a
+misgone|||a
+misseen|||a
+upthrown|||an
+woken up|||a
+foredone|||a
+blegged|||a
+arrowed|||an
+dritten|||a
+hearn|||a
+outsworn|||an
+reshaken|||a
+twilitten|||a
+preshown|||a
+gotten on|||a
+gone on|||a
+given her head|||a
+risen up|||a
+awrathed|||an
+outlain|||an
+ybound|||a
+yplight|||a
+overgone|||an
+yslain|||a
+shodden|||a
+gotten up|||a
+gotten to|||a
+updrawn|||an
+uptorn|||an
+beliven|||a
+caretaken|||a
+taken point|||a
+tricked out|||a
+upgrown|||an
+quethed|||a
+quethen|||a
+reawoken|||a
+bandsawn|||a
+thrung|||a
+farspoken|||a
+tobroken|||a
+sliven|||a
+growne|||a
+rechosen|||a
+setten|||a
+belain|||a
+hilited|||a
+wiredrawn|||a
+bedone|||a
+ycarried|||a
+fornumb|||a
+grayed-out|||a
+twoten|||a
+squozen|||a
+betrodden|||a
+misgrown|||a
+befrozen|||a
+sworn in|||a
