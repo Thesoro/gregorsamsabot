@@ -51,7 +51,7 @@ class samsatweet(webapp2.RequestHandler):
       logging.info(ppp)
 
     url = 'https://api.twitter.com/1.1/statuses/update.json?status='+urllib.quote_plus(f)
-    home_timeline = tweetposter.oauth_req( url, authsec.con_keyope, authsec.con_secretope, authsec.tok_keyope, authsec.tok_secretope)
+    home_timeline = tweetposter.oauth_req( url, authsec.con_keysam, authsec.con_secretsam, authsec.tok_keysam, authsec.tok_secretsam )
     logging.info(home_timeline)
     self.response.write('')
     logging.info('tweep!')
