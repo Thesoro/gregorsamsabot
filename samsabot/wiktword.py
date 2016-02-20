@@ -58,9 +58,9 @@ class Word:
 
   #removes definitions based on a number of criteria. we aim to remove obscure, obsolete, and archaic words
   def filterDefs(self):
-    badstrings = ['alternate spelling','|rare',
+    badstrings = ['alternate spelling','|rare', "|coding theory",
                   '{{alternate form', '|obsolete', 'archaic','|anatomy',
-                  'initialism',"{obsolete",'{{plural',
+                  'initialism',"{obsolete",'{{plural', 'enzyme'
                   'alternative form','alternative spelling', '|historic',
                   '|zoology','|entomology','|inorganic', '|organic',
                   '|biochemistry','|dated','genus', '{prefix','{suffix','|prefix','|suffix',
@@ -159,19 +159,47 @@ class Word:
 
     if self.pos == "Noun":
       is_countable = '|||'
-      if '{{en-noun' in self.text:
-        sect = self.text[self.text.find('{{en-noun'):]
-        nc = ['|-', '-}}']
-        sectb = self.text[:self.text.find('}}')+2]
-        if any(item in sectb for item in nc):
+      en = self.text.split('Noun===')[1].split('===')[0].split('{{en-noun')
+      pluralinfo = ''
+      if len(en) > 2:
+        # print('whoa whoops')
+        print self.title
+      if len(en) == 2:
+        pluralinfo = en[1].split('}}')[0]
+        if "-" in pluralinfo:
           is_countable += 'no'
-        elif "{{en-noun|~" in self.text:
+        elif "~" in pluralinfo:
           is_countable += 'both'
         else:
           is_countable += "yes"
       else:
         is_countable += "yes"
+
       self.textline += (is_countable)
+      self.textline += '`'
+
+      if "no" in is_countable:
+        self.textline += "n/a"
+
+      if any(x in is_countable for x in ["yes", "both"]):
+        l = pluralinfo.split('|')
+
+        if len(l) > 1:
+          l = l[1:]
+          toadd = "normal"
+          for item in l:
+            if any(x in item for x in ["~", "[["]):
+              continue
+            elif item == "s":
+              continue
+            else:
+              toadd = item
+              break
+          self.textline += toadd
+        else:
+          self.textline += 'normal'
+
+
 
       self.textline += ('|||'+str(self.plural))
 

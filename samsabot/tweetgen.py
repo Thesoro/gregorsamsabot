@@ -2,7 +2,7 @@ import random
 import quotesources
 import quotereqs
 
-title = "The Stranger"
+title = "Lolita"
 m = quotesources.l[title]
 reqs = m['reqs']
 orig = m['orig']
@@ -16,19 +16,26 @@ for l in range(0,len(reqs)):
     dupelist.append([l, a.dupe])
   else:
     pos = a.pos
-    z = open(pos+'.txt')
+    z = open('dictionary/'+pos+'.txt')
     x = z.readlines()
     valuechecks = False
     while not valuechecks:
       valuechecks = True
       num = random.randint(0,len(x)) - 1
       l = x[num][:-1].split('|||')
+      z = l.pop(1).split('`')
+      l = l[:1] + z + l[1:]
       word = l.pop(0)
       for f in a.valuesearchers:
         if f and not f in l or (f == "yes" and "both" not in l and "yes" not in l):
           valuechecks = False
       if a.needsarticle:
         word = l[-1]+ ' ' + word
+      if a.pluralform:
+        if l[1] == "normal" or len(l[1]) < len(word):
+          word += "s"
+        else:
+          word = l[1]
     words.append(word)
 
 for item in dupelist:

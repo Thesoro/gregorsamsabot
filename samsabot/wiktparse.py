@@ -5,13 +5,13 @@ p = wiktword.Word('', '')
 poslist = p.poslist
 filelist = {}
 for p in poslist:
-    filelist[p] = open('output/'+p+'.txt', 'w')
+    filelist[p] = open('dictionary/'+p+'.txt', 'w')
 
 
 for letterone in 'abcdefghijklmnopqr':
     for lettertwo in 'abcdefghijklmnopqrstuvwxyz':
       try:
-        x = open('dictionary/wiktdict.xml.'+letterone+lettertwo)
+        x = open('sourcedict/wiktdict.xml.'+letterone+lettertwo)
       except:
         continue
       data = x.read()
@@ -40,6 +40,9 @@ for letterone in 'abcdefghijklmnopqr':
         if not w.filterDefs():
           continue
         if not w.filterInfo():
+          continue
+        if title[0].isupper() and w.pos != "Proper noun":
+          print title
           continue
         w.getMetaInfo()
 

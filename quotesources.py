@@ -9,7 +9,7 @@ l['Hitchhiker\'s Guide to the Galaxy'] = {'orig':"In the beginning the %s was cr
 l['The Princess Bride'] = {'orig':"The year that Buttercup was born, the most %s woman in the world was %s %s named %s.", 'reqs':[q.Quotereqs(pos="Adjective", superl="not"), q.Quotereqs(pos="Adjective", superl="not", needsarticle=True), q.Quotereqs(pos='Noun',countmatters="yes"), q.Quotereqs(pos='Proper noun')]}
 l['The Long Dark Tea-Time of the Soul'] = {'orig':"It can hardly be a coincidence that no language on Earth has ever produced the phrase, \"as %s as %s\".", 'reqs':[q.Quotereqs(pos="Adjective", superl="not"),q.Quotereqs(pos='Noun',countmatters="yes", needsarticle=True)]}
 l['Fear and Loathing in Las Vegas'] = {'orig':"We were somewhere around Barstow on the edge of the %s when the %s began to take hold."}
-l['Fear and Loathing in Las Vegas']['reqs'] = [q.Quotereqs(pos="Noun"), q.Quotereqs(pos="Noun", plural="True")]
+l['Fear and Loathing in Las Vegas']['reqs'] = [q.Quotereqs(pos="Noun"), q.Quotereqs(pos="Noun", pluralform="True")]
 l['Scottish Beth'] = {'orig':"When shall we three meet again / In %s, %s, or in %s?"}
 l['Scottish Beth']['reqs'] = [q.Quotereqs(pos="Noun", countmatters="no"), q.Quotereqs(pos="Noun", countmatters="no"), q.Quotereqs(pos="Noun", countmatters="no")]
 l['Fahrenheit 451'] = {'orig':"It was %s to burn."}
@@ -24,3 +24,9 @@ l['Metamorphosis'] = {'orig':"As Gregor Samsa awoke one morning from %s dreams h
 l['Metamorphosis']['reqs'] = [q.Quotereqs(pos="Adjective", superl="not"),q.Quotereqs(pos="Adjective", needsarticle=True),q.Quotereqs(pos="Noun")]
 l['The Stranger'] = {'orig':"Mother died %s. Or maybe, %s; I can't be sure."}
 l['The Stranger']['reqs'] = [q.Quotereqs(pos="Adverb"),q.Quotereqs(pos="Adverb")]
+l['1984'] = {'orig':"It was a bright %s day in April, and the %s were striking thirteen."}
+l['1984']['reqs'] = [q.Quotereqs(pos="Adjective"),q.Quotereqs(pos="Noun", countmatters="yes", pluralform="True")]
+l['Pride and Prejudice'] = {'orig':"It is a truth universally acknowledged, that a single man in possession of a good %s, must be in want of %s."}
+l['Pride and Prejudice']['reqs'] = [q.Quotereqs(pos="Noun", countmatters="yes"),q.Quotereqs(pos="Noun", countmatters="yes", plural="False", needsarticle=True)]
+l['Lolita'] = {'orig':"Lolita, %s of my life, %s of my loins."}
+l['Lolita']['reqs'] = [q.Quotereqs(pos="Noun"),q.Quotereqs(pos="Noun")]
