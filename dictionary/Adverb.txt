@@ -1,9 +1,7 @@
-gratis|||a
 abasedly|||an
 abashedly|||an
 abeam|||an
 abed|||an
-abidingly|||an
 abjectly|||an
 abloom|||an
 ably|||an
@@ -21,14 +19,12 @@ abusively|||an
 abysmally|||an
 accidentally|||an
 accordingly|||an
-ASAP|||an
 because|||a
 currently|||a
 aflare|||an
 but|||a
 also|||an
 o'clock|||an
-outdoors|||an
 after|||an
 here|||a
 too|||a
@@ -39,7 +35,6 @@ almost|||an
 any|||an
 not|||a
 how|||a
-annually|||an
 weekly|||a
 however|||a
 handily|||a
@@ -59,15 +54,12 @@ when|||a
 then|||a
 though|||a
 ipso facto|||an
-acoustically|||an
 de facto|||a
-temporarily|||a
 yonder|||a
 forever|||a
 therefore|||a
 therefor|||a
 accusatively|||an
-unwisely|||an
 quickly|||a
 astray|||an
 smack-dab|||a
@@ -82,8 +74,6 @@ generically|||a
 laughingly|||a
 thence|||a
 briskly|||a
-per annum|||a
-not even|||a
 slowly|||a
 away|||an
 pizzicato|||a
@@ -94,10 +84,7 @@ triannually|||a
 less|||a
 whereby|||a
 semi-annually|||a
-scilicet|||a
-in spirit|||an
 whenever|||a
-leggero|||a
 out|||an
 actively|||an
 actually|||an
@@ -105,10 +92,8 @@ acutely|||an
 admirably|||an
 afoot|||an
 afore|||an
-afresh|||an
 presto|||a
 ahead|||an
-airily|||an
 ajar|||an
 alias|||an
 alongside|||an
@@ -121,7 +106,6 @@ always|||an
 amazingly|||an
 amen|||an
 amply|||an
-angrily|||an
 anon|||an
 anxiously|||an
 anyhow|||an
@@ -139,23 +123,16 @@ ritardando|||a
 clockwise|||a
 perhaps|||a
 maybe|||a
-politically|||a
-impatiently|||an
 radically|||a
 everywhere|||an
 nowhere|||a
 somewhere|||a
 anno Domini|||an
-morendo|||a
 legato|||a
 portato|||a
 arco|||an
-dolente|||a
 bareback|||a
-fortissimo|||a
-pianissimo|||a
 nowise|||a
-allegretto|||an
 allegrissimo|||an
 in person|||an
 off|||an
@@ -168,24 +145,14 @@ apace|||an
 pronto|||a
 oddly|||an
 quite|||a
-originally|||an
 per se|||a
 nowadays|||a
-ayen|||an
-ayein|||an
-axiomatically|||an
-axially|||an
 aweather|||an
 awfully|||an
-awhile|||an
 awing|||an
-awkly|||an
-availably|||an
-aversely|||an
 aside|||an
 herein|||a
 ad nauseam|||an
-cum laude|||a
 magna cum laude|||a
 usually|||a
 what about|||a
@@ -200,12 +167,8 @@ really|||a
 yea|||a
 suddenly|||a
 q.v.|||a
-in utero|||an
-anyroad|||an
 often|||an
 relatively|||a
-adagissimo|||an
-affrettando|||an
 unnecessarily|||an
 muy|||a
 generally|||a
@@ -217,7 +180,6 @@ alternatively|||an
 aloofly|||an
 rather|||a
 oft|||an
-ofter|||an
 askance|||an
 completely|||a
 elsewhere|||an
@@ -240,13 +202,10 @@ simply|||a
 syne|||a
 vicariously|||a
 nope|||a
-bluntly|||a
 ultimately|||an
-desirably|||a
 supra|||a
 infra|||an
 con sordino|||a
-commonly|||a
 similarly|||a
 roughly|||a
 hierarchically|||a
@@ -261,11 +220,9 @@ cowardly|||a
 therein|||a
 aborning|||an
 ante meridiem|||an
-fluently|||a
 contrariwise|||a
 hardly|||a
 otherwise|||an
-regularly|||a
 altruistically|||an
 selfishly|||a
 mostly|||a
@@ -279,16 +236,12 @@ caught behind|||a
 upward|||an
 clearly|||a
 forth|||a
-astride|||an
-dreadfully|||a
 beneath|||a
 nearly|||a
-indoors|||an
 swiftly|||a
 irrespective of|||an
 inside out|||an
 upside down|||an
-base over apex|||a
 exponentially|||an
 truly|||a
 normally|||a
@@ -304,16 +257,12 @@ easily|||an
 frequently|||a
 largely|||a
 typically|||a
-dynamically|||a
-previously|||a
-primarily|||a
 poorly|||a
 traditionally|||a
 amidships|||an
 ashore|||an
 astern|||an
 slightly|||a
-overly|||an
 naturally|||a
 initially|||an
 cordially|||a
@@ -324,7 +273,6 @@ fully|||a
 closely|||a
 strongly|||a
 subsequently|||a
-notably|||a
 hit wicket|||a
 publicly|||a
 head over heels|||a
@@ -336,20 +284,15 @@ off and on|||an
 scot-free|||a
 per contra|||a
 on top|||an
-punningly|||a
 hopefully|||a
-on tiptoe|||an
 one day|||a
 darkly|||a
 ordinarily|||an
 greatly|||a
-out-of-bounds|||an
 purposely|||a
 out of pocket|||an
-anytime|||an
 lately|||a
 outright|||an
-outwardly|||an
 properly|||a
 cheek by jowl|||a
 yah|||a
@@ -358,32 +301,21 @@ barely|||a
 basically|||a
 effectively|||an
 totally|||a
-historically|||a
 newly|||a
-whoever|||a
 wherever|||a
 entirely|||an
-what for|||a
-what is more|||a
-anally|||an
 briefly|||a
 rapidly|||a
 partly|||a
 wholly|||a
-erstwhile|||an
 formerly|||a
 willingly|||a
 attacca|||an
-allargando|||an
 somewhat|||a
 virtually|||a
-calumniously|||a
 allegedly|||an
 henceforward|||a
-therewithal|||a
-unawares|||an
 perfectly|||a
-partially|||a
 gradually|||a
 thusly|||a
 surely|||a
@@ -397,17 +329,14 @@ in a canter|||an
 technically|||a
 importantly|||an
 underneath|||an
-exclusively|||an
 all but|||an
 not at all|||a
 all the way|||an
 urgently|||an
-usefully|||a
 instantly|||an
 momentarily|||a
 precisely|||a
 fearfully|||a
-homeward|||a
 to boot|||a
 mildly|||a
 openly|||an
@@ -416,28 +345,23 @@ hella|||a
 purely|||a
 constantly|||a
 astronomically|||an
-extensively|||an
 abdominally|||an
 abstemiously|||an
 under the wire|||an
 downward|||a
 pro rata|||a
-arguably|||an
 kinda|||a
 noisily|||a
 sufficiently|||a
-unevenly|||an
 solely|||a
 in vain|||an
 alphabetically|||an
 stat|||a
 nights|||a
-supplely|||a
 afar|||an
 withershins|||a
 sincerely|||a
 empirically|||an
-espressivo|||an
 gingerly|||a
 drop-dead|||a
 clandestinely|||a
@@ -446,14 +370,9 @@ sine die|||a
 muchly|||a
 evilly|||an
 funnily|||a
-contra|||a
-just in time|||a
-upriver|||an
 uphill|||an
-securely|||a
 utterly|||an
 merely|||a
-indefinitely|||an
 every which way|||an
 patiently|||a
 scarcely|||a
@@ -463,12 +382,9 @@ plausibly|||a
 scientifically|||a
 quietly|||a
 plainly|||a
-exceedingly|||an
-continually|||a
 seriously|||a
 hastily|||a
 lightly|||a
-comparatively|||a
 justly|||a
 strangely|||a
 tutti|||a
@@ -480,31 +396,21 @@ firmly|||a
 en passant|||an
 safely|||a
 earnestly|||an
-silently|||a
 loudly|||a
 nevermore|||a
-never again|||a
-theoretically|||a
 thereabout|||a
 ab initio|||an
-pro per|||a
-a trifle|||an
-tightly|||a
 obviously|||an
 reasonably|||a
 bitterly|||a
 speedily|||a
 happily|||a
 passively|||a
-in twos|||an
 gleefully|||a
-joyfully|||a
 joyously|||a
 morally|||a
 sharply|||a
 gladly|||a
-calmly|||a
-all along|||an
 sadly|||a
 boldly|||a
 rightly|||a
@@ -524,12 +430,10 @@ singularly|||a
 wildly|||a
 vaguely|||a
 remarkably|||a
-warmly|||a
 seemingly|||a
 richly|||a
 expressly|||an
 intensely|||an
-dearly|||a
 painfully|||a
 carelessly|||a
 keenly|||a
@@ -538,9 +442,6 @@ privately|||a
 tolerably|||a
 assuredly|||an
 profoundly|||a
-neatly|||a
-perpetually|||a
-coldly|||a
 furiously|||a
 sorely|||a
 lastly|||a
@@ -550,55 +451,34 @@ vividly|||a
 nicely|||a
 delicately|||a
 doubly|||a
-hereafter|||a
-grumpily|||a
 elegantly|||an
 profusely|||a
-smexily|||a
-back and forth|||a
 at once|||an
 au naturel|||an
-thereat|||a
-therebefore|||a
 therewith|||a
 posthaste|||a
-spirally|||a
-scrofulously|||a
-breezily|||a
-wickedly|||a
 lawfully|||a
 terribly|||a
 o'er|||an
-jestingly|||a
 al desko|||an
 duly|||a
 enigmatically|||an
 asunder|||an
 all at once|||an
-Dei gratia|||a
-someday|||a
 halfway|||a
 au contraire|||an
 faintly|||a
-boorishly|||a
-over and above|||an
-candidly|||a
 figuratively|||a
 mutually|||a
 immensely|||an
 how come|||a
-tops|||a
 sexually|||a
 all over|||an
-evermore|||an
 recte|||a
 endwise|||an
 crazily|||a
 tardily|||a
-arm in arm|||an
-friendlily|||a
 prima facie|||a
-taciturnly|||a
 deeply|||a
 post meridiem|||a
 ab ovo|||an
@@ -606,81 +486,54 @@ a little|||an
 arsy varsy|||an
 doggy style|||a
 verily|||a
-of late|||an
 gey|||a
-all told|||an
 ideally|||an
-clumsily|||a
-definitively|||a
 forthwith|||a
 sunny side up|||a
 carefully|||a
 up one's sleeve|||an
 syntactically|||a
 haltingly|||a
-illegally|||an
 in lieu|||an
 legally|||a
 deliberately|||a
 incidentally|||an
 slambang|||a
-secretly|||a
 formally|||a
 idly|||an
-physically|||a
-excessively|||an
 unarguably|||an
 noticeably|||a
 medially|||a
-extravagantly|||an
 tonotopically|||a
-militarily|||a
-langsyne|||a
 upwards|||an
 proudly|||a
 adroitly|||an
-amicably|||an
-amiably|||an
 headlong|||a
 finely|||a
 zonally|||a
 narrowly|||a
-moderately|||a
 adequately|||an
 fabulously|||a
-madly|||a
 orally|||an
 economically|||an
-meagerly|||a
-meagrely|||a
-overtly|||an
-haughtily|||a
-deceitfully|||a
 purposefully|||a
 perspicaciously|||a
 jildi|||a
 profanely|||a
 ottava|||an
 quindicessima|||a
-to date|||a
 hypothetically|||a
 tactically|||a
 technologically|||a
 terminally|||a
-territorially|||a
 too much|||a
 con brio|||a
 topically|||a
-coitally|||a
-unluckily|||an
 on the fly|||an
-dimly|||a
 starkly|||a
 critically|||a
 casually|||a
 wrongly|||a
-vainly|||a
-as yet|||an
 aight|||an
 kitty-corner|||a
 doggedly|||a
@@ -689,63 +542,35 @@ in spades|||an
 diametrically|||a
 suspiciously|||a
 downhill|||a
-zestfully|||a
-zealously|||a
 in common|||an
 tacitly|||a
 someplace|||a
 sorta|||a
-glumly|||a
-anyplace|||an
-awkwardly|||an
-numismatically|||a
 shrewdly|||a
 macabrely|||a
 leastways|||a
 genetically|||a
 manyfold|||a
 dutifully|||a
-partway|||a
 downwards|||a
-raptly|||a
 wisely|||a
-winters|||a
-for good|||a
-artificially|||an
-awesomely|||an
 warily|||a
 hand in hand|||a
 face to face|||a
-innately|||an
 head to toe|||a
-merrily|||a
 laconically|||a
 lethally|||a
-above all|||an
-regrettably|||a
-lastingly|||a
 lavishly|||a
-forwards|||a
 harshly|||a
 lamely|||a
 languidly|||a
 legibly|||a
-licitly|||a
-lyrically|||a
-lucidly|||a
-lazily|||a
-lawlessly|||a
 learnedly|||a
-lambently|||a
 brightly|||a
 seawards|||a
-limply|||a
-loyally|||a
 out loud|||an
 kind of|||a
-lewdly|||a
 luridly|||a
-levelly|||a
 liberally|||a
 favorably|||a
 eternally|||an
@@ -754,40 +579,23 @@ chronologically|||a
 perennially|||a
 latterly|||a
 lushly|||a
-lankly|||a
 ironically|||an
-lengthily|||a
 horribly|||a
-logically|||a
-linearly|||a
 hugely|||a
-greedily|||a
 audibly|||an
-aptly|||an
 suitably|||a
 agreeably|||an
 fitly|||a
-sloppily|||a
 loosely|||a
 wryly|||a
 videlicet|||a
-laterally|||a
-austerely|||an
-chemically|||a
 longingly|||a
 longitudinally|||a
-lousily|||a
 vilely|||a
-commensurately|||a
-lineally|||a
 linguistically|||a
-loftily|||a
 stonily|||a
-cosily|||a
 daintily|||a
-defiantly|||a
 wantonly|||a
-socially|||a
 sociably|||a
 pliantly|||a
 feverishly|||a
@@ -797,149 +605,91 @@ slyly|||a
 cleverly|||a
 snugly|||a
 soundly|||a
-concisely|||a
-pithily|||a
 busily|||a
 drolly|||a
 adaptly|||an
 emotionally|||an
-like shit|||a
-unquestionably|||an
-arbitrarily|||an
 alarmingly|||an
 ad idem|||an
-mundanely|||a
 frighteningly|||a
-aliunde|||an
 more or less|||a
 seriatim|||a
 soberly|||a
 why not|||a
-afterward|||an
 ruefully|||a
 ever so|||an
 foolishly|||a
-nervously|||a
 nobly|||a
 falsely|||a
 back o' Bourke|||a
-oedipally|||an
-aimlessly|||an
-jointly|||a
 blindly|||a
 in all|||an
 scrupulously|||a
 obvi|||an
-knowingly|||a
 vastly|||a
 inwardly|||an
-dully|||a
 vulgo|||a
-leastwise|||a
-longways|||a
 genealogically|||a
 egregiously|||an
 quaintly|||a
 queerly|||a
 bawdily|||a
-stonedly|||a
 about time|||an
 incredibly|||an
 just now|||a
 metaphorically|||a
 as far as|||an
-deftly|||a
 fakely|||a
-al niente|||an
 unhappily|||an
 nohow|||a
-malleably|||a
-friably|||a
-frailly|||a
-infirmly|||an
-unfairly|||an
 statistically|||a
 alow|||an
 beerily|||a
 casuistically|||a
 glibly|||a
-avowedly|||an
 avoidably|||an
 aurally|||an
-augustly|||an
 adeptly|||an
 eruditely|||an
-adamantly|||an
 prob|||a
 amain|||an
 imputably|||an
 inexactly|||an
 impossibly|||an
-impiously|||an
 rashly|||a
-broadly|||a
-deep down|||a
 full tilt|||a
 popularly|||a
-irksomely|||an
-irefully|||an
-irately|||an
-inwards|||an
-inclusively|||an
-inversely|||an
-invalidly|||an
 on the down-low|||an
 sotto|||a
 hotly|||a
-uniformly|||an
 remotely|||a
 internally|||an
 daringly|||a
 scantily|||a
-sparingly|||a
-sparsely|||a
 symbolically|||a
-tractably|||a
 whene'er|||a
-frigidly|||a
 icily|||an
-jeah|||a
-radially|||a
 discretely|||a
-westbound|||a
-apically|||an
-resentingly|||a
 thenceforward|||a
-freshly|||a
 smartly|||a
-Mondayish|||a
 deasil|||a
-alee|||an
-divint|||a
 southwards|||a
 by and by|||a
 singly|||a
 as hell|||an
 vapidly|||a
 stoically|||a
-en pointe|||an
 fitfully|||a
 unsteadily|||an
-pettishly|||a
 nooit|||a
 symptomatically|||a
-tellingly|||a
 athwartships|||an
 fatally|||a
-vacantly|||a
-herewith|||a
-unreasonably|||an
 blessedly|||a
 howsoever|||a
 ominously|||an
 royally|||a
 variably|||a
-oftener|||an
 visibly|||a
 obiter|||an
 jocularly|||a
@@ -949,30 +699,18 @@ only just|||an
 ev'ry|||an
 da capo al fine|||a
 downstage|||a
-cheaply|||a
 understandably|||an
 minutely|||a
-endlessly|||an
-prevocalically|||a
 viscerally|||a
 argutely|||an
 aerially|||an
 aerodynamically|||an
 recklessly|||a
-tre corde|||a
 una corda|||an
-smorzando|||a
-comodo|||a
-sostenuto|||a
 afoul|||an
-affectingly|||an
 afield|||an
 in fact|||an
 just like that|||a
-algebraically|||an
-viciously|||a
-venally|||a
-verbally|||a
 verbosely|||a
 venturesomely|||a
 verdantly|||a
@@ -980,64 +718,37 @@ veritably|||a
 truthfully|||a
 sort of|||a
 eerily|||an
-amorally|||an
-regionally|||a
 anciently|||an
 noiselessly|||a
 alongshore|||an
 unduly|||an
-atypically|||an
-apishly|||an
-spaceward|||a
 subtly|||a
-globally|||a
-hot-hoof|||a
 materially|||a
 timidly|||a
 jovially|||a
-vocally|||a
 volubly|||a
-modestly|||a
-visually|||a
-asexually|||an
 nasally|||a
-nattily|||a
-hygienically|||a
 in no time|||an
-qualitatively|||a
 quantitatively|||a
-upwardly|||an
 urbanely|||an
-uselessly|||a
-ultrasonically|||an
 vacuously|||a
 variously|||a
-vitally|||a
-wanly|||a
 callously|||a
 per alia|||a
 reflexively|||a
 uncommonly|||an
 customarily|||a
-grossly|||a
 frightfully|||a
-here and now|||a
 dreckley|||a
-pneumatically|||a
-psychotically|||a
-indisputably|||an
 helplessly|||a
 squarely|||a
-squeakily|||a
 sympathetically|||a
 systemically|||a
 massively|||a
 astonishingly|||an
 ad absurdum|||an
 insomuch|||an
-hereon|||a
 famously|||a
-in short order|||an
 glaringly|||a
 blatantly|||a
 hereinabove|||a
@@ -1048,135 +759,77 @@ senza sordino|||a
 pointedly|||a
 drastically|||a
 brutally|||a
-portentously|||a
-potently|||a
-if need be|||an
-anywise|||an
 stoutly|||a
-ashamedly|||an
-racially|||a
-radiantly|||a
 artfully|||an
 in touch|||an
-wittily|||a
-wittingly|||a
 uneasily|||an
 smilingly|||a
 strikingly|||a
 excitedly|||an
 dryly|||a
-decently|||a
 hesitantly|||a
 regally|||a
 woodenly|||a
 wordily|||a
 worthily|||a
-raggedly|||a
-rhythmically|||a
-bionically|||a
-raucously|||a
 in goal|||an
-rankly|||a
 centrifugally|||a
 close to|||a
-ruinously|||a
 downwind|||a
-skilfully|||a
 endlong|||an
-aphoristically|||an
 archly|||an
 transparently|||a
-progressively|||a
 marginally|||a
-complexly|||a
 on hand|||an
 regretfully|||a
-religiously|||a
-mayhaps|||a
 overmuch|||an
 summarily|||a
-cheerily|||a
 meekly|||a
-en bloc|||an
-hereabout|||a
 flatly|||a
-sacredly|||a
 sagely|||a
-sanely|||a
-skyward|||a
 ethically|||an
-ergonomically|||an
 instanter|||an
 saucily|||a
-reversibly|||a
-no doubt|||a
-defo|||a
-gustily|||a
 seasonably|||a
-sedately|||a
 scantly|||a
-scarily|||a
-secus|||a
 in turn|||an
 secondarily|||a
-on the hour|||an
 toe-tappingly|||a
 ingeniously|||an
-palpably|||a
 serially|||a
-shabbily|||a
-shadily|||a
-sexily|||a
 tamely|||a
 roundly|||a
 garishly|||a
 guiltily|||a
 genially|||a
-sensually|||a
-separably|||a
 shortsightedly|||a
 thigh-high|||a
 slackly|||a
-tersely|||a
 in potentia|||an
 monotonously|||a
 glacially|||a
 sketchily|||a
 superbly|||a
-supremely|||a
 nocturnally|||a
 noway|||a
-slickly|||a
-stuffily|||a
 sturdily|||a
-breathily|||a
 staggeringly|||a
 thirdly|||a
-fourthly|||a
 wilfully|||a
 shockingly|||a
 slavishly|||a
 stunningly|||a
 piteously|||a
-achingly|||an
 mortally|||a
-stormily|||a
 unbelievably|||an
 straightly|||a
 in camera|||an
 pretentiously|||a
-hoarsely|||a
 centrally|||a
 certifiably|||a
-cagily|||a
-charily|||a
-classically|||a
 collaterally|||a
-spryly|||a
-sinfully|||a
 shoddily|||a
 thenceforwards|||a
-headfirst|||a
 crossed fingers|||a
 hands down|||a
 to a T|||a
@@ -1185,17 +838,12 @@ simplistically|||a
 literatim|||a
 plene|||a
 inbye|||an
-cuckoldly|||a
 outbye|||an
-sordidly|||a
 chastely|||a
 severally|||a
 all the time|||an
 nem. con.|||a
-chronically|||a
 off one's dot|||an
-affettuoso|||an
-insanely|||an
 not half|||a
 en banc|||an
 blithely|||a
@@ -1205,154 +853,89 @@ elsewhen|||an
 pro tanto|||a
 proverbially|||a
 sorrily|||a
-to scale|||a
 lyingly|||a
-needlessly|||a
-no longer|||a
 forasmuch|||a
 anywho|||an
-tartly|||a
 sho|||a
 believably|||a
 credibly|||a
-hotelward|||a
-farmward|||a
-hillward|||a
 heavenward|||a
-graveward|||a
-forestward|||a
-shipward|||a
-deathward|||a
-valleyward|||a
 chairward|||a
-schoolward|||a
 streetward|||a
-treeward|||a
-starward|||a
-moonward|||a
-clockward|||a
-crosslots|||a
 considerately|||a
 rhythmlessly|||a
 medically|||a
-immorally|||an
 markedly|||a
-contrarily|||a
-in principle|||an
 corporately|||a
 crudely|||a
 basely|||a
 off the rails|||an
-brusquely|||a
 breathtakingly|||a
-blindingly|||a
 nebulously|||a
-wallward|||a
 goalward|||a
-theretoward|||a
 defensibly|||a
 disingenuously|||a
-drably|||a
 ajog|||an
-andantino|||an
 undeniably|||an
 primly|||a
-integrally|||an
-phlegmatically|||a
 phenomenally|||a
-physiologically|||a
-pertly|||a
-petulantly|||a
-grudgingly|||a
 riotously|||a
 in specie|||an
-kitchenward|||a
-palatially|||a
 edgewise|||an
 embarrassingly|||an
-enviously|||an
 equivocally|||an
-unsafely|||an
-puckishly|||a
-hereinafter|||a
 long ago|||a
 pacifically|||a
 argal|||an
-apocalyptically|||an
 gratuitously|||a
 greenly|||a
-grandly|||a
 signally|||a
 diplomatically|||a
-no sweat|||a
 fantastically|||a
 fatuously|||a
 fair and square|||a
-on firecall|||an
 teetotally|||a
 totus porcus|||a
 coming on|||a
 facedown|||a
 face-down|||a
-in color|||an
-en clair|||an
-foxily|||a
 me three|||a
 testily|||a
-messily|||a
 inaudibly|||an
 give or take|||a
 meanly|||a
 timeously|||a
 distally|||a
-drily|||a
-haggardly|||a
 heedfully|||a
 hideously|||a
-rectally|||a
 immaculately|||an
 immaturely|||an
 immutably|||an
-impishly|||an
 inconsiderately|||an
 ex negativo|||an
 maturely|||a
 mercifully|||a
 to death|||a
-modernly|||a
 mordantly|||a
-neurally|||a
 observably|||an
-obscenely|||an
-dentally|||a
 opportunely|||an
-diurnally|||a
 eo nomine|||an
 insofar|||an
-day and night|||a
 motu proprio|||a
 riskily|||a
 unknowingly|||an
-Mondays|||a
 triply|||a
 reputedly|||a
 resoundingly|||a
-tenably|||a
-thriftily|||a
 tidily|||a
-textually|||a
-hawkishly|||a
 triennially|||a
 elsewhence|||an
 ad loc.|||an
 perkily|||a
 pickaback|||a
 bar none|||a
-maritally|||a
 majorly|||a
-on a whim|||an
 half-price|||a
-computationally|||a
 evolutionarily|||an
 even so|||an
 ripely|||a
@@ -1365,8 +948,6 @@ con sordini|||a
 senza sordini|||a
 summat|||a
 in rags|||an
-rotely|||a
-furioso|||a
 killingly|||a
 countably|||a
 by accident|||a
@@ -1375,181 +956,95 @@ ex nunc|||an
 ex tunc|||an
 lexically|||a
 mesially|||a
-abiotically|||an
 accursedly|||an
 door to door|||a
 by George|||a
 to the brim|||a
 for nothing|||a
 unwaveringly|||an
-a bit|||an
 a-tilt|||an
-confoundedly|||a
 ab aeterno|||an
-adultly|||an
 pressingly|||a
 thereatop|||a
 for keeps|||a
 in-off|||an
 courtside|||a
-jailward|||a
 uncountably|||an
 betides|||a
-all day|||an
-all night|||an
 wormily|||a
-nudely|||a
-cloyingly|||a
-airlessly|||an
-galactically|||a
-ruffianly|||a
-IINM|||an
 in force|||an
 as per usual|||an
 as usual|||an
-to arms|||a
 very much|||a
-whencever|||a
-with open arms|||a
-in private|||an
 hyar|||a
 whyever|||a
-alpinely|||an
 fastly|||a
 here and there|||a
 what if|||a
-afferently|||an
-efferently|||an
-alternatingly|||an
 since when|||a
-agedly|||an
 emulously|||an
 in esse|||an
 agley|||an
 in twain|||an
-step by step|||a
 animally|||an
-bedward|||a
-by foot|||a
-by walking|||a
-boringly|||a
 longly|||a
 pip emma|||a
-adoptedly|||an
-anticly|||an
-oxidatively|||an
-inklessly|||an
 in peace|||an
-aport|||an
-not quite|||a
-nourishingly|||a
 actuarially|||an
-inaptly|||an
-dropwise|||a
 uglily|||an
 de bene esse|||a
-face-up|||a
 whatsay|||a
 for now|||a
-cylindrically|||a
-deafly|||a
 good and|||a
-electorally|||an
 prenatally|||a
 posolutely|||a
-spectrally|||a
 nice and|||a
-coaxially|||a
 to a man|||a
 biblically|||a
 srsly|||a
-apostrophically|||an
 buffly|||a
 so much as|||a
-no less|||a
-by turns|||a
-sternwards|||a
 on sight|||an
 straight up|||a
 owtte|||an
-whereinto|||a
-hereat|||a
-hereinto|||a
 to the quick|||a
-quoad hunc|||a
-provably|||a
 ab extra|||an
 ab intra|||an
-ferally|||a
-anteriorly|||an
 posteriorly|||a
 on course|||an
 in good time|||an
-tectonically|||a
 assward|||an
-asswards|||an
-modificatory|||a
 pulverulently|||a
-collegiately|||a
-inferiorly|||an
-in chorus|||an
 soonish|||a
-all to smash|||an
-toto caelo|||a
-nuclearly|||a
-first of all|||a
 utmostly|||an
 abeat|||an
-weightily|||a
 no matter|||a
-in good spirits|||an
 for that matter|||a
-far and wide|||a
-drekly|||a
-in sheets|||an
 thataway|||a
 woolily|||a
 first thing|||a
 hard up|||a
-no'm|||a
 familially|||a
 costlessly|||a
 hissingly|||a
 buzzingly|||a
 bli neder|||a
-tartily|||a
 sluttily|||a
 apsidally|||an
 valuably|||a
 tailor-fashion|||a
 owlishly|||an
 handedly|||a
-tandemly|||a
 suicidally|||a
 orbitally|||an
-anterogradely|||an
 blurrily|||a
-howso|||a
-chicly|||a
-milkily|||a
-gamily|||a
-growingly|||a
 in parallel|||an
-scrappily|||a
 bracingly|||a
 narratively|||a
-wincingly|||a
-damningly|||a
 virally|||a
 from A to Z|||a
-unilingually|||an
 compositionally|||a
-zestily|||a
 relatedly|||a
-unreally|||an
-even as|||an
-wackily|||a
-boomingly|||a
 cakily|||a
 presumptively|||a
 bulgingly|||a
@@ -1562,39 +1057,26 @@ surreally|||a
 crashingly|||a
 sunnily|||a
 upcourt|||an
-nomadically|||a
 numbingly|||a
-disynaptically|||a
-unvaryingly|||an
 virilely|||a
 riffwise|||a
 feistily|||a
 zingingly|||a
-ternarily|||a
-florally|||a
-meltingly|||a
 by sail|||a
 by steam|||a
-dismayingly|||a
-dry-shod|||a
 clonally|||a
 that is|||a
 as fuck|||an
 by owner|||a
 sexlessly|||a
-imprimis|||an
 no end|||a
 archivally|||an
 standardly|||a
 smellily|||a
 midphrase|||a
-informationally|||an
-intracerebrally|||an
 downcourt|||a
 blazingly|||a
-sinlessly|||a
 midstride|||a
-metallically|||a
 piecewise|||a
 sheerly|||a
 facefirst|||a
@@ -1606,176 +1088,81 @@ phonewise|||a
 in the air|||an
 minorly|||a
 somewhen|||a
-marshily|||a
-swampily|||a
 aswirl|||an
-in any case|||an
 pityingly|||a
-by gum|||a
 thumpingly|||a
 fawningly|||a
-reusably|||a
 redly|||a
 brumously|||a
 losingly|||a
-sunlessly|||a
-erasably|||an
 quotably|||a
-tiringly|||a
 yawningly|||a
-stretchily|||a
 as a rule|||an
-leglessly|||a
-brainily|||a
-pervadingly|||a
-abradingly|||an
 cringingly|||a
 if you will|||an
-parodically|||a
 aborally|||an
 flamingly|||a
 doughily|||a
-sugarily|||a
-howlingly|||a
 fluffily|||a
-spoonily|||a
-loopily|||a
 holily|||a
-shoelessly|||a
 postally|||a
 acephalously|||an
 dapperly|||a
 forthy|||a
-headachingly|||a
-boxily|||a
-waxily|||a
-slangily|||a
 skeletally|||a
-sandily|||a
-uneatably|||an
-inedibly|||an
 yuckily|||a
 in detail|||an
-uncasually|||an
-still and all|||a
 foppishly|||a
 bulkwise|||a
 raspingly|||a
-raspily|||a
 leanly|||a
 nervily|||a
 dustily|||a
 slinkily|||a
 smuttily|||a
-seedily|||a
 fractally|||a
-soupily|||a
-blastedly|||a
-to an extent|||a
 unseeably|||an
-godlessly|||a
-gluily|||a
-sarkily|||a
 sizewise|||a
-darlingly|||a
-jammily|||a
-flukily|||a
 froggily|||a
-sappily|||a
-naifly|||a
 yellowly|||a
 bluely|||a
-pinkly|||a
 unfussily|||an
-fecally|||a
-ungently|||an
-ponderingly|||a
-cheeringly|||a
-hereish|||a
 untenably|||an
 classicly|||a
-vagally|||a
-foodwise|||a
 knottily|||a
 pantingly|||a
-neuronally|||a
 mauka|||a
 makai|||a
-shoppily|||a
 midset|||a
-jitterily|||a
-gutsily|||a
-joltily|||a
-bumpingly|||a
 somewhy|||a
 by God|||a
 limbmeal|||a
-mapwise|||a
-echoingly|||an
-servilely|||a
 thereover|||a
-hereinunder|||a
-mincingly|||a
-popishly|||a
 up and|||an
 evar|||an
 peachily|||a
 whereabout|||a
 gainwise|||a
-inkily|||an
-bogusly|||a
 orthodoxly|||an
-pelagically|||a
-homologously|||a
-dermally|||a
-hushedly|||a
-gutlessly|||a
-flakily|||a
-sneerily|||a
 fuckingly|||a
-Irishly|||an
 abandonly|||an
-evitably|||an
-swayingly|||a
-dancingly|||a
-jabbingly|||a
 of all|||an
-jumpingly|||a
-jointedly|||a
-joltingly|||a
 babishly|||a
-goatishly|||a
-oozily|||an
-gaplessly|||a
 kindlily|||a
-artsily|||an
-costally|||a
-runically|||a
 in stride|||an
 mediately|||a
-in sum|||an
-to a hair|||a
-mopily|||a
 otherways|||an
 flat chat|||a
 warningly|||a
-dispersively|||a
 unably|||an
-decadally|||a
 unripely|||an
 ostensively|||an
-gulpingly|||a
-IPOF|||an
 curvingly|||a
-undyingly|||an
 clunkily|||a
-by ear|||a
 feet first|||a
 punkily|||a
 beamingly|||a
 cultishly|||a
-untiredly|||an
-pickily|||a
 hiply|||a
 agewise|||an
 rousingly|||a
@@ -1784,11 +1171,8 @@ foothot|||a
 chokingly|||a
 deucedly|||a
 if, as and when|||an
-snakewise|||a
 airly|||an
-derivationally|||a
 spoonwise|||a
-corkingly|||a
 sous-vide|||a
 taxwise|||a
 summatively|||a
@@ -1796,87 +1180,41 @@ nowhile|||a
 no while|||a
 combwise|||a
 opere citato|||an
-arrantly|||an
 shorthandedly|||a
-salinely|||a
 slopewise|||a
 tablewise|||a
 mauvely|||a
 australly|||an
 slippily|||a
-tentwise|||a
-boreally|||a
 fragilely|||a
 spinward|||a
 praps|||a
-half-monthly|||a
-labially|||a
-dartingly|||a
 slenderly|||a
 for once|||a
-ileally|||an
-scaringly|||a
-cursingly|||a
 swollenly|||a
-rumoredly|||a
-snobbily|||a
-resultantly|||a
-I must say|||an
 flourily|||a
-limpingly|||a
 cantingly|||a
 honkingly|||a
 arriswise|||an
-bendwise|||a
-anglewise|||an
-fesswise|||a
 flatwise|||a
-gatewise|||a
-spongily|||a
-colorwise|||a
 invariantly|||an
-currishly|||a
-blotchily|||a
-pricily|||a
 cloudwise|||a
-soaringly|||a
-juttingly|||a
-erringly|||an
 definably|||a
 ogreishly|||an
-saltly|||a
-timewise|||a
 waterward|||a
-muffledly|||a
 more and more|||a
-egoically|||an
 for pity's sake|||a
-toroidally|||a
-smokily|||a
 decimally|||a
 roomwise|||a
-roomily|||a
-variationally|||a
-cranially|||a
 wealthily|||a
 huggably|||a
 tetchily|||a
-barrierlessly|||a
-polarly|||a
 saleswise|||a
 blobbily|||a
 in a walk|||an
 meaningly|||a
-pouringly|||a
-sidlingly|||a
-slidingly|||a
 glimmeringly|||a
-crimsonly|||a
-choosily|||a
 uneagerly|||an
-spreadingly|||a
-be it as it may|||a
-oologically|||an
 alarmedly|||an
 filmily|||a
 gawpingly|||a
@@ -1886,67 +1224,34 @@ if you like|||an
 comelily|||a
 artwise|||an
 knobbily|||a
-puzzledly|||a
 once more|||an
 willy-nilly|||a
 doglessly|||a
-refractively|||a
-violably|||a
 toastily|||a
 whoopingly|||a
 nerehonde|||a
-viscidly|||a
-kawaiily|||a
-condolingly|||a
 per accidens|||a
 lookswise|||a
-in exchange|||an
-parabolically|||a
 like that|||a
-accusably|||an
-blamably|||a
 kickingly|||a
-on the bias|||an
 'course|||a
-jerkingly|||a
-abridgedly|||an
-yappingly|||a
-barkingly|||a
 thisaway|||a
 ex professo|||an
-unnotedly|||an
-itchingly|||an
 indepthly|||an
-piningly|||a
 lip-smackingly|||a
-loonily|||a
-dewily|||a
 tomorn|||a
-nonsimply|||a
 yowlingly|||a
 catwise|||a
 cupwise|||a
 lashwise|||a
-varyingly|||a
-stageside|||a
 sackwise|||a
 dogwise|||a
 teamwise|||a
 wontedly|||a
-unsuspectedly|||an
-noplace|||a
-plurally|||a
-nowheres|||a
-conductively|||a
 for one|||a
 batspit|||a
 thighward|||a
-windily|||a
 testingly|||a
-tryptically|||a
-acausally|||an
-plankwise|||a
-ad verbum|||an
 manwise|||a
 boxwise|||a
 mindedly|||a
@@ -1956,93 +1261,57 @@ ocularly|||an
 bangingly|||a
 cashwise|||a
 any more|||an
-japingly|||a
 foamingly|||a
 arsy versy|||an
 perzactly|||a
-luminally|||a
 hackingly|||a
-epidermally|||an
 stiltedly|||a
-yes-huh|||a
-wailingly|||a
-whiningly|||a
-droningly|||a
-moaningly|||a
-mopingly|||a
-teemingly|||a
 roaringly|||a
 reelingly|||a
-fortifyingly|||a
-moneywise|||a
 inchmeal|||an
 featly|||a
 gushingly|||a
 momently|||a
 ritzily|||a
 doughtily|||a
-anywhen|||an
 greenward|||a
 vicibus|||a
 militarywise|||a
 inter nos|||an
 yance|||a
-ovally|||an
-biaxially|||a
 dishily|||a
-preppily|||a
-dampingly|||a
-wakingly|||a
 plantwise|||a
 half-naked|||a
-ASAHP|||an
-with pleasure|||a
 fallingly|||a
-in jest|||an
 in one's tracks|||an
 for cause|||a
-no pun intended|||a
 toyear|||a
 tearingly|||a
 swingingly|||a
 rawly|||a
 oxishly|||an
 loadsa|||a
-TTR|||a
 to the rescue|||a
 slap bang|||a
 silkenly|||a
 pagemeal|||a
-unwearily|||an
 leafmeal|||a
-murally|||a
-as in|||an
 clawingly|||a
 mouthward|||a
-mouthwards|||a
-doggily|||a
-frozenly|||a
-queryingly|||a
 obvs|||an
 hereaway|||a
 looard|||a
 unfitly|||an
 nameably|||a
 gnawingly|||a
-bipedally|||a
 datedly|||a
-denyingly|||a
-up above|||an
-shopwards|||a
-damn well|||a
 lashingly|||a
 memoriter|||a
 head-first|||a
 head first|||a
-in dern|||an
-silentiously|||a
 fore and aft|||a
 full well|||a
+fully well|||a
 ylike|||a
 herostratically|||a
 in flames|||an
@@ -2051,7 +1320,6 @@ gonadally|||a
 bookwise|||a
 en femme|||an
 midrun|||a
-punily|||a
 midstep|||a
 midleap|||a
 lullingly|||a
@@ -2060,15 +1328,10 @@ snippily|||a
 beachward|||a
 puerilely|||a
 hearingly|||a
-elfishly|||an
-leafily|||a
 donnishly|||a
 midbite|||a
 midtrip|||a
-achily|||an
 pulsingly|||a
-veeringly|||a
-windingly|||a
 up and down|||an
 forcedly|||a
 steamily|||a
@@ -2079,22 +1342,16 @@ knavishly|||a
 lapward|||a
 wirily|||a
 mayorally|||a
-leapingly|||a
 leggily|||a
 daffily|||a
 lickably|||a
-yesterweek|||a
 tastewise|||a
 plightly|||a
 nobbily|||a
-nippingly|||a
 as it is|||an
-ratherish|||a
 yawingly|||a
 superly|||a
-a treat|||an
 wantingly|||a
-by rail|||a
 yarely|||a
 bedeen|||a
 fornigh|||a
@@ -2108,7 +1365,6 @@ youthward|||a
 dividedly|||a
 estimably|||an
 saggingly|||a
-meedfully|||a
 swoonily|||a
 midplay|||a
 livingly|||a
@@ -2116,27 +1372,15 @@ slurrily|||a
 tearily|||a
 uptightly|||an
 loomingly|||a
-glidingly|||a
-woundedly|||a
 palatably|||a
-patly|||a
 evenlong|||an
 storywise|||a
-laggingly|||a
-fungally|||a
 midshower|||a
-benow|||a
 balls-deep|||a
-rulingly|||a
-rushingly|||a
 late on|||a
-ducally|||a
 clingily|||a
-bakingly|||a
 ruthfully|||a
 codewise|||a
-funlessly|||a
-weavingly|||a
 as much|||an
 vexedly|||a
 venially|||a
@@ -2144,30 +1388,18 @@ unmixedly|||an
 unhumanly|||an
 upbraidingly|||an
 straitly|||a
-lustingly|||a
-in the least|||an
 prosily|||a
 inchingly|||an
-derivably|||a
 godlily|||a
-edgingly|||an
 vagrantly|||a
-dyingly|||a
 anend|||an
 primely|||a
-odically|||an
 unmeetly|||an
 hopingly|||a
-eathly|||an
 underwise|||an
-enstantly|||an
-nutritively|||a
-helpingly|||a
-preverbally|||a
 not really|||a
 for one's life|||a
 wontly|||a
-wavily|||a
 rantingly|||a
 flatlong|||a
 coercibly|||a
@@ -2176,273 +1408,130 @@ lifeward|||a
 up the aisle|||an
 with one voice|||a
 non divisi|||a
-thruly|||a
 savourily|||a
 to one's mind|||a
-cortically|||a
 atself|||an
 houseward|||a
 heapmeal|||a
-narcotically|||a
-hackishly|||a
-hulkingly|||a
 pertineer|||a
-struttingly|||a
-mixedly|||a
 manshiply|||a
 agrope|||an
 flatling|||a
 dry-foot|||a
-stackably|||a
-intracardially|||an
-rubbingly|||a
 annis Domini|||an
-sundrily|||a
-in transition|||an
 needwise|||a
-needways|||a
-tactilely|||a
 blondly|||a
 mewingly|||a
 defyingly|||a
-racingly|||a
-chalkily|||a
-unitingly|||an
-hindward|||a
 wastingly|||a
 suckingly|||a
-tactually|||a
-eggily|||an
 racistly|||a
 yearward|||a
 campward|||a
-follicly|||a
 rangily|||a
 peeringly|||a
 draggingly|||a
 in total|||an
-at school|||an
 cryingly|||a
 leaningly|||a
-idlingly|||an
 hidelings|||a
 hidingly|||a
 orpedly|||an
-in the open|||an
 genocidally|||a
-plummily|||a
 pubwards|||a
 frowardly|||a
-frontwise|||a
 ruddily|||a
 yestersol|||a
-urgingly|||an
 sniffingly|||a
-peltingly|||a
-freezingly|||a
 leadingly|||a
-coolingly|||a
-rockingly|||a
-luringly|||a
-crowingly|||a
-crawlingly|||a
 twiningly|||a
-underlyingly|||an
-pipingly|||a
-noddingly|||a
 oncet|||an
-waterily|||a
 evenward|||an
 ab absurdo|||an
 a baculo|||an
-unregally|||an
-geekishly|||a
 a bene placito|||an
 above the line|||an
 areally|||an
-hedgingly|||a
 callingly|||a
 insidely|||an
 tunably|||a
-neoplastically|||a
-rifely|||a
 failingly|||a
 dabblingly|||a
 grazingly|||a
-potteringly|||a
-siftingly|||a
-playingly|||a
-reekingly|||a
-scamblingly|||a
-jawbreakingly|||a
 salivatingly|||a
 but good|||a
 gaggingly|||a
 like to|||a
-interlinearly|||an
 stepmeal|||a
 footmeal|||a
-lissomely|||a
-slicingly|||a
-trickly|||a
 steply|||a
 majoritively|||a
-loopingly|||a
-craniodentally|||a
-knitwise|||a
 aberrationally|||an
-naffly|||a
-vascularly|||a
 uberly|||an
-hoppingly|||a
-Germanly|||a
-Spanishly|||a
-Britishly|||a
-Chinesely|||a
 abob|||an
-gazingly|||a
-sympatrically|||a
 everwhere|||an
-now-now|||a
-fizzingly|||a
-virologically|||a
 hand over hand|||a
-nonnormally|||a
-ack emma|||an
 umbestound|||an
 aburton|||an
-ab utili|||an
 unlovably|||an
 brathly|||a
-exploitably|||an
 raw dog|||a
 arselong|||an
-mardily|||a
-tollingly|||a
-skitteringly|||a
-decliningly|||a
-up north|||an
 denotatively|||a
-unloyally|||an
-intrapersonally|||an
 if not|||an
-bedazzlingly|||a
-Romewards|||a
 blamingly|||a
 on one's plate|||an
-Greekly|||a
-any day|||an
-natally|||a
 whitherto|||a
 huefully|||a
 listingly|||a
-confirmably|||a
-dumpishly|||a
-sunny side down|||a
-unabatingly|||an
 fearingly|||a
 unfainly|||an
-mediumly|||a
-energizingly|||an
-crystally clear|||a
 crystally|||a
-ashily|||an
 sub voce|||a
-warmingly|||a
 as a whole|||an
-guidably|||a
 yuppity|||a
 yeppity|||a
-soppingly|||a
-palatally|||a
 guffawingly|||a
-crampedly|||a
-herbally|||a
-jostlingly|||a
-pausally|||a
 frontways|||a
 zoomorphically|||a
-mousily|||a
 vegetably|||a
 winefully|||a
-pettingly|||a
 womanward|||a
-practisedly|||a
-basiswise|||a
-by now|||a
-tangily|||a
-graphetically|||a
 by halves|||a
-almost surely|||an
 midword|||a
 brownly|||a
-apurpose|||an
-unaptly|||an
-annoyedly|||an
 workwise|||a
 pleeease|||a
 summerily|||a
 elseweb|||an
 doomfully|||a
 flyingly|||a
-ad eundem|||an
-naturedly|||a
 dirtside|||a
-votively|||a
 4ever|||a
 4eva|||a
 4evah|||a
 5ever|||a
-metri gratia|||a
 on the order of|||an
-moodwise|||a
 brinily|||a
-boundenly|||a
 in play|||an
-ternately|||a
 hopeably|||a
-how no|||a
 askingly|||an
-lothly|||a
-nodally|||a
 tokenwise|||a
-midbeat|||a
 primally|||a
-burpingly|||a
 thusfore|||a
-questward|||a
 quicklike|||a
-first up|||a
 first off|||a
-tonologically|||a
 elseward|||an
-Heepishly|||a
-agnatically|||an
-aimfully|||an
 floorwise|||a
 pubicly|||a
 hirsutely|||a
 pubically|||a
 headedly|||a
 spreadly|||a
-unpromptedly|||an
-unfondly|||an
-shitlessly|||a
-forsakenly|||a
 unfreely|||an
-proposedly|||a
-hither and yon|||a
-gradably|||a
 sodomitically|||a
-tubbily|||a
 nuancedly|||a
-partwise|||a
-house right|||a
-house left|||a
-en homme|||an
 warfully|||a
-antigodlin|||an
-somedays|||a
 high-heartedly|||a
 open-heartedly|||an
 evenlike|||an
@@ -2450,25 +1539,13 @@ stoutheartedly|||a
 strongheartedly|||a
 double-handedly|||a
 forehandedly|||a
-guttatim|||a
-haptically|||a
-many-handedly|||a
-veiledly|||a
-intertidally|||an
-exogenically|||an
-oversimply|||an
-infeasibly|||an
-one-handedly|||a
 lemmatically|||a
 red-handedly|||a
 nosewise|||a
 pivotably|||a
 lockingly|||a
-Marxianly|||a
 gospely|||a
 eenamost|||an
-undivinely|||an
-nonwaywardly|||a
 feetfirst|||a
 piggily|||a
 nomically|||a
@@ -2476,41 +1553,31 @@ overally|||an
 midsolo|||a
 awarely|||an
 bruisably|||a
-fatheadedly|||a
 nowhence|||a
 vinously|||a
 in state|||an
 dickishly|||a
 jerkishly|||a
 loc. cit.|||a
-striatally|||a
 everwhen|||an
 midbattle|||a
-veristically|||a
 posily|||a
 bipolarly|||a
-'nough|||a
 stylewise|||a
 on the|||an
 midtap|||a
 lectically|||a
-all of|||an
 eye-wateringly|||an
 rackingly|||a
 sextually|||a
-upthread|||an
-overfast|||an
 wonkishly|||a
-footlessly|||a
 pixelwise|||a
 parchedly|||a
 shoalwise|||a
 nascently|||a
 tagwise|||a
-Romanly|||a
 tidely|||a
 opposably|||an
 lordishly|||a
 firstable|||a
 lordfully|||a
-qualifyingly|||a

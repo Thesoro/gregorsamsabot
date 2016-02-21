@@ -33,6 +33,7 @@ for letterone in 'abcdefghijklmnopqr':
         else:
           continue
 
+
         w = wiktword.Word(title, text)
         if not w.checkPartOfSpeech():
           continue
@@ -42,7 +43,7 @@ for letterone in 'abcdefghijklmnopqr':
         if not w.filterInfo():
           continue
         if title[0].isupper() and w.pos != "Proper noun":
-          print title
+          # print title
           continue
         w.getMetaInfo()
 

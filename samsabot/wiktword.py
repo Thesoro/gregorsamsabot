@@ -8,7 +8,6 @@ class Word:
     self.pos = None
     self.poslist = ['Verb', 'Adjective', 'Noun', 'Proper noun', 'Abbreviation', 'Past Participle', 'Present Participle', 'Adverb']
 
-
     self.defs = []
     self.filtereddefs = []
     self.plural = False
@@ -26,7 +25,10 @@ class Word:
     if self.title[0:4].lower() == "the ":
       return False
     if any(x in self.text.lower() for x in ["{{webster}}", "{{webster 1913}}"]):
-      # print self.title
+      return False
+    if len(self.text) < 300:
+      print self.title
+      print len(self.text)
       return False
 
     pospositions = {}
@@ -39,7 +41,6 @@ class Word:
 
     if pospositions:
       self.pos = min(pospositions, key=pospositions.get)
-
 
     return self.pos
 
@@ -55,6 +56,7 @@ class Word:
         end = i
     d = d[:end+1].encode('utf8', 'replace')
     self.defs = d.split('# ')
+
 
   #removes definitions based on a number of criteria. we aim to remove obscure, obsolete, and archaic words
   def filterDefs(self):

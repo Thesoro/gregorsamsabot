@@ -23,7 +23,6 @@ Esperanto|||an
 hell|||a
 NATO|||a
 BBC|||a
-DOS|||a
 Iraq|||an
 Eurovision|||an
 Belgium|||a
@@ -59,7 +58,6 @@ Armenia|||an
 Angola|||an
 Bulgaria|||a
 Bahrain|||a
-Burundi|||a
 Bolivia|||a
 Brazil|||a
 Bahamas|||a
@@ -75,7 +73,6 @@ Colombia|||a
 Cuba|||a
 Cape Verde|||a
 Cyprus|||a
-Djibouti|||a
 Denmark|||a
 Ecuador|||an
 Spain|||a
@@ -96,7 +93,6 @@ Jamaica|||a
 Kenya|||a
 Cambodia|||a
 Kiribati|||a
-Comoros|||a
 Kuwait|||a
 Laos|||a
 Lebanon|||a
@@ -116,7 +112,6 @@ Nicaragua|||a
 French|||a
 Nepal|||a
 Nauru|||a
-Oman|||an
 Panama|||a
 Peru|||a
 Pakistan|||a
@@ -132,7 +127,6 @@ Slovakia|||a
 San Marino|||a
 Senegal|||a
 Syria|||a
-Swaziland|||a
 Chad|||a
 Togo|||a
 Thailand|||a
@@ -145,35 +139,26 @@ Uruguay|||an
 Venezuela|||a
 Vietnam|||a
 Yemen|||a
-Zambia|||a
 Zimbabwe|||a
 Interlingua|||an
 Australia|||an
-Aruba|||an
 Barbados|||a
 Benin|||a
 Brunei|||a
 Belarus|||a
 Vanuatu|||a
-Tuvalu|||a
 Achilles|||an
 Wales|||a
 East Timor|||an
 Suriname|||a
-Somalia|||a
 Sri Lanka|||a
-South Korea|||a
 Russia|||a
-Réunion|||a
 Palau|||a
-Niue|||a
-Lesotho|||a
 Kyrgyzstan|||a
 Indo-European|||an
 Jupiter|||a
 Congo|||a
 Ivory Coast|||an
-Cook Islands|||a
 Croatia|||a
 Dominica|||a
 Fiji|||a
@@ -185,9 +170,7 @@ Moldova|||a
 Myanmar|||a
 Burma|||a
 Western Sahara|||a
-Svalbard|||a
 Bermuda|||a
-Mayotte|||a
 Micronesia|||a
 Guam|||a
 Grenada|||a
@@ -197,7 +180,6 @@ Icelandic|||an
 Macedonia|||a
 Taiwan|||a
 Catalonia|||a
-Cayman Islands|||a
 England|||an
 NASDAQ|||a
 Chinese|||a
@@ -209,14 +191,12 @@ Polari|||a
 Unicode|||an
 Volapük|||a
 Castilian|||a
-Qiana|||a
 Montreal|||a
 Amy|||an
 Korea|||a
 earth|||an
 Thai|||a
 Norwegian|||a
-Slovio|||a
 Afrikaans|||an
 Yahweh|||a
 Jehovah|||a
@@ -225,7 +205,6 @@ Abdera|||an
 New South Wales|||a
 Queensland|||a
 Tasmania|||a
-Amazonas|||an
 Paraná|||a
 Alberta|||an
 Saskatchewan|||a
@@ -235,40 +214,26 @@ Nova Scotia|||a
 Newfoundland|||a
 Nunavut|||a
 Punjab|||a
-Haryana|||a
 Chandigarh|||a
 Delhi|||a
 Uttaranchal|||an
-Uttar Pradesh|||an
 Sikkim|||a
 West Bengal|||a
 Bihar|||a
-Jharkhand|||a
 Orissa|||an
 Assam|||an
-Nagaland|||a
 Manipur|||a
 Mizoram|||a
-Tripura|||a
-Meghalaya|||a
-Tamil Nadu|||a
-Pondicherry|||a
 Kerala|||a
-Karnataka|||a
-Lakshadweep|||a
-Goa|||a
 Maharashtra|||a
 Gujarat|||a
 Rajasthan|||a
-Daman and Diu|||a
 Madhya Pradesh|||a
-Chhattisgarh|||a
 United Nations|||an
 Canberra|||a
 Sydney|||a
 Brisbane|||a
 Darwin|||a
-Perth|||a
 Adelaide|||an
 Melbourne|||a
 Hobart|||a
@@ -279,68 +244,32 @@ Halifax|||a
 Charlottetown|||a
 Saint John's|||a
 Iqaluit|||an
-Yellowknife|||a
-Whitehorse|||a
 Ottawa|||an
-Salvador|||a
-Aracaju|||an
 Guaraní|||a
-Tupinambá|||a
 Basque|||a
 UTC|||an
 Johor|||a
-Kedah|||a
-Kelantan|||a
 Malacca|||a
-Negeri Sembilan|||a
-Pahang|||a
 Penang|||a
-Perlis|||a
-Sabah|||a
-Sarawak|||a
-Selangor|||a
 Kuala Lumpur|||a
 Putrajaya|||a
-Labuan|||a
 British|||a
 Leon|||a
-Port Blair|||a
 Hyderabad|||a
-Patna|||a
-Silvassa|||a
 Daman|||a
-New Delhi|||a
-Gandhinagar|||a
 Srinagar|||a
 Bangalore|||a
-Trivandrum|||a
-Kavaratti|||a
-Mumbai|||a
 Bombay|||a
-Gangtok|||a
 Chennai|||a
 Madras|||a
-Agartala|||an
-Lucknow|||a
 Calcutta|||a
-Johor Bahru|||a
-Alor Setar|||an
-Kota Bharu|||a
-Seremban|||a
-Kuantan|||a
 Georgetown|||a
 Ipoh|||an
-Kangar|||a
-Kota Kinabalu|||a
-Kuching|||a
-Shah Alam|||a
 Uluru|||an
 Kata Tjuta|||a
-Ayers Rock|||an
 Scotland|||a
 Hong Kong|||a
 Islam|||an
-South China Sea|||a
 Cornish|||a
 SAMPA|||a
 Kalaallisut|||a
@@ -374,32 +303,25 @@ Genoa|||a
 Andrew|||an
 Watson|||a
 Gaelic|||a
-Fand|||a
 Space Shuttle|||a
 Athens|||an
 Skagerrak|||a
 Kurdish|||a
-Sardinian|||a
 Moscow|||a
 London|||a
-Stockholm|||a
 Madrid|||a
 Ankara|||an
 Hellas|||a
 Naples|||a
 Modern English|||a
-Modern Greek|||a
 California|||a
 Modern French|||a
-Muganda|||a
 Tok Pisin|||a
 Scandinavia|||a
 S.A.|||a
-Corinthia|||a
 Arcadia|||an
 Attica|||an
 Boeotia|||a
-Phocis|||a
 Tuscany|||a
 Lombardy|||a
 Persian|||a
@@ -409,8 +331,6 @@ Albert|||an
 Vulcan|||a
 Rhine|||a
 Brittany|||a
-Angelopoulos|||an
-Angelopoulou|||an
 Michael|||a
 Bonnie|||a
 Budapest|||a
@@ -428,19 +348,14 @@ Christmas Eve|||a
 North Pole|||a
 South Pole|||a
 Abu Dhabi|||an
-Accra|||an
 Addis Ababa|||an
 Algiers|||an
 Baghdad|||a
-Bali|||a
 Bangkok|||a
 Barcelona|||a
 Belfast|||a
 Berlin|||a
 Cairo|||a
-Cape Town|||a
-Caracas|||a
-Central America|||a
 Channel Islands|||a
 Cologne|||a
 Copenhagen|||a
@@ -453,23 +368,16 @@ Glasgow|||a
 Guernsey|||a
 Havana|||a
 Helsinki|||a
-Honolulu|||a
 Jakarta|||a
 Java|||a
 Jerusalem|||a
-Juneau|||a
 Kabul|||a
-Kathmandu|||a
-Khartoum|||a
 Kiev|||a
-La Paz|||a
 Lhasa|||a
-Liguria|||a
 Lisbon|||a
 Liverpool|||a
 Los Angeles|||a
 Louisiana|||a
-Majorca|||a
 Maine|||a
 Manila|||a
 Mantua|||a
@@ -479,150 +387,64 @@ Milan|||a
 Nairobi|||a
 Nassau|||a
 New England|||a
-New Ireland|||a
 Wade-Giles|||a
 New York|||a
 Nicosia|||a
 Orleans|||an
-Oslo|||an
 Oxford|||an
-Padua|||a
-Palermo|||a
-Panama City|||a
 Philadelphia|||a
 Piedmont|||a
 Polynesia|||a
-Quito|||a
 Rhodes|||a
-Riyadh|||a
 Rome|||a
 San Francisco|||a
 Sardinia|||a
 Seoul|||a
-Seville|||a
 Siberia|||a
 Sicily|||a
 Silesia|||a
 Syracuse|||a
-Johannesburg|||a
-Durban|||a
-Oran|||an
 Hamburg|||a
-Hanoi|||a
 Hanover|||a
 Frankfurt|||a
-Munich|||a
 Bavaria|||a
 Tangiers|||a
-Tarragona|||a
 Tehran|||a
 Tel Aviv|||a
 Tirana|||a
-Tobago|||a
 Tokyo|||a
 Transylvania|||a
-Trinidad|||a
 Tripoli|||a
 Tunis|||a
 Turin|||a
 Valencia|||a
-Valparaiso|||a
 Vancouver|||a
 Venice|||a
 Verona|||a
 Virginia|||a
 Vienna|||a
-Vientiane|||a
-Vladivostok|||a
 Warsaw|||a
 Wellington|||a
-Zanzibar|||a
-Zagreb|||a
-Salzburg|||a
 Gerard|||a
 Yoshi|||a
-Atlantis|||an
 Lemuria|||a
 Qur'an|||a
 Georgian|||a
-Abruzzo|||an
-Valle d'Aosta|||a
-Calabria|||a
-Campania|||a
-Marche|||a
-Molise|||a
-Umbria|||an
-Novara|||a
-Agrigento|||an
 Ancona|||an
-Aosta|||an
-Arezzo|||an
-Avellino|||an
-Benevento|||a
 Bergamo|||a
-Biella|||a
 Bologna|||a
-Bolzano|||a
 Brescia|||a
-Brindisi|||a
 Cagliari|||a
-Campobasso|||a
-Catanzaro|||a
-Como|||a
-Cosenza|||a
-Cremona|||a
-Crotone|||a
-Foggia|||a
-Forli|||a
-Gorizia|||a
-Grosseto|||a
-Imperia|||an
-Isernia|||an
-La Spezia|||a
-Latina|||a
-Lecco|||a
 Livorno|||a
 Lodi|||a
-Tongan|||a
 Medieval Latin|||a
-New Latin|||a
-Macerata|||a
-Massa Carrara|||a
-Matera|||a
-Messina|||a
-Modena|||a
-Nuoro|||a
-Oristano|||an
-Pavia|||a
-Perugia|||a
-Pescara|||a
-Piacenza|||a
-Pistoia|||a
-Pordenone|||a
-Potenza|||a
-Prato|||a
 Ragusa|||a
 Ravenna|||a
-Rieti|||a
-Rimini|||a
-Rovigo|||a
-Salerno|||a
 Siena|||a
-Sondrio|||a
-Taranto|||a
-Teramo|||a
-Terni|||a
-Trapani|||a
-Trento|||a
-Treviso|||a
-Trieste|||a
-Udine|||an
-Varese|||a
 Andalusia|||an
 Nikolaos|||a
 Nikos|||a
 Nikolas|||a
-Nikolis|||a
 Nikoleta|||a
 Greeklish|||a
 Nicolas|||a
@@ -630,9 +452,7 @@ Nicholas|||a
 Thessaly|||a
 Epirus|||an
 Thrace|||a
-Messenia|||a
 Laconia|||a
-Argolis|||an
 Larissa|||a
 Cyclades|||a
 Lesbos|||a
@@ -641,7 +461,6 @@ Wallachia|||a
 Toki Pona|||a
 Ostia|||an
 Edessa|||an
-Somali|||a
 Swahili|||a
 Formosa|||a
 West Midlands|||a
@@ -649,105 +468,56 @@ New Guinea|||a
 Wallonia|||a
 Antwerp|||an
 Brabant|||a
-Hainaut|||a
 Limburg|||a
-Namur|||a
 West Flanders|||a
-Bruges|||a
-Ghent|||a
 Ostend|||an
-Charleroi|||a
-Arlon|||an
 Sarajevo|||a
 Burgas|||a
-Dobrich|||a
 Kŭrdzhali|||a
 Malko Tŭrnovo|||a
-Michurin|||a
 Montana|||a
-Pazardzhik|||a
 Sofia|||a
-Veliko Tărnovo|||a
-Vratsa|||a
-Yambol|||a
-Prague|||a
 Brent|||a
 Bromley|||a
 Lojban|||a
 Loglan|||a
-George Town|||a
 Pashto|||a
 Alexander|||an
 British Isles|||a
-Bouvet Island|||a
 Moses|||a
 Allah|||an
 Gaul|||a
-Sark|||a
-Herm|||a
-Saint Helier|||a
-Saaremaa|||a
-Hebrides|||a
 Orkney Islands|||an
-Oulu|||an
-Pori|||a
-Turku|||a
-Lipari Islands|||a
 Brandenburg|||a
 Bremen|||a
 Hesse|||a
-Lower Saxony|||a
 Saarland|||a
 Saxony|||a
-Saxony-Anhalt|||a
-Thuringia|||a
 Holland|||a
 Gothic|||a
 Acheron|||an
-Santorini|||a
-Delos|||a
 Corfu|||a
-Thira|||a
-Mytilene|||a
 Alexandria|||an
 Chios|||a
-Chania|||a
 Corinth|||a
 Delphi|||a
-Iraklion|||an
-Piraeus|||a
 Thessaloniki|||a
 Trikala|||a
-Volos|||a
-Nuuk|||a
-Debrecen|||a
 Nahuatl|||a
 Reykjavik|||a
 Skopje|||a
-Malta Island|||a
-Gozo|||a
-Maltese Islands|||a
-Valletta|||a
-Chisinau|||a
 Monte Carlo|||a
-Flevoland|||a
-Friesland|||a
 Cheerios|||a
 Rice Krispies|||a
-Groningen|||a
 Utrecht|||an
-Zeeland|||a
 Murrinh-Patha|||a
 Pepsi|||a
 Jesus|||a
 Aotearoa|||an
-Meryam Mir|||a
 Kala Lagaw Ya|||a
 Kriol|||a
 MADD|||a
-Bangla|||a
 Bicol|||a
-Cebuano|||a
 Chickasaw|||a
 Gujarati|||a
 Hopi|||a
@@ -756,23 +526,15 @@ Malayalam|||a
 Marathi|||a
 Mohawk|||a
 Quenya|||a
-Shona|||a
 Sioux|||a
 Urdu|||an
-Zazi|||a
 Sinhala|||a
 Sarah|||a
 Lyssa|||a
-Venetia|||a
 Boden|||a
 Marcus|||a
-Tzotzil|||a
-Tzeltal|||a
 Khmer|||a
-Phnom Penh|||a
-Kampuchea|||a
 Persia|||a
-Jim|||a
 Eskimo|||an
 Rangoon|||a
 Yangon|||a
@@ -781,17 +543,12 @@ Novial|||a
 Cherokee|||a
 Sequoyah|||a
 First World|||a
-Second World|||a
 Latin America|||a
 Leningrad|||a
 Khmer Rouge|||a
-Tarentum|||a
 Capricornus|||a
 Gdańsk|||a
-Cracow|||a
-Kraków|||a
 Azores|||an
-Oporto|||an
 Jayhawk|||a
 Saturn|||a
 Tanakh|||a
@@ -801,8 +558,6 @@ Oxbridge|||an
 Cambridge|||a
 Isle of Man|||an
 Douglas|||a
-Gotland|||a
-Öland|||a
 Santa|||a
 Holy Spirit|||a
 Māori|||a
@@ -816,45 +571,30 @@ Big Ben|||a
 Ku Klux Klan|||a
 Velcro|||a
 World War I|||a
-Aldershot|||an
 Alton|||an
 Tucson|||a
 Teresa|||a
 Strasburg|||a
-Aymara|||an
 Bemba|||a
-Blackfoot|||a
 America|||an
 Amoy|||an
 Farsi|||a
 Adi|||an
-Inuktitut|||an
-Kongo|||a
-Luganda|||a
 Maya|||a
-Papiamento|||a
 Mohican|||a
 Romansch|||a
-Ruanda|||a
-Sepedi|||a
 Serbo-Croatian|||a
 Sotho|||a
 Tswana|||a
 Yucatec|||a
 Andaman Islands|||an
-Andover|||an
-Anerley|||an
-Anglia|||an
 Aquarius|||an
 Apache|||an
-UNESCO|||an
 ANSI|||an
 Celt|||a
 Celtic|||a
 KDE|||a
 Tanya|||a
-Good Friday|||a
-Easter Sunday|||an
 Atkins diet|||an
 Bloemfontein|||a
 Holy Grail|||a
@@ -864,10 +604,7 @@ George|||a
 Joseph|||a
 Joe|||a
 Xavier|||a
-Aargau|||an
-Basel-Stadt|||a
 Bern|||a
-Fribourg|||a
 Uranus|||an
 Neptune|||a
 Pluto|||a
@@ -875,52 +612,33 @@ Mesopotamia|||a
 Euphrates|||an
 Tigris|||a
 Tutankhamon|||a
-Glarus|||a
 Grisons|||a
 Jura|||a
-Lucerne|||a
-Schwyz|||a
-Solothurn|||a
-Thurgau|||a
-Valais|||a
-Zug|||a
 Zürich|||a
 Thor|||a
-Socrates|||a
 Cali|||a
 Yankee Doodle|||a
 Macau|||a
 Atkins|||an
 Tower of Babel|||a
 Belgrade|||a
-Piemontese|||a
-Liliana|||a
 Unix|||an
 Red Rectangle|||a
 Jeopardy|||a
 Vulgar Latin|||a
 Martha|||a
 Aeneas|||an
-South Yemen|||a
-North Yemen|||a
 Middle East|||a
 Paul|||a
-Bondi|||a
-Bondi Beach|||a
 Red Cross|||a
-German Empire|||a
-Scots Gaelic|||a
 Galego|||a
-Brithenig|||a
 Beeb|||a
 Germanic|||a
 Minnesota|||a
-Okinawa|||an
 Devon|||a
 Papua|||a
 Nessie|||a
 Zazaki|||a
-Godhead|||a
 Kentucky|||a
 Claudia|||a
 Yale|||a
@@ -929,14 +647,11 @@ Big Island|||a
 Hilo|||a
 Frankenstein|||a
 Abbeville|||an
-Abdallah|||an
 Abdul|||an
 Abdullah|||an
 Abilene|||an
 Abington|||an
-Nottingham|||a
 Abner|||an
-Keb|||a
 Beelzebub|||a
 Diaspora|||a
 Odessa|||an
@@ -948,69 +663,50 @@ Hannah|||a
 Peter|||a
 Mount Everest|||a
 World War II|||a
-Zaza|||a
 Chumash|||a
-Tajiki|||a
-Tajiki-Persian|||a
 Yamato|||a
 Adam|||an
 Tigrinya|||a
-Ayrshire|||an
 Axminster|||an
-Avesta|||an
-Avignon|||an
 Hettie|||a
 Ryan|||a
 Kolkata|||a
-Aegyptus|||an
 Mary|||a
-Tripolitania|||a
 SSPX|||a
 Ahti|||an
-Colombo|||a
 Andreas|||an
-Mozarabic|||a
 Richard|||a
 Jacky|||a
 Jackie|||a
-Hally|||a
 Michal|||a
 Danny|||a
-Pammy|||a
 Sammy|||a
 Brian|||a
 David|||a
 Dannie|||a
 Sodom|||a
 Old English|||an
-U.S.|||an
 Alice|||an
 Big Brother|||a
 Brer Rabbit|||a
 Cinderella|||a
 Juliet|||a
-Count Dracula|||a
 Saul|||a
 James|||a
 Jacob|||a
-Serapis|||a
 Togarmah|||a
 Scots|||a
 Anglo-Saxon|||an
 Zumbi|||a
 Zumbi Day|||a
-Ravana|||a
 San Sebastián|||a
-Bilbao|||a
 Pamplona|||a
 Grim Reaper|||a
 Kerry|||a
 Medusa|||a
 Hanuman|||a
 Force|||a
-Cold War|||a
 Ragnarok|||a
-Francie|||a
 Middle English|||a
 Miriam|||a
 Leah|||a
@@ -1024,21 +720,15 @@ Ladin|||a
 Mormon|||a
 Moksha|||a
 DASK|||a
-Kurdistan|||a
 Tbilisi|||a
 leetspeak|||a
 ACAS|||an
-Linköping|||a
 Maler|||a
-Emmentaler|||an
-Shahzadah|||a
 Tizona|||a
 Robert|||a
-Black Sea|||a
 Caucasus|||a
 Alexandra|||an
 Tim|||a
-Maritime Alps|||a
 Cunarder|||a
 TIM|||a
 Labrador|||a
@@ -1056,11 +746,8 @@ Daffy Duck|||a
 Elmer Fudd|||an
 Jimmy|||a
 Ogham|||an
-Maharastra|||a
 Ngan'gityemerri|||a
-Cebu|||a
 Igbo|||an
-Andy|||an
 Anthony|||an
 Persephone|||a
 Demeter|||a
@@ -1073,12 +760,10 @@ Mikey|||a
 Kylie|||a
 Sindarin|||a
 Gandalf|||a
-Gimli|||a
 Bukhara|||a
 Dickie|||a
 Middle-earth|||a
 Morpheus|||a
-Tolkien|||a
 Indy|||an
 Aphrodite|||an
 Alex|||an
@@ -1096,41 +781,32 @@ Walter|||a
 Walt|||a
 Ojibwe|||an
 Great Plains|||a
-Kalanga|||a
 Abe|||an
 Asterix|||an
-Yup'ik|||a
 Cocoliche|||a
 Newcastle|||a
 GNOME|||a
 Heidi|||a
 Norge|||a
-Gaby|||a
 Argus|||an
 Babel|||a
 Baldur|||a
 Jess|||a
 Jill|||a
 Nubia|||a
-Runic|||a
 Tony|||a
 Torah|||a
 Charybdis|||a
 grep|||a
 Scylla|||a
-Weld|||a
 Yule|||a
 Santa Claus|||a
 Jat|||a
 Brum|||a
 Ebonics|||an
-Chunnel|||a
-Eurotunnel|||an
-Dougie|||a
 Doug|||a
 Todd|||a
 Usenet|||a
-Big Apple|||a
 Murray|||a
 Gullah|||a
 Star Wars|||a
@@ -1142,25 +818,19 @@ Caltech|||a
 Kubanskaya|||a
 Lewes|||a
 9/11|||a
-Holy Land|||a
 Kurt|||a
 New Jersey|||a
 Mickey Mouse|||a
 Marshal|||a
 FTSE|||a
-Arwel|||an
-Barclays Bank|||a
 Bristol|||a
 Chris|||a
 Baal|||a
-Baalism|||a
 Odin|||an
 Tartarus|||a
 Hades|||a
 Sheol|||a
 Tetragrammaton|||a
-Tupi|||a
-Mersey sound|||a
 Merseybeat|||a
 Ares|||an
 Jove|||a
@@ -1176,7 +846,6 @@ Oklahoma|||an
 Johan|||a
 Katie|||a
 Lucifer|||a
-Shraddha|||a
 New Orleans|||a
 Durex|||a
 Bosnia|||a
@@ -1186,13 +855,10 @@ Southeast Asia|||a
 Passover|||a
 Holy Communion|||a
 Shabbat|||a
-Arvak|||an
 Matthew|||a
 Haskell|||a
 Asclepius|||an
 Hoover|||a
-Wonder Woman|||a
-Mexico City|||a
 Mecca|||a
 Jessica|||a
 Sanskrit|||a
@@ -1208,7 +874,6 @@ Oedipus|||an
 Meg|||a
 Hassidism|||a
 Judah|||a
-Baal-Shem-Tov|||a
 Clio|||a
 Cronus|||a
 Chronos|||a
@@ -1221,23 +886,19 @@ Gibraltar|||a
 Iberia|||an
 Pyrenees|||a
 Engrish|||an
-MGM|||a
 RSPCA|||a
 Zimblish|||a
 Varuna|||a
 Howard|||a
 Quadragesima|||a
-Serowe|||a
 Pentateuch|||a
 Lakota|||a
 Hokkien|||a
-Scillonian|||a
 Isles of Scilly|||an
 Bri|||a
 Tyrone|||a
 Cecil|||a
 Aberdeen|||an
-Inverness|||an
 Dee|||a
 Fiona|||a
 Ethan|||an
@@ -1248,12 +909,9 @@ LAPD|||a
 Tara|||a
 Gabriel|||a
 Zion|||a
-Most High|||a
-Pyongyang|||a
 AID|||an
 Alaska|||an
 Arizona|||an
-Atlantic|||an
 Xena|||a
 Elizabeth|||an
 Duncan|||a
@@ -1261,9 +919,7 @@ Oliver|||an
 Cheddar|||a
 Filipino|||a
 Jerry|||a
-Reddy|||a
 Bambara|||a
-Sikar|||a
 Perseus|||a
 Whitby|||a
 Yorkshire|||a
@@ -1271,50 +927,36 @@ Krishna|||a
 Thule|||a
 Chaldea|||a
 Pali|||a
-Old French|||an
 Ancient Greek|||an
-IBM|||an
 Wilson|||a
 Nehra|||a
 Balkanization|||a
 Andrea|||an
 Hollywood|||a
-Bollywood|||a
 Pentecost|||a
 Cupid|||a
 Kansas|||a
 Horace|||a
-West Indies|||a
-SMERSH|||a
-Stavka|||a
 Walloon|||a
 Nebuchadnezzar|||a
 Sinn Féin|||a
 Taoiseach|||a
 Syriac|||a
 Woop Woop|||a
-Meaco|||a
 Kalashnikov|||a
-Agent Orange|||an
 Vegemite|||a
 Milky Way|||a
 Big Bang|||a
-Il Duce|||an
 Hinduism|||a
 Sikhism|||a
 Errol|||an
-Meryl|||a
 Cheryl|||a
 FARC|||a
 Gitmo|||a
 Alabama|||an
 Exodus|||an
-Gretel|||a
 Neville|||a
-Akimel O'odham|||an
-Nagasaki|||a
 Trevor|||a
-Narita|||a
 Arkansas|||an
 Colorado|||a
 Connecticut|||a
@@ -1357,17 +999,13 @@ Berkshire|||a
 Cheshire|||a
 Cornwall|||a
 Cumberland|||a
-Dorset|||a
 County Durham|||a
 Essex|||an
 Hampshire|||a
-Huntingdonshire|||a
 Kent|||a
 Lancashire|||a
 Leicestershire|||a
-Middlesex|||a
 Norfolk|||a
-Northumberland|||a
 Rutland|||a
 Shropshire|||a
 Somerset|||a
@@ -1383,29 +1021,24 @@ Nile|||a
 Albion|||an
 Spenser|||a
 Gurage|||a
-Old Greek|||an
 Waray-Waray|||a
 Pacific Ocean|||a
 Cleveland|||a
 Humberside|||a
 Isle of Wight|||an
-Wrexham|||a
 Camden|||a
 Anurag|||an
 Foulness|||a
 Tresco|||a
 Croydon|||a
-Stevenage|||a
 Wintel|||a
 Cyril|||a
 Dobro|||a
 Akela|||an
 Birmingham|||a
-Southwark|||a
 Casey|||a
 Clara|||a
 World Wide Web|||a
-Nagoya|||a
 Manchester|||a
 Upper Sorbian|||an
 Lower Sorbian|||a
@@ -1417,16 +1050,13 @@ Reynard|||a
 Vincent|||a
 Toyota|||a
 Mercedes|||a
-Mercedes-Benz|||a
 Megan|||a
 Eris|||an
 Lauren|||a
 Lethe|||a
 Metis|||a
-Dresden|||a
 William|||a
 Greenwich|||a
-Evil One|||an
 Gordon|||a
 Knowledge|||a
 Taipei|||a
@@ -1434,8 +1064,6 @@ Hackney|||a
 Typhon|||a
 Theodore|||a
 Anastasia|||an
-Sejm|||a
-Szlachta|||a
 Irene|||an
 Luke|||a
 Sophia|||a
@@ -1455,19 +1083,15 @@ Jane|||a
 Colleen|||a
 Numbers|||a
 Chicago|||a
-Tenebrist|||a
 COBOL|||a
 Aldebaran|||an
 INMARSAT|||an
-Arnhem Land|||an
-Asia Minor|||an
 Shakespeare|||a
 Louis|||a
 Anzac Day|||an
 Boston|||a
 Hitler|||a
 Ulster|||an
-Nawlins|||a
 Goran|||a
 Mabel|||a
 Geoffrey|||a
@@ -1477,8 +1101,6 @@ Royal Navy|||a
 Belinda|||a
 Cúchulainn|||a
 Ulster Cycle|||an
-Gae Bulg|||a
-Aífe|||an
 Judy|||a
 Judith|||a
 Marduk|||a
@@ -1488,21 +1110,17 @@ Samos|||a
 BASIC|||a
 Antonov|||an
 Oort Cloud|||an
-Rennes|||a
 Dougal|||a
 Susan|||a
 Einstein|||an
 Simone|||a
 Hawk-Eye|||a
 Bislama|||a
-Easter Monday|||an
-Kurmanji|||a
 Easter Bunny|||an
 Victoria Cross|||a
 Bunsen|||a
 Democritus|||a
 Hesiod|||a
-Ionian Sea|||an
 Arthur|||an
 Grand Slam|||a
 Carolina|||a
@@ -1512,13 +1130,7 @@ Provo|||a
 Seth|||a
 Russel|||a
 Russell|||a
-Jodrell Bank|||a
-Jimmy Riddle|||a
 Auckland|||an
-Shazia|||a
-Arie|||an
-Adoo|||an
-Anicha|||an
 Negar|||a
 Vernon|||a
 Kirsten|||a
@@ -1526,13 +1138,11 @@ I Ching|||an
 Murphy's law|||a
 Outside|||an
 Phil|||a
-CSICOP|||a
 Purim|||a
 Jewish calendar|||a
 Philip|||a
 Dzongkha|||a
 Isaac|||an
-Nagaraj|||a
 Scott|||a
 Francis|||a
 Min Nan|||a
@@ -1540,17 +1150,14 @@ Bacchus|||a
 Xenophanes|||a
 Diogenes|||a
 Kevin|||a
-oware|||an
 Mbabaram|||a
 Tatar|||a
 Plutarch|||a
-Mauser|||a
 Shug|||a
 Sharma|||a
 Uzziel|||an
 Prometheus|||a
 Balor|||a
-Cethleen|||a
 Mingo|||a
 Janet|||a
 Old World|||an
@@ -1562,7 +1169,6 @@ John Bull|||a
 Johnny Reb|||a
 Lynn|||a
 Rama|||a
-BMW|||a
 Tommy|||a
 Beijing|||a
 Ian|||an
@@ -1574,81 +1180,56 @@ Catherine|||a
 Duresm|||a
 Durham|||a
 al-Qaeda|||an
-Castlegregory|||a
 Bridget|||a
 Damascus|||a
-Beirut|||a
 Samuel|||a
 Sam|||a
-Peleus|||a
 Crispin|||a
 Owen|||an
 Huang He|||a
-Yellow Sea|||a
 Colin|||a
 Roxy|||a
-Roxanne|||a
 Pixar|||a
 Opus Dei|||an
-Tower of London|||a
-Crown Jewels|||a
 Steve|||a
 Jackson|||a
 Frederick|||a
 Darth|||a
-Phaedriades|||a
 POTUS|||a
 Morse code|||a
 Brenna|||a
-Pan-Cake|||a
-Pancake Day|||a
 Patrick|||a
-Daventry|||a
 Dustin|||a
-Vogel|||a
-Vaisakhi|||a
-Gurjit|||a
 Kermit|||a
 Mervyn|||a
-Weybridge|||a
 Lewis|||a
 Cathay|||a
 Gmail|||a
-Williams|||a
-Midway Islands|||a
 Athirne|||an
-Ulaid|||an
 Erc|||an
 Briccriu|||a
 Tennyson|||a
 Díthorba|||a
 Cimbáeth|||a
-Olympics|||an
 Angela|||an
 Alfred|||an
-Karl|||a
 Franklin|||a
 Istanbul|||an
-Buenos Aires|||a
 Constantinople|||a
 Terpsichore|||a
-Windex|||a
 Thetis|||a
 Bronze Age|||a
 Freiburg|||a
 Taylor|||a
 Parsons|||a
-Blue Riband|||a
 Poseidon|||a
 Elysium|||an
 Elysian Fields|||an
 Koine|||a
 Archie|||an
 Archibald|||an
-Carla|||a
 Marsha|||a
 HTTPS|||a
-Peltier|||a
 Irukandji|||an
 Angie|||an
 Charlotte|||a
@@ -1660,7 +1241,6 @@ Davis|||a
 Bruce|||a
 Roy|||a
 Vercingetorix|||a
-Kong|||a
 Vinland|||a
 ICC|||an
 Harvey|||a
@@ -1669,11 +1249,9 @@ Psalms|||a
 aleph-null|||an
 Celtchar|||a
 Feldenkrais|||a
-Vistula|||a
 Johnny|||a
 Pete|||a
 Ted|||a
-Baltimore|||a
 Avestan|||an
 Xizang|||a
 Hamilton|||a
@@ -1682,10 +1260,7 @@ Wesley|||a
 Amish|||an
 Darlington|||a
 Far East|||a
-Georgian planet|||a
-Jaffa|||a
 Maurice|||a
-Anytown|||an
 Nance|||a
 Jerome|||a
 Urartu|||an
@@ -1694,19 +1269,14 @@ Weimar Republic|||a
 Augustus|||an
 Loki|||a
 Janus|||a
-Valvai|||a
-Mary Jane|||a
 Louise|||a
 Barmy Army|||a
 Detroit|||a
-Country Code|||a
 Bushism|||a
 VE Day|||a
 Shuli|||a
-Saint George|||a
 Calum|||a
 Margaret|||a
-Jacques|||a
 Donald|||a
 Stanley|||a
 Adrian|||an
@@ -1716,37 +1286,28 @@ Stewart|||a
 Bhagavad Gita|||a
 Leviticus|||a
 Joshua|||a
-Kawasaki|||a
 Madison Avenue|||a
 Sahara|||a
 Hastings|||a
 Misha|||a
 Mikhail|||a
 Alvin|||an
-House of Lords|||a
 Westminster|||a
 Uncle Sam|||an
 Britpop|||a
 Britart|||a
 Prince Albert|||a
-Nawin|||a
 Richmond|||a
 Yoder|||a
 Hughes|||a
-Indianapolis|||an
 Rog|||a
 Amanda|||an
-Joe Sixpack|||a
 Herbert|||a
-Champagne|||a
 Betelgeuse|||a
 Messene|||a
-Terri|||a
 Rolf|||a
 Manichaeism|||a
-Anglosphere|||an
 Antoniadi scale|||an
-Apuleius|||an
 Yumpla Tok|||a
 Euhemeros|||an
 Bernard|||a
@@ -1755,7 +1316,6 @@ Nuu-chah-nulth|||a
 Marianne|||a
 Esdras|||an
 Hugh|||a
-O'Reilly|||an
 Ness|||a
 Deirdre|||a
 Nemean Lion|||a
@@ -1764,32 +1324,26 @@ Mach|||a
 Erika|||an
 Mehran|||a
 Llandovery|||a
-Terrence|||a
 Terence|||a
 Laplace|||a
-Neoplatonism|||a
 Plato|||a
 Apeliotes|||an
 Harold|||a
 Eddie|||an
 Hmong|||a
-Holy Father|||a
 Ronald|||a
 Ron|||a
 Alicia|||an
 Basque Country|||a
 Monica|||a
-Shirl|||a
 Shirley|||a
 Atropos|||an
-Morgan le Fay|||a
 Lachesis|||a
 Decima|||a
 Nona|||a
 Morta|||a
 Epimetheus|||an
 Erato|||an
-Gaia|||a
 Ganymede|||a
 Orpheus|||an
 Hecate|||a
@@ -1804,7 +1358,6 @@ Melpomene|||a
 Menoetius|||a
 Moirae|||a
 Moira|||a
-Nyx|||a
 Polyhymnia|||a
 Tethys|||a
 Ulysses|||an
@@ -1815,9 +1368,6 @@ Irving|||an
 Rebecca|||a
 Effie|||an
 All Souls' Day|||an
-All Saints' Day|||an
-Guilin|||a
-Sunderland|||a
 Trojan War|||a
 Lillian|||a
 ACME|||an
@@ -1825,7 +1375,6 @@ Harriet|||a
 Tin Pan Alley|||a
 Babs|||a
 Jabberwocky|||a
-Sandeep|||a
 Sanya|||a
 Robinson|||a
 Ann|||an
@@ -1844,27 +1393,20 @@ Adolf|||an
 Norrie|||a
 Kelly|||a
 Satanist|||a
-Antonio|||an
 Gregory|||a
 Jeff|||a
-Carlos|||a
 Eugene|||an
 Napoleon|||a
 Keith|||a
 Kamboja|||a
 Quirinus|||a
-First Reich|||a
 Second Reich|||a
 Third Reich|||a
 Middle French|||a
 Luftwaffe|||a
 Jonathan|||a
-Bosna|||a
-Heine|||a
 Fula|||a
 Kambujiya|||a
-Caca|||a
-Pisgah|||a
 Dennis|||a
 Ernest|||an
 Raymond|||a
@@ -1872,34 +1414,26 @@ Maria|||a
 Ferdinand|||a
 Julius|||a
 Kenneth|||a
-Ludwig|||a
-Franz|||a
 Vojvodina|||a
-Claude|||a
 Amerika|||an
 Richie|||a
 Rohingya|||a
 Shane|||a
 Allison|||an
-Lisburn|||a
 Downe|||a
 Monmouthshire|||a
 FORTRAN|||a
-Glamorganshire|||a
-Brecknockshire|||a
 Carmarthenshire|||a
 Pembrokeshire|||a
 Beatles|||a
 Stonewall|||a
 Brooklyn|||a
-Cardiganshire|||a
 Radnorshire|||a
 Montgomeryshire|||a
 Denbighshire|||a
 Flintshire|||a
 Anglesey|||an
 Malthus|||a
-Peterborough|||a
 Ajax|||an
 Hebe|||a
 Lolita|||a
@@ -1908,18 +1442,15 @@ Abbi|||an
 Abby|||an
 Abdulaziz|||an
 Abigail|||an
-Abra|||an
 Abu|||an
 Ace|||an
 Ache|||an
 Acre|||an
 Acropolis|||an
 Acton|||an
-Acts|||an
 Ada|||an
 Adel|||an
 Aden|||an
-Adiaphorist|||an
 Advent|||an
 Adversary|||an
 Aggie|||an
@@ -1927,15 +1458,9 @@ Akkad|||an
 Alamo|||an
 Alan|||an
 Aland|||an
-Alcatraz|||an
-Alder|||an
-Aldgate|||an
-Alexia|||an
-Alf|||an
 Ali|||an
 Ally|||an
 Alma|||an
-Almighty|||an
 Alpine|||an
 Althea|||an
 Altus|||an
@@ -1943,36 +1468,27 @@ Amber|||an
 Amen|||an
 Anal|||an
 Ancient Greece|||an
-Android|||an
-Ange|||an
 Angel|||an
 Angelo|||an
 Angelus|||an
 Anna|||an
 Annie|||an
-Annunciation|||an
 Anon|||an
 Ant|||an
 Antichrist|||an
 Antipodes|||an
-Antiquity|||an
 Anu|||an
-Anus|||an
 Anya|||an
 Apollo|||an
 Apple|||an
-Archangel|||an
 Argo|||an
 Argonaut|||an
 Aries|||an
 Ark|||an
-Art|||an
 Asatru|||an
 Ash|||an
 Asiago|||an
-Ask|||an
 Aspen|||an
-Asti|||an
 Athletics|||an
 Atlas|||an
 August|||an
@@ -1983,42 +1499,33 @@ Aurora|||an
 Avril|||an
 Axel|||an
 Aynu|||an
-Aziz|||an
 Bach|||a
-Baci|||a
 Baden|||a
 Bailey|||a
 Baloo|||a
 Bantu|||a
-Bar|||a
 Barak|||a
 Barb|||a
-Barbie|||a
 Barca|||a
 Bari|||a
 Barnet|||a
 Basic|||a
 Basil|||a
-Bass|||a
 Batak|||a
 Bath|||a
 Batman|||a
 Battle|||a
 Bay|||a
 Baz|||a
-Bea|||a
 Beast|||a
 Beau|||a
 Bell|||a
-Bella|||a
-Belle|||a
 Ben|||a
 Benedict|||a
 Benjamin|||a
 Benny|||a
 Berg|||a
 Bergen|||a
-Beryl|||a
 Beth|||a
 Betty|||a
 Bianca|||a
@@ -2032,15 +1539,12 @@ Blowfish|||a
 Blue|||a
 Bob|||a
 Bobby|||a
-Bobo|||a
 Bogart|||a
 Bokmål|||a
-Bowyer|||a
 Boxer|||a
 Brad|||a
 Brandy|||a
 Brett|||a
-Broken|||a
 Brook|||a
 Browning|||a
 Bud|||a
@@ -2053,28 +1557,23 @@ Caelum|||a
 Calliope|||a
 Calypso|||a
 Camilla|||a
-Cana|||a
 Candy|||a
 Capitol|||a
 Car|||a
-Cardigan|||a
 Carl|||a
 Caro|||a
 Carol|||a
 Cashmere|||a
-Castello|||a
 Cat|||a
 Centaurus|||a
-Centre|||a
 Cetus|||a
 Charity|||a
 Chas|||a
-Cher|||a
 Cherry|||a
+Chow|||a
 Chuck|||a
 City|||a
 Claire|||a
-Cocoa|||a
 Cole|||a
 Commons|||a
 Commonwealth|||a
@@ -2085,28 +1584,18 @@ Conner|||a
 Conor|||a
 Cook|||a
 Coral|||a
-Cork|||a
-Corse|||a
-Cos|||a
-Cox|||a
 Crater|||a
-Creator|||a
 Cree|||a
-Cross|||a
 Crow|||a
 Crusade|||a
 Crux|||a
 Cub|||a
-Curia|||a
-Curt|||a
 Cynic|||a
 Dad|||a
-Daddy|||a
 Dai|||a
 Daisy|||a
 Dale|||a
 Dan|||a
-Dando|||a
 Dari|||a
 Darling|||a
 Dawn|||a
@@ -2119,19 +1608,13 @@ Des|||a
 Destiny|||a
 Deutsch|||a
 Devi|||a
-Devil|||a
 Dexter|||a
 Dey|||a
-Diamond|||a
 Dick|||a
 Dickens|||a
 Dike|||a
 Dime|||a
-Dingle|||a
 Dino|||a
-Dirk|||a
-Dis|||a
-Discover|||a
 Doc|||a
 Dodge|||a
 Dolly|||a
@@ -2140,12 +1623,10 @@ Don|||a
 Donna|||a
 Doom|||a
 Dorcas|||a
-Dot|||a
 Dove|||a
 Dow|||a
 Dragon|||a
 Drake|||a
-Drama|||a
 Drew|||a
 Dryden|||a
 Duke|||a
@@ -2155,68 +1636,49 @@ Earnest|||an
 East|||an
 Ebony|||an
 Eddy|||an
-Eider|||an
-Elephantine|||an
 Ellen|||an
 Elma|||an
-Elvish|||an
 Enigma|||an
-Enzed|||an
-Equator|||an
 Eric|||an
 Erin|||an
 Eros|||an
-Essen|||an
 Est|||an
 Eth|||an
 Ether|||an
 Euripides|||an
 Eve|||an
-Even|||an
 Ewe|||an
-Ewondo|||an
 Eye|||an
 Faith|||a
-Fall|||a
 Fan|||a
-Fanagalo|||a
 Fang|||a
 Fante|||a
 Farmer|||a
-Faro|||a
 Fate|||a
 Father|||a
 Fauna|||a
 Faust|||a
 Fay|||a
-Fed|||a
 Felicity|||a
 Fender|||a
-Fermi|||a
 Fern|||a
 Few|||a
-Fez|||a
 Fiat|||a
 Fife|||a
 Fifth|||a
-Fleet|||a
 Fleur|||a
-Flood|||a
 Flora|||a
 Ford|||a
-Fore|||a
 Forth|||a
 Fortran|||a
 Foster|||a
 Fowler|||a
 Frances|||a
 Fred|||a
-Freo|||a
 Friends|||a
 Fucking|||a
 Fuller|||a
 Fury|||a
-Gabe|||a
 Gad|||a
 Gage|||a
 Galileo|||a
@@ -2231,7 +1693,6 @@ Gill|||a
 Ginger|||a
 Glen|||a
 Gloria|||a
-Gnat|||a
 Goddess|||a
 Google|||a
 Grace|||a
@@ -2242,19 +1703,13 @@ Gray|||a
 Griffin|||a
 Grim|||a
 Gross|||a
-Grove|||a
-Guangzhou|||a
-Guardian|||a
 Hal|||a
 Ham|||a
 Hamal|||a
-Hamlet|||a
 Han|||a
 Hans|||a
-Hansel|||a
 Hardy|||a
 Harmonia|||a
-Harp|||a
 Harry|||a
 Haw|||a
 Hazel|||a
@@ -2268,7 +1723,6 @@ Henry|||a
 Herb|||a
 Herne|||a
 Hetty|||a
-Hiiumaa|||a
 Holly|||a
 Holt|||a
 Honor|||a
@@ -2285,20 +1739,15 @@ Hymen|||a
 ISO|||an
 Ich|||an
 Intel|||an
-Ion|||an
 Ira|||an
-Ish|||an
 Ivy|||an
 Jack|||a
 Jade|||a
 Jah|||a
-Jak|||a
-Jarra|||a
 Jas|||a
 Jay|||a
 Jazz|||a
 Jean|||a
-Jehu|||a
 Jenny|||a
 Jersey|||a
 Joan|||a
@@ -2317,12 +1766,10 @@ Kai|||a
 Kale|||a
 Kama|||a
 Kambuja|||a
-Kan|||a
 Kara|||a
 Kat|||a
 Kay|||a
 Kelvin|||a
-Ken|||a
 Khan|||a
 Kim|||a
 King|||a
@@ -2335,7 +1782,6 @@ Kokyo|||a
 Kraken|||a
 Kris|||a
 Labor|||a
-Labour|||a
 Lada|||a
 Ladino|||a
 Lai|||a
@@ -2345,28 +1791,22 @@ Lane|||a
 Lark|||a
 Lea|||a
 Lee|||a
-Lek|||a
 Lent|||a
 Les|||a
 Leto|||a
 Lex|||a
-Lez|||a
 Libra|||a
 Lier|||a
 Lil|||a
 Lily|||a
 Limburgish|||a
-Limerick|||a
 Limos|||a
 Lincoln|||a
 Linda|||a
 Lintel|||a
 Lisp|||a
-Lithium|||a
-Liège|||a
 Logan|||a
 Lord|||a
-Lords|||a
 Lot|||a
 Lua|||a
 Luka|||a
@@ -2375,7 +1815,6 @@ Luna|||a
 Lyn|||a
 Lynne|||a
 Lyra|||a
-Lú|||a
 MI5|||a
 Madeira|||a
 Madeleine|||a
@@ -2384,23 +1823,14 @@ Magi|||a
 Magnesia|||a
 Magnus|||a
 Mai|||a
-Main|||a
 Maire|||a
-Mal|||a
 Malaya|||a
-Malin|||a
-Mamba|||a
 Man|||a
 Mandarin|||a
 Manhattan|||a
 Manu|||a
-Manual|||a
 Marathon|||a
-Marc|||a
-Marcel|||a
 March|||a
-Margarita|||a
-Marge|||a
 Mari|||a
 Marina|||a
 Mark|||a
@@ -2410,10 +1840,8 @@ Martin|||a
 Mason|||a
 Mat|||a
 Mato|||a
-Matt|||a
 Max|||a
 May|||a
-Mayo|||a
 Med|||a
 Media|||a
 Mehr|||a
@@ -2432,14 +1860,10 @@ Mill|||a
 Mini|||a
 Minotaur|||a
 Mir|||a
-Missus|||a
 Mobile|||a
-Mohel|||a
 Molly|||a
 Mom|||a
-Mommy|||a
 Monitor|||a
-Monopoly|||a
 Moon|||a
 More|||a
 Morgan|||a
@@ -2449,72 +1873,51 @@ Mort|||a
 Moskva|||a
 Mot|||a
 Mother|||a
-Motu|||a
 Mum|||a
-Mummy|||a
 Myrmidon|||a
 Nadir|||a
 Nan|||a
 Nancy|||a
 Natal|||a
-Nativity|||a
 Neath|||a
 Ned|||a
 Nelly|||a
 Nemesis|||a
-Nereid|||a
 Net|||a
 Newton|||a
 Nice|||a
-Nick|||a
 Niki|||a
 Nix|||a
-Nob|||a
 Noelle|||a
-Noman|||a
-Nome|||a
 Noongar|||a
-Norm|||a
 North|||a
 Northeast|||a
 Nova|||a
-Nox|||a
 Nynorsk|||a
-Occident|||an
-Occidental|||an
 Ocean|||an
 Odyssey|||an
-Ogre|||an
-Ola|||an
 Olive|||an
 Ora|||an
-Oral|||an
 Orange|||an
 Orient|||an
 Orthodoxy|||an
 Otter|||an
 Otto|||an
 Pacific|||a
-Paddy|||a
 Padre|||a
 Pagan|||a
 Page|||a
-Pain|||a
 Pam|||a
 Panacea|||a
 Pantheon|||a
 Par|||a
 Paradise|||a
-Park|||a
-Parma|||a
 Pascal|||a
 Pat|||a
 Patience|||a
 Pearl|||a
 Peers|||a
 Peg|||a
-Penny|||a
-Pentagon|||a
 Pentium|||a
 Perak|||a
 Perse|||a
@@ -2522,30 +1925,22 @@ Peta|||a
 Petra|||a
 Phaëthon|||a
 Phalanx|||a
-Phantom|||a
 Phosphorus|||a
-Pico|||a
 Pierce|||a
 Pijin|||a
-Pike|||a
 Pinyin|||a
 Pip|||a
 Pisa|||a
 Pisces|||a
-Plaisir|||a
 Plough|||a
 Polaris|||a
 Pope|||a
-Poultry|||a
 Preacher|||a
 Priapus|||a
 Price|||a
 Primrose|||a
 Prince|||a
-Prohibition|||a
-Prophet|||a
 Psyche|||a
-Punch|||a
 Putonghua|||a
 Qomolangma|||a
 Ralph|||a
@@ -2553,7 +1948,6 @@ Ram|||a
 Rand|||a
 Randy|||a
 Rapture|||a
-Raven|||a
 Ray|||a
 Read|||a
 Reading|||a
@@ -2564,12 +1958,9 @@ Renaissance|||a
 Rescue|||a
 Revelation|||a
 Rex|||a
-Rice|||a
 Rich|||a
 Rick|||a
 Ridley|||a
-Riga|||a
-Ring|||a
 Rob|||a
 Robin|||a
 Rock|||a
@@ -2581,10 +1972,7 @@ Rose|||a
 Rosemary|||a
 Ruby|||a
 Rufus|||a
-Ruse|||a
 Ruth|||a
-Saffron|||a
-Saga|||a
 Sal|||a
 Sale|||a
 Salina|||a
@@ -2594,7 +1982,6 @@ Sande|||a
 Sandwich|||a
 Sandy|||a
 Sango|||a
-Sapphire|||a
 Savannah|||a
 Scheme|||a
 Scone|||a
@@ -2607,7 +1994,6 @@ Seine|||a
 Sela|||a
 Senate|||a
 Set|||a
-Shah|||a
 Shanghai|||a
 Shaw|||a
 Shay|||a
@@ -2616,16 +2002,12 @@ Shell|||a
 Sherry|||a
 Shylock|||a
 Sibyl|||a
-Sienna|||a
 Silver|||a
-Simba|||a
 Sin|||a
-Sirrah|||a
 Slick|||a
 Slough|||a
 Smith|||a
 Snark|||a
-Solidarity|||a
 Solon|||a
 Soma|||a
 Son|||a
@@ -2633,7 +2015,6 @@ Sora|||a
 Sound|||a
 South|||a
 Spa|||a
-Spica|||a
 Spike|||a
 Split|||a
 Spot|||a
@@ -2643,17 +2024,10 @@ Stein|||a
 Stella|||a
 Sten|||a
 Stew|||a
-Steward|||a
 Stigmata|||a
-Stoke|||a
 Stones|||a
-Strand|||a
-Sue|||a
-Sumo|||a
 Sun|||a
 Suomi|||a
-Superman|||a
-Surat|||a
 Svan|||a
 Sweet Sixteen|||a
 Swift|||a
@@ -2666,18 +2040,13 @@ Tammy|||a
 Tan|||a
 Tang|||a
 Tanner|||a
-Tarn|||a
 Tartan|||a
-Tash|||a
 Tat|||a
 Taurus|||a
 Teach|||a
-Teddy|||a
 Terminus|||a
 Terra|||a
 Terry|||a
-Tewa|||a
-Thorn|||a
 Tia|||a
 Tiger|||a
 Tigre|||a
@@ -2687,20 +2056,16 @@ Toby|||a
 Tom|||a
 Tonto|||a
 Toon|||a
-Trave|||a
 Triangle|||a
 Trinity|||a
 Trivia|||a
 Troll|||a
 Tucker|||a
-Tulle|||a
 Turkey|||a
-Turner|||a
 Tux|||a
 Tyke|||a
 Tyre|||a
 Tánaiste|||a
-Udmurt|||an
 Una|||an
 United|||an
 Universe|||an
@@ -2710,92 +2075,65 @@ Van|||a
 Veda|||a
 Vela|||a
 Vera|||a
-Vespers|||a
-Vilnius|||a
 Vin|||a
-Vince|||a
 Violet|||a
 Virgin|||a
 Virgo|||a
-Visa|||a
 Volta|||a
 Volvo|||a
 Wade|||a
 Walker|||a
-Wang|||a
-Ward|||a
-Ware|||a
 Warren|||a
 Wat|||a
-Watt|||a
 Way|||a
 Weald|||a
 Wear|||a
 Web|||a
 West|||a
 Wicca|||a
-Wilde|||a
 Will|||a
 Willie|||a
 Willow|||a
-Willy|||a
-Winter|||a
-Wisdom|||a
 Wolf|||a
 Wood|||a
 Woody|||a
 Wool|||a
 Woomera|||a
-Worms|||a
-Yap|||a
 Yard|||a
 Yoga|||a
 York|||a
 Young|||a
 Yuki|||a
-Zak|||a
 Zarina|||a
-Zealand|||a
 Zephyr|||a
-Zeta|||a
-Zia|||a
 Zoe|||a
 Jessie|||a
 Piers|||a
 Noah|||a
-Nokia|||a
 Hyperion|||a
 Theia|||a
-Coeus|||a
 Mnemosyne|||a
 Kilimanjaro|||a
 Sharon|||a
-Freecycle|||a
 Morse|||a
 Themis|||a
-Crius|||a
 Iapetus|||an
 Adele|||an
-Mack|||a
 Alisha|||an
 Arran|||an
 Aran|||an
 Atlantic Ocean|||an
 Earth|||an
-Cambyses|||a
 Palatine|||a
-Samaria|||a
 Dunbar|||a
 Norn Iron|||a
 Martial|||a
-Aertel|||an
 Clifford|||a
 Galen|||a
 Bengal|||a
 Seattle|||a
 Kate|||a
 New World|||a
-Indian Ocean|||an
 Aleshia|||an
 Dalton|||a
 Abel|||an
@@ -2811,15 +2149,10 @@ Joyce|||a
 Phaistos|||a
 Styx|||a
 Ebola|||an
-Shana|||a
 Five Alls|||a
-King Arthur|||a
-FLOTUS|||a
 Armageddon|||an
 Mafia|||a
 Britannia|||a
-Art Deco|||an
-Ariah|||an
 Book of Mormon|||a
 Grammy|||a
 Christie|||a
@@ -2832,73 +2165,48 @@ Arabia|||an
 Cobol|||a
 C++|||a
 Dearborn|||a
-Karm|||a
 Eid al-Fitr|||an
 Eid al-Adha|||an
 Ismail|||an
 Ishmael|||an
 Ramadan|||a
-Fatima|||a
-Fat Man|||a
 Hanif|||a
 Hashshashin|||a
-Hejaz|||a
 Hezbollah|||a
 Muharram|||a
 Rajab|||a
-Desderman|||a
-Safar|||a
 Sha'aban|||a
-Shawwal|||a
 Hira|||a
 Husayn|||a
 Hamas|||a
-Ismaeli|||an
-Karbala'|||a
-Khadija|||a
-Koreish|||a
 Mahdi|||a
 Medina|||a
 Rabb|||a
 Sayyid|||a
 Taliban|||a
-'Uthman|||a
-Yawm al-Din|||a
 Horlicks|||a
 Swansea|||a
-Hangul|||a
-Killing Fields|||a
 Astrakhan|||an
 Berkeley|||a
-Upanishad|||an
 Valerian|||a
 Ural|||an
 Ural-Altaic|||an
 Moran|||a
-DRC|||a
 GMC|||a
 Derek|||a
 Kapingamarangi|||a
 McDonald's|||a
 Wheaties|||a
-CERN|||a
 Ashley|||an
 DAR|||a
-ACOG|||an
 AACAP|||an
-AFUD|||an
-NSF|||a
 ACE|||an
 AACD|||an
-APACS|||an
 Aristotle|||an
 Fleet Street|||a
 Kramer|||a
 Mi'kmaq|||a
 GTA|||a
-Aalst|||an
-NOAA|||a
-Cowper|||a
 Aldersgate|||an
 Stuart|||a
 Gen|||a
@@ -2906,7 +2214,6 @@ Nat|||a
 Hout Bay|||a
 Old Bailey|||an
 Whitehall|||a
-Duchesne|||a
 ALF|||an
 Gutenberg|||a
 Patricia|||a
@@ -2923,79 +2230,53 @@ Alanna|||an
 REXX|||a
 Averil|||an
 Bohemia|||a
-Midi|||a
-Daugavpils|||a
 Pall Mall|||a
-Anaheim|||an
 perestroika|||a
 Methuselah|||a
-NECCO|||a
 Tassie|||a
 Dover|||a
 TARDIS|||a
 Helen|||a
-Bicolano|||a
 Belauan|||a
 Scarlem|||a
-Corsica|||a
 Kyle|||a
 Adolph|||an
 Alec|||an
-Labour Party|||a
-MoMA|||a
 DEET|||a
-NAAFI|||a
 Benelux|||a
 Eurasia|||an
 Sahel|||a
-Ari|||an
 Rhineland|||a
 Sumatra|||a
 Mick|||a
-Mantoykas|||a
 Lorenz|||a
 Caesar|||a
 English Channel|||an
 Ceres|||a
-Great Red Spot|||a
 Cheapside|||a
-Proto-Uralic|||a
 Jenga|||a
 Lucia|||a
 New Labour|||a
 New World Order|||a
-Orimulsion|||an
-Aghori|||an
 Aufklärung|||an
 Mackenzie|||a
 Aar|||an
-Ummon|||an
 Stephanie|||a
-Faheem|||a
 Harlem|||a
 Bronx|||a
 Queens|||a
-Staten Island|||a
-Hudson River|||a
 Wheatley|||a
 Karen|||a
-Diganta|||a
 Lugh|||a
 Midir|||a
 Étaín|||a
-Tetra Pak|||a
 Tetris|||a
 Thanksgiving|||a
 Triton|||a
 Yehudi|||a
-Cayuse|||a
 Richter scale|||a
-Dubrovnik|||a
-Palookaville|||a
 Red Sox|||a
 Zoroastrianism|||a
-Thíra|||a
-Caracalla|||a
 Aegean Sea|||an
 Ava|||an
 Inquisition|||an
@@ -3006,91 +2287,58 @@ iBook|||an
 eMac|||an
 babygro|||a
 Narnia|||a
-UNISON|||an
 Ekavian|||an
 Fráech|||a
-Nera|||a
 RESPA|||a
 Levant|||a
 Wanda|||a
-Sherri|||a
-Trojan horse|||a
 Evan|||an
 Troy|||a
 Lapland|||a
 Quorn|||a
-Bogota|||a
-Bogotá|||a
 Carib|||a
 Ethel|||an
 Gummy Bears|||a
-South Island|||a
-North Island|||a
-Tricolor|||a
-Fedlimid|||a
 Snickers|||a
 Gondwana|||a
-Laurasia|||a
-Lyndsey|||a
 Dorothy|||a
 Providence|||a
 Proto-Germanic|||a
 Edgar|||an
 DPP|||a
 Lucy|||a
-Old Frisian|||an
 Old Irish|||an
 Coleridge|||a
-SCOTUS|||a
 Gilgamesh|||a
 Amata|||an
 Jake|||a
 Thames|||a
-Last Supper|||a
 Verulam|||a
 Amuzgo|||an
-Ayyavazhi|||an
 Leslie|||a
-Verulamium|||a
-Glasnevin|||a
 Katrina|||a
 Special K|||a
 UCAS|||an
 Rita|||a
 Old Blighty|||an
-Johansson|||a
-Ljubljana|||a
 7/7|||a
-Pech|||a
-Guantanamo Bay|||a
 Cognac|||a
 Rabbie|||a
 Robbie|||a
-Venda|||a
 Clyde|||a
 Severn|||a
 Shannon|||a
 Volga|||a
 Unabomber|||an
 Pericles|||a
-Limpopo|||a
-Mekong|||a
 Rubicon|||a
-Ain|||an
-Bogdan|||a
 Hudson|||a
-Liffey|||a
-Mersey|||a
-Meuse|||a
-Oder|||an
 Spey|||a
-Rhone|||a
 Yangtze|||a
 New Year's Eve|||a
 Erik|||an
 Derby|||a
 Hiroshima|||a
-Abdals|||an
 Caspian Sea|||a
 'nam|||a
 filmology|||a
@@ -3098,7 +2346,6 @@ Burgenland|||a
 Wagga|||a
 Wagga Wagga|||a
 Tina|||a
-Norfuk|||a
 Syrette|||a
 Neave|||a
 Xerxes|||a
@@ -3110,7 +2357,6 @@ Ganesha|||a
 Polly|||a
 Percy|||a
 Marissa|||a
-Bishop of Rome|||a
 Meredith|||a
 Wells|||a
 NASCAR|||a
@@ -3120,41 +2366,31 @@ Plattdeutsch|||a
 Julia|||a
 White Legend|||a
 Black Legend|||a
-Kahlúa|||a
 Woden|||a
 Sid|||a
 Jesse|||a
 Denise|||a
 Snoopy|||a
 Isabella|||an
-Isabelle|||an
-Ysabel|||a
 Isabel|||an
 Stokavian|||a
-Kajkavian|||a
-Marco|||a
 Carlo|||a
 Margot|||a
-Paco|||a
 Incredible Hulk|||an
 Freud|||a
 Solomon|||a
-Otsukimi|||an
 Gilbert|||a
 Darren|||a
 Fernando|||a
 Nando|||a
-Paolo|||a
 Hugo|||a
 Bruno|||a
 Angus|||an
 Raleigh|||a
 Boi|||a
 Tooele|||a
-Davo|||a
 Guido|||a
 Coulomb's law|||a
-Coulomb force|||a
 Rocco|||a
 Alfonso|||an
 Peggy|||a
@@ -3162,64 +2398,47 @@ North Sea|||a
 Preston|||a
 Fenian Cycle|||a
 Fianna Éireann|||a
-Emirates|||an
 Rzhevsky|||a
 Kyoto|||a
 Honshu|||a
-Dili|||a
 Rapunzel|||a
-Gilbertese|||a
 Borneo|||a
 Griko|||a
 Salento|||a
 Joel|||a
-Comcomly|||a
 ALCS|||an
 Shawnee|||a
 Cool Britannia|||a
 Conrad|||a
-Renjith|||a
 Corbin|||a
 Pictionary|||a
 Alaric|||an
-Seven Sages|||a
 Aeschylus|||an
 Seamus|||a
 Irwin|||an
 Jeroboam|||a
-Baltic Sea|||a
 Emerson|||an
 Samhain|||a
 Ging|||a
-Karasjok|||a
-Ålesund|||a
 CES|||a
 Cardinals|||a
 Jints|||a
 Tamil Tigers|||a
-Drina|||a
 BIA|||a
-Taconite|||a
 Astros|||an
 Azrael|||an
 Cecilia|||a
-Mogilev|||a
-Novi Sad|||a
-Zyrian|||a
 Zohar|||a
 Old High German|||an
 Lucas|||a
-Windhoek|||a
 ACMA|||an
 Eden|||an
 Cicero|||a
 TrackBack|||a
 Lion of Judah|||a
-Loughborough|||a
 Fergus|||a
 Mainz|||a
 Doric|||a
-Poppy Day|||a
 Remembrance Day|||a
 Phoebus|||a
 Virgil|||a
@@ -3228,11 +2447,8 @@ APEC|||an
 Inklings|||an
 Athan|||an
 Kabballah|||a
-Kalamazoo|||a
 Keynes|||a
 Kobe|||a
-Macassar|||a
-Llanelli|||a
 Nicole|||a
 Mac Arthur|||a
 Ali Baba|||an
@@ -3241,45 +2457,29 @@ Topeka|||a
 Finno-Ugric|||a
 Komi|||a
 Mansi|||a
-Khanty|||a
-Nenets|||a
-Nganasan|||a
 Enets|||an
 Kamas|||a
-Samoyedic|||a
 Adriatic Sea|||an
 Knox|||a
 Seneca|||a
-Japanglish|||a
 Doxbridge|||a
-Playboy|||a
 Jennifer|||a
 Lycian|||a
 Nidhogg|||a
 Darius|||a
 Latonia|||a
 Timothy|||a
-Armstrong|||an
 Eliza|||an
 Lisa|||a
 Turkey Day|||a
 Old Dart|||an
-Heilongjiang|||a
-Jilin|||a
 Liaoning|||a
-Portland|||a
 Vega|||a
 Lom|||a
-Stavanger|||a
-Trondheim|||a
-Tromsø|||a
 Black Friday|||a
 Dionysius|||a
-SPCA|||a
 Clive|||a
-ACTU|||an
 secret Santa|||a
-Malé|||a
 Dakota|||a
 Steph|||a
 Homer|||a
@@ -3288,60 +2488,41 @@ Oblation|||an
 Briana|||a
 Frenchy|||a
 Visitation|||a
-Siraiki|||a
 Saraiki|||a
 Elvis|||an
 Betamax|||a
 Apophis|||an
-Sanjay|||a
 Guadalcanal|||a
 Perl|||a
 Olivia|||an
-Wiles|||a
 Priscilla|||a
-Lamentations|||a
 Late Latin|||a
-Mummerset|||a
 Jahbulon|||a
 Jell-O|||a
-Holy Week|||a
 Huey|||a
-Baja|||a
 Baja California|||a
 Sonya|||a
 Prakash|||a
-Dhivehi|||a
-Hinglish|||a
 Balti|||a
 Old Bill|||an
-Mustafa|||a
 Preussen|||a
 Maghreb|||a
-TriBeCa|||a
 Tribeca|||a
 ASE|||an
-Anchorage|||an
 Pleiad|||a
 Dani|||a
-Mamu|||a
-Spartan|||a
 Lazarus|||a
 main sequence|||a
-Proverbs|||a
 Sisyphus|||a
 Samatha|||a
-Calvary|||a
 Christina|||a
 AVVID|||an
 Demotic Greek|||a
 Katharevousa|||a
-Kiara|||a
 Oakley|||an
 Darrell|||a
-Kenny|||a
 Winterval|||a
 Apple Isle|||an
-Tatarstan|||a
 Titania|||a
 Marshall|||a
 Old Norse|||an
@@ -3351,22 +2532,13 @@ VJ Day|||a
 Craig|||a
 Brigid|||a
 Dagda|||a
-Classical Latin|||a
 Gulf Stream|||a
 Southern Ocean|||a
 Byron|||a
 Romanticism|||a
 Welch|||a
-Chevrolet|||a
-East Anglia|||an
-Ellingham|||an
 α-Centauri|||a
-Cantabria|||a
-Advent Sunday|||an
-Times Square|||a
 Leidy|||a
-Ascension Day|||an
-Savior|||a
 Silvia|||a
 Silvius|||a
 Amelia|||an
@@ -3380,47 +2552,32 @@ Darwin Award|||a
 Francophonie|||a
 Miskito|||a
 Julian|||a
-Haruspice|||a
 Phoenicia|||a
-Sidon|||a
 Cú Roí|||a
 Winston|||a
 Vandals|||a
-Arioch|||an
 Clymene|||a
-Mesgegra|||a
 Mórrígan|||a
 Tetum|||a
 McQuarrie|||a
-Jèrriais|||a
-Sercquiais|||a
 Guernésiais|||a
 Bluey|||a
-Nazareth|||a
 Córdoba|||a
 City of London|||a
 Canticles|||a
 Kiritimati|||a
 Poohsticks|||a
 Celia|||a
-Mile High Club|||a
 Delia|||a
-Burroughs|||a
-Shreveport|||a
 Dusty|||a
-Liana|||a
 Judica Sunday|||a
 Hyperborea|||a
 Columbus|||a
-Blackpool|||a
 Bournemouth|||a
 Bradford|||a
-Brighton|||a
 Sunita|||a
-Esztergom|||an
 Wandering Jew|||a
 León|||a
-Deposition|||a
 Saviour|||a
 Coolgardie safe|||a
 Minorca|||a
@@ -3432,8 +2589,6 @@ Kosovo|||a
 Catharine|||a
 Cody|||a
 Holton|||a
-Kos|||a
-Freya|||a
 Tiu|||a
 Lydia|||a
 Jena|||a
@@ -3444,14 +2599,10 @@ Silastic|||a
 Jasmine|||a
 Cassandra|||a
 PowerPoint|||a
-Canada Dry|||a
 Old Slavonic|||an
-Dunedin|||a
 Shelta|||a
 Belvoir|||a
 Connacht|||a
-Upper Volta|||an
-Enya|||an
 Auster|||an
 Ricky|||a
 Prichard|||a
@@ -3459,79 +2610,49 @@ Hongcouver|||a
 Alison|||an
 Fido|||a
 Rinzai|||a
-Soto|||a
 Gloucester|||a
-Georgie|||a
 Faries|||a
 Dacia|||a
 Demi|||a
 Robin Hood|||a
 Liz|||a
-Ndonga|||a
 Caledonia|||a
 Transvaal|||a
-Martina|||a
 Tania|||a
 Stefan|||a
 Tatiana|||a
 Rodney|||a
 Andes|||an
-Maas|||a
 Natalie|||a
 Portsmouth|||a
 Exeter|||an
 Southampton|||a
-Southsea|||a
-Swanage|||a
-Yeovil|||a
-Poole|||a
-Newquay|||a
 Horus|||a
 Isis|||an
 Ephraim|||an
-Aiea|||an
-Aletta|||an
-Sorani|||a
 Nina|||a
-Pavlov|||a
 Ceram Sea|||a
-Gulf of Riga|||a
-Rockies|||a
-Ginevra|||a
-Tabo|||a
 Nichole|||a
 Tiber|||a
-Tiberias|||a
 Timbuktu|||a
 Niall|||a
 rot-13|||a
 Punchinello|||a
 Forbes|||a
-Gulf of Mexico|||a
-Adar|||an
 Guiana|||a
 Guianas|||a
 Maureen|||a
-Prudence|||a
-Descartes|||a
 Ark-La-Tex|||an
 Arctic Ocean|||an
-Tlapanec|||a
 Ariel|||an
 Siva|||a
 Thompson|||a
-Baroque period|||a
 Stacey|||a
-Tour de France|||a
-Saint Mary|||a
 Burushaski|||a
-Ivanhoe|||an
 Zeb|||a
 Zebedee|||a
 Zebadiah|||a
-Courier|||a
 Esther|||an
-Irish Sea|||an
 Davy|||a
 Davy Jones|||a
 God Almighty|||a
@@ -3547,52 +2668,40 @@ Engram|||an
 Ingram|||an
 Nguni|||a
 Khoisan|||a
-ICZN|||an
 Hottentot|||a
 Jacobs|||a
 Jude|||a
 Davies|||a
 Evans|||an
 Desmond|||a
-Mehmet|||a
 Enos|||an
 Faraday|||a
 Sherman|||a
 Shinto|||a
 Brahma|||a
 Rioja|||a
-Probert|||a
-Harris|||a
 Clarke|||a
-Patel|||a
 Harrison|||a
 Phillips|||a
 Parker|||a
 Bennett|||a
 Griffith|||a
-Ashura|||an
 Agnes|||an
 Wainwright|||a
-Plowright|||a
-Papiamentu|||a
 Fremantle|||a
 Joanne|||a
 Doitsu|||a
 Ravenscar|||a
 Triangulum|||a
-Palisades|||a
 Mitchell|||a
 Aberdeen Angus|||an
 Polwarth|||a
 Poltava|||a
 Zamzummim|||a
 Watergate|||a
-Tsakonian|||a
 Setswana|||a
 Tsinandali|||a
-Qingdao|||a
 Nazism|||a
-Tsonga|||a
 Gabby|||a
 Gabrielle|||a
 Carter|||a
@@ -3600,7 +2709,6 @@ Collins|||a
 Coll|||a
 Calgary|||a
 Wall Street|||a
-Miller|||a
 Murphy|||a
 Simpson|||a
 Sim|||a
@@ -3611,18 +2719,11 @@ Forster|||a
 Powell|||a
 Chapman|||a
 Singh|||a
-Webb|||a
 Rogers|||a
-Machen|||a
 Tariq|||a
 Turkic|||a
 Soave|||a
-Schwendiman|||a
 Paula|||a
-Sabellian|||a
-Spello|||a
-Angelina|||an
-Marius|||a
 Flag Day|||a
 Fenrir|||a
 Iliad|||an
@@ -3631,22 +2732,16 @@ Calvin|||a
 Madeline|||a
 Osiris|||an
 Stanford|||a
-Erzya|||an
 Clare|||a
 Yuri|||a
-Leinster|||a
 Konglish|||a
 Tyrol|||a
 Houdini|||a
-Americas|||an
 Gertrude|||a
 Hodge|||a
 Huntington|||a
-Campine|||a
 Titus|||a
-Gretchen|||a
 Dravidian|||a
-Ingria|||an
 Karelia|||a
 UCI|||an
 Ossetia|||an
@@ -3661,61 +2756,42 @@ Abkhazia|||an
 Western Apache|||a
 Jicarilla|||a
 Chiricahua|||a
-Yugambeh|||a
 Pleiades|||a
 Pollux|||a
 Iain|||an
-Adigoppula|||an
 Antares|||an
-Alrisha|||an
 Zubenelgenubi|||a
 Zubeneschamali|||a
-East Indies|||an
 Ruritania|||a
 Hyades|||a
 Proto-Greek|||a
 Pinkerton|||a
 Sasha|||a
-Tinker|||a
 USAC|||an
-Sammi|||a
 Betawi|||a
-Ade|||an
 Altair|||an
 Arcturus|||an
 Antlia|||an
-Sparty|||a
 Pterelas|||a
 Karst|||a
 Slavonic|||a
 Hellen|||a
-Karachi|||a
 Sindh|||a
-Connel|||a
 Kölsch|||a
-Dr Jekyll|||a
 Mr Hyde|||a
 Chandler|||a
 Tamazight|||a
 Ahriman|||an
 Mithraism|||a
 Mithras|||a
-Macedon|||a
-Molossia|||a
 Olympias|||an
 Alexandros|||an
 Shiva|||a
-Beavis|||a
 Bevis|||a
 Tausug|||a
 Bevis Marks|||a
-Norman Conquest|||a
 Salish|||a
 Yuan|||a
-North Aegean|||a
-South Aegean|||a
-West Greece|||a
-West Macedonia|||a
 Theresa|||a
 Stalin|||a
 Bolton|||a
@@ -3723,41 +2799,24 @@ Lusitania|||a
 Nehemiah|||a
 Ecclesiastes|||an
 Jainism|||a
-Song of Solomon|||a
 Isaiah|||an
-Lammastide|||a
 Sukkot|||a
-Plinko|||a
-Rios|||a
 Boötes|||a
-Ceto|||a
 Mira|||a
 Cepheus|||a
 Cassiopeia|||a
-Hudson Bay|||a
-Inland Sea|||an
-Cardia|||a
 Pomerania|||a
-Gorki|||a
-Jicaque|||a
 Aalborg|||an
-Aarau|||an
 Aarhus|||an
-Amarillo|||an
 Tzutujil|||a
 Bonaparte|||a
 Acholi|||an
-Adangme|||an
 Afrihili|||an
 Generica|||a
-Emanuel|||an
 Emmanuel|||an
-Kati|||a
 Hashem|||a
-Havdalah|||a
 Snowdon|||a
 Kansa|||a
-Keisha|||a
 Lars|||a
 Monty|||a
 Siddhartha|||a
@@ -3768,13 +2827,11 @@ Guugu Yimidhirr|||a
 Sundanese|||a
 Deneb|||a
 Albireo|||an
-King Kong|||a
 Thuban|||a
 Micah|||a
 Tracey|||a
 Dorado|||a
 Alnair|||an
-Matthews|||a
 Fornax|||a
 Braxton|||a
 Alnitak|||an
@@ -3791,22 +2848,16 @@ Deneb Kaitos|||a
 Diphda|||a
 Charlton|||a
 Denebokab|||a
-Dschubba|||a
 Dubhe|||a
 Elnath|||an
 Enif|||an
 Eltanin|||an
 Fomalhaut|||a
-Algiedi|||an
-Kochab|||a
 Mirfak|||a
-Menkar|||a
 Horologium|||a
 Mintaka|||a
-Phecda|||a
 Ras Algethi|||a
 Maxwell|||a
-Aberg|||an
 Indic|||an
 Indies|||an
 Markab|||a
@@ -3815,24 +2866,19 @@ Puppis|||a
 Argo Navis|||an
 Carina|||a
 Canopus|||a
-Ghia|||a
 Falstaff|||a
 Septuagint|||a
 Sega|||a
 Ursa Minor|||an
 Big Dipper|||a
 Little Dipper|||a
-Mizar|||a
-Enceladus|||an
 Wadjet|||a
-Hehe|||a
 Kaffir|||a
 Greg|||a
 Cameron|||a
 Reggie|||a
 Pekingese|||a
 Laurence|||a
-Samuelson|||a
 Donnie|||a
 Jeremiah|||a
 Ezekiel|||an
@@ -3842,23 +2888,17 @@ Obadiah|||an
 Jonah|||a
 Nahum|||a
 Habakkuk|||a
-Zephaniah|||a
-Haggai|||a
 Zechariah|||a
 Malachi|||a
-Jeanne|||a
 Dina|||a
 Emma|||an
 Candide|||a
-Mehmed|||a
 Dinah|||a
-Wenglish|||a
 Cardiff|||a
 Zalika|||a
 Golden Horde|||a
 Alcmene|||an
 Brandon|||a
-Mauretania|||a
 Maritimes|||a
 Wendy|||a
 Tōkyō|||a
@@ -3870,16 +2910,9 @@ Alexa|||an
 Elliott|||an
 Bible Belt|||a
 Thebes|||a
-Pesach|||a
-Forro|||a
 Kuroshio|||a
 Aidan|||an
 Clifton|||a
-Bret|||a
-Milos|||a
-Ratner|||a
-Zola|||a
-Fulcher|||a
 Tiffany|||a
 Maoriland|||a
 Octans|||an
@@ -3887,9 +2920,7 @@ Norma|||a
 Leo Minor|||a
 Summer Triangle|||a
 Sextans|||a
-Berks|||a
 Geordie|||a
-Leodensian|||a
 Trollope|||a
 Cthulhu|||a
 Allie|||an
@@ -3897,18 +2928,12 @@ Lexi|||a
 Ellie|||an
 Law|||a
 Antigua|||an
-N.N.|||a
-Permic|||a
 Local Group|||a
 Chad Basin|||a
 Locke|||a
-Twi|||a
-Anthea|||an
 Body of Christ|||a
 Tz'utujil|||a
-True Cross|||a
 Australasia|||an
-Yahoo!|||a
 Monoceros|||a
 Gladys|||a
 Toblerone|||a
@@ -3923,14 +2948,11 @@ Assyria|||an
 Rachael|||a
 Abbas|||an
 Star Trek|||a
-Veps|||a
 Roland|||a
 San Diego|||a
 Friesian|||a
 Baileys|||a
 Diwali|||a
-Mustique|||a
-Andhra Pradesh|||an
 Lancaster|||a
 Minnie|||a
 Campbell|||a
@@ -3949,25 +2971,18 @@ Nathan|||a
 Rigel|||a
 Tucana|||a
 Rajesh|||a
-Rajindra|||a
-Erle|||an
 Pangasinan|||a
 Cade|||a
-Gringolandia|||a
 Mindy|||a
 Melinda|||a
-Rolls-Royce|||a
 Wyandot|||a
 Cath|||a
 Eleanor|||an
-Lizzie|||a
 Debbie|||a
 Lovecraft|||a
 Reticulum|||a
 Orion Nebula|||an
 Orion's Belt|||an
-Bordeaux|||a
-Mont Blanc|||a
 Cassidy|||a
 Canis Major|||a
 Canis Minor|||a
@@ -3981,52 +2996,31 @@ Fisher|||a
 Zhuang|||a
 Trent|||a
 Parthia|||a
-Rodinia|||a
 Bartitsu|||a
-Daniela|||a
 Romani|||a
 Gotham|||a
-Books of Moses|||a
 Levi|||a
 Vulgate|||a
 Annam|||an
 Annamese|||an
 Jefferson|||a
-Aizu|||an
 Albigenses|||an
-Albi|||an
-Millerchip|||a
 Tobias|||a
 Kimberly|||a
-Minsk|||a
 Port Moresby|||a
-Honiara|||a
 Ulaanbaatar|||an
-Dhaka|||a
-Islamabad|||an
-Thimphu|||a
 Bishkek|||a
 Dushanbe|||a
-Ashgabat|||an
 Baku|||a
 Yerevan|||a
-Amman|||an
 Santiago|||a
-Paramaribo|||a
-Port of Spain|||a
-Port-au-Prince|||a
 Kingston|||a
-San José|||a
 San Jose|||a
 Koch|||a
 Phyllis|||a
 Margo|||a
-Gwen|||a
-Diego|||a
 Blake|||a
-Daria|||a
 Jamie|||a
-Saanich|||a
 Nicola|||a
 Letzeburgesh|||a
 Livonia|||a
@@ -4035,39 +3029,20 @@ Benito|||a
 Equuleus|||an
 Eridanus|||an
 Salome|||a
-Michiana|||a
 Georgina|||a
 Lyons|||a
-Alsace|||an
-St. John's|||a
 Bridgetown|||a
-Porto-Novo|||a
-Gaborone|||a
-Ouagadougou|||an
 Bujumbura|||a
 N'Djamena|||a
 Kinshasa|||a
-Yamoussoukro|||a
-Abidjan|||an
-Roseau|||a
-Asmara|||an
-St. George's|||a
-Conakry|||a
-Yaren|||a
-Astana|||an
-Auvergne|||an
 Lorraine|||a
 Limousin|||a
-Catie|||a
 Graves|||a
 Clement|||a
 JavaScript|||a
-Advaitism|||an
-Orkney|||an
 Diane|||a
 Hank|||a
 Plymouth Rock|||a
-Chinese Taipei|||a
 Isidore|||an
 Perry|||a
 Gamilaraay|||a
@@ -4076,33 +3051,23 @@ Natasha|||a
 Nora|||a
 Animesh|||an
 Anirvan|||an
-Armaghan|||an
 Arnab|||an
 Ajish|||an
 Garinagu|||a
 Gurmukhi|||a
-Yulgyal|||a
-Arijit|||an
-Verma|||a
 Rohypnol|||a
 Bharatiya|||a
-Boutcher|||a
 Rockefeller|||a
-Chirag|||a
-Organon|||an
 Althing|||an
 Scotland Yard|||a
-Dene|||a
 Josie|||a
 Josephine|||a
 Aly|||an
 Lexie|||a
 Chrissy|||a
-Boggabri|||a
 Ceylon|||a
 Leeds|||a
 Pompey|||a
-Zack|||a
 Jameson|||a
 Cowboys|||a
 Norcal|||a
@@ -4110,25 +3075,14 @@ Armada|||an
 Carrie|||a
 Cary|||a
 Enobakhare|||an
-Stephenson|||a
-Peshawar|||a
-Lahore|||a
 Balochistan|||a
 Xinjiang|||a
 Trevena|||a
-Tvisha|||a
 Holy Trinity|||a
 Kiran|||a
-Suraj|||a
-Poonam|||a
-Spanish Armada|||a
-Adlai|||an
-Mother Teresa|||a
-Ende|||an
 Tarbes|||a
 Nostratic|||a
 Pilipino|||a
-Noypi|||a
 Marion|||a
 Shemaiah|||a
 Chinook|||a
@@ -4137,16 +3091,8 @@ Abruzzi|||an
 Audrey|||an
 Tamara|||a
 Bartholomew|||a
-Saikat|||a
-Sailesh|||a
-Santhosh|||a
-Sapan|||a
-Zoloft|||a
 Laphroaig|||a
-Karnack|||a
 Sawyer|||a
-Ritesh|||a
-Zachariah|||a
 Qanungo|||a
 Keiran|||a
 Newport|||a
@@ -4159,8 +3105,6 @@ Augustine|||an
 Priya|||a
 Augusta|||an
 Bandarban|||a
-Bitola|||a
-Lin|||a
 SSP|||a
 Otto cycle|||an
 Gerald|||a
@@ -4173,13 +3117,8 @@ Charley|||a
 Mapudungun|||a
 Leicester|||a
 Powys|||a
-Mebin|||a
 Ashton|||an
-Netra|||a
-Warlpiri|||a
-Jamal|||a
 Abdinasir|||an
-Debadutta|||a
 Lukas|||a
 Tshiluba|||a
 Podgorica|||a
@@ -4191,21 +3130,13 @@ Kennedy|||a
 Tyler|||a
 Shavuot|||a
 Cangjie|||a
-Gusii|||a
-Gweno|||a
-Gwere|||a
 Kangxi|||a
 Ankit|||an
 Ogg|||an
 Elkanah|||an
-Boho|||a
-Hammers|||a
-Brahui|||a
 Bena|||a
 Frisco|||a
 Kira|||a
-Solent|||a
-Ben Nevis|||a
 NKVD|||a
 Katy|||a
 Jody|||a
@@ -4213,13 +3144,10 @@ Jodi|||a
 Darlene|||a
 Charlene|||a
 Guinevere|||a
-Winifred|||a
 Justine|||a
 Beverly|||a
 Wedgwood|||a
-Nara|||a
 Kendra|||a
-Rosh Hodesh|||a
 Bethlehem|||a
 Badiu|||a
 Bádiu|||a
@@ -4227,16 +3155,12 @@ Alemannic|||an
 Platz|||a
 Vladimir|||a
 Ross|||a
-Skippy|||a
 Esau|||an
 Swat|||a
-Fairbanks|||a
 Burton|||a
 Bessie|||a
-Loch Ness|||a
 Great Lakes|||a
 Woodstock|||a
-Narayan|||a
 Glastonbury|||a
 Glasto|||a
 Darkinjung|||a
@@ -4248,11 +3172,9 @@ Absalom|||an
 Demetrius|||a
 Edom|||an
 Elias|||an
-Joab|||a
 Long Island|||a
 Eire|||an
 Popeye|||a
-Ntuzu|||a
 Palauan|||a
 Antony|||an
 Luther|||a
@@ -4264,91 +3186,57 @@ Canute|||a
 Catawba|||a
 Phobos|||a
 Deimos|||a
-Callisto|||a
 Themisto|||a
 Miranda|||a
 Cochin China|||a
 Weet-Bix|||a
-Wanji|||a
-Wungu|||a
 Wiradjuri|||a
 Rio|||a
-Tarzan|||a
-Rouen|||a
 Sirius|||a
 Clarence|||a
 Alyssa|||an
 Kiseri|||a
 Kisi|||a
-Datiwuy|||a
-Duwal|||a
 Cubs|||a
-Robbi|||a
-ViVa|||a
 Moctezuma|||a
 Damon|||a
-St Andrews|||a
 Turan|||a
 Amara|||an
-Cwm Silicon|||a
-Luis|||a
-Nass|||a
-Ipswich|||an
 Camelot|||a
 Canterbury|||a
 Becky|||a
 Hayley|||a
-Harz|||a
 Norwich|||a
-Singlish|||a
 Edwin|||an
 Abanyom|||an
 Abaza|||an
-Jimmie|||a
 Dudley|||a
 Abujmaria|||an
-Acehnese|||an
 Plymouth|||a
 Ashkun|||an
 Badaga|||a
-Badeshi|||a
-Basaa|||a
-Bezhta|||a
 Bhili|||a
 Bhojpuri|||a
 Angika|||an
-Konkani|||a
-Magadhi|||a
-Caluyanon|||a
-Dahlik|||a
 Dameli|||a
 Anaiah|||an
 Pandu|||a
-Embu|||an
 Dida|||a
-Dogri|||a
 Dolgan|||a
-Domaaki|||a
-Ekoti|||an
 Bellini|||a
 Pandavas|||a
 Salisbury|||a
-Highway Code|||a
 Hokkaido|||a
 Kyushu|||a
 Shikoku|||a
 Jared|||a
-Dhatki|||a
 Beja|||a
-Bhutani|||a
-Bihari|||a
 Madonna|||a
 Giles|||a
 Versailles|||a
 Vichy|||a
 Louisa|||a
 Knicks|||a
-Hangaza|||a
 Sesotho|||a
 Minix|||a
 Ngoni|||a
@@ -4361,19 +3249,12 @@ Dante|||a
 Vanir|||a
 Avar|||an
 Capri|||a
-Red Sea|||a
-Suez Canal|||a
-Potawatomi|||a
-Osci|||an
 Bungu|||a
-Aragon|||an
 Ijekavian|||an
 Ikavian|||an
 Kaurna|||a
 Mwera|||a
 Pioneer Day|||a
-Sulawesi|||a
-Forest of Dean|||a
 Pole Star|||a
 Salem|||a
 Hemant|||a
@@ -4385,7 +3266,6 @@ Elsie|||an
 Cromwell|||a
 Madison|||a
 Stratford|||a
-Rajiv|||a
 Harvard|||a
 Carlyle|||a
 Linnaeus|||a
@@ -4404,55 +3284,39 @@ Chelsea|||a
 Tyne|||a
 Gateshead|||a
 Susy|||a
-Freddie|||a
 Edna|||an
 Eunice|||an
 Edlyn|||an
 Elgan|||an
-Monmouth|||a
 Jocelyn|||a
 Caleb|||a
 Cuthbert|||a
 Cassius|||a
 Nashville|||a
 Herman|||a
-Bertie|||a
 Herod|||a
 Humphrey|||a
-Jennie|||a
 Nathaniel|||a
 Mildred|||a
 Milly|||a
 Pilgrim|||a
 Olaf|||an
 Bedford|||a
-Calais|||a
 Macbeth|||a
 Pamela|||a
 Leipzig|||a
-Merlin|||a
-Dicky|||a
-Crewe|||a
 Cincinnati|||a
 Kalema|||a
 Fourth of July|||a
 Baldwin|||a
-Homberg|||a
-Kampala|||a
 Lucian|||a
 Samosata|||a
 Dog Star|||a
 Winter Triangle|||a
 Yindjibarndi|||a
-Midas touch|||a
 Olympia|||an
-North Shields|||a
-Haitian Creole|||a
 Zaparoan|||a
-Andoa|||an
-Záparo|||a
 Mandinka|||a
-Henriette|||a
 Carlisle|||a
 Norris|||a
 Marcella|||a
@@ -4460,6 +3324,7 @@ Wallace|||a
 Malcolm|||a
 Cynthia|||a
 Shelley|||a
+Sara|||a
 Marguerite|||a
 Lionel|||a
 Cyrus|||a
@@ -4474,20 +3339,16 @@ Orinoco|||an
 Blackwood|||a
 Highlands|||a
 Erie|||an
-Skolt Sami|||a
 Bassett|||a
 Clarissa|||a
 Roderick|||a
 Aladdin|||an
 Whitney|||a
 Nuremberg|||a
-Bastille|||a
 Olympus|||an
 Susie|||a
-Suzie|||a
 Leonard|||a
 Románico|||a
-Le Havre|||a
 Bryan|||a
 Boyd|||a
 Elise|||an
@@ -4496,51 +3357,23 @@ Vance|||a
 Johanna|||a
 Monterey|||a
 Dundee|||a
-Middlesbrough|||a
-Waffen-SS|||a
 Wolverhampton|||a
-Lille|||a
 Pythagoras|||a
-Rotterdam|||a
 Ningbo|||a
 Annabel|||an
 Berwick|||a
-Elbe|||an
-Munster|||a
-Caen|||a
-Calvados|||a
 Broon|||a
 Broonale|||a
 Seriland|||a
 Alvíssmál|||an
 Baldrs draumar|||a
-Hávamál|||a
 Martuthunira|||a
-Kamba|||a
 Karuk|||a
-Katcha|||a
-Kerebe|||a
-Khakas|||a
-Kibosho|||a
-Kilegi|||a
-Kimbu|||a
-Kuria|||a
-Kwere|||a
 Pauline|||a
-Lambya|||a
 Langi|||a
 Black Country|||a
-South Shields|||a
-Luhyia|||a
-Lumasaaba|||a
-Lungwa|||a
-Lusoga|||a
-Munukutuba|||a
-Machame|||a
 Nephilim|||a
 Makonde|||a
-Nagykanizsa|||a
-Mambwe|||a
 Manda|||a
 Maragoli|||a
 Sangamon|||a
@@ -4548,208 +3381,103 @@ Teesside|||a
 Wenis|||a
 Bandersnatch|||a
 Shan|||a
-Arkhangelsk|||an
 Völuspá|||a
 Ilonggo|||an
 Wagner|||a
-North Africa|||a
 USP|||an
 Taffia|||a
 Kaaba|||a
 Philippa|||a
-Vesuvius|||a
 Hamish|||a
-Jimbo|||a
 Amanab|||an
 Ophelia|||an
 Sheffield|||a
 Gladstone|||a
-Lanarkshire|||a
-Dunkirk|||a
 Lou|||a
 Pompeii|||a
 McLeod|||a
 Kendal|||a
 Pittsburgh|||a
 Dartmouth|||a
-Annapolis|||an
-Keavy|||a
-Matengo|||a
 Matrixism|||a
-Matumbi|||a
-Mbunga|||a
 Meru|||a
-Merutig|||a
-Father of Lies|||a
 Inari|||an
-Kildin Sami|||a
 Brest|||a
-Arundel|||an
 Sammie|||a
 Amalek|||an
 Immanuel|||an
-Nathu La|||a
 Houston|||a
-Wilfred|||a
 Nam|||a
-Dallas|||a
 Felix|||a
-Mkuu|||a
-Rombo|||a
-Red Crescent|||a
-Mkwaya|||a
 Gabi-Gabi|||a
 Hoppins|||a
-Morohashi|||a
-Mpoto|||a
-Munyarwand|||a
 Waterloo|||a
-Ndamba|||a
-Ndengeleko|||a
-Ngoreme|||a
-Nyakyusa|||a
-Nyamwezi|||a
-Nyaturucha|||a
-Nyaturuwil|||a
-Nyiramba|||a
-Lavukaleve|||a
 Elisabeth|||an
-Paakantyi|||a
-Pangwa|||a
-Verena|||a
-Pimbwe|||a
 Ahmad|||an
 Elton|||an
-Graeme|||a
 Hereford|||a
 Roswell|||a
 Albuquerque|||an
 Trenton|||a
-Sorcha|||a
-Dorcha|||a
 Dieppe|||a
-Jungfrau|||a
 Newark|||a
-Salamanca|||a
 Rotuman|||a
 Rufiji|||a
-Rukiga|||a
 Rundi|||a
-Rungwa|||a
-Runyambo|||a
-Runyankore|||a
-Runyoro|||a
-Rutooro|||a
-Safwa|||a
-Samialugwe|||a
 Sayers|||a
-Caerphilly|||a
 Sangu|||a
 Scotch tape|||a
-Siha|||a
-Sonjo|||a
-Suba|||a
-Sumbwa|||a
-Tharaka|||a
 Heathenry|||a
 Maeve|||a
 Reynold|||a
-Galilee|||a
-Ulwa|||an
-Vunjo|||a
 Wild West|||a
 Aberystwyth|||an
-Maastricht|||a
-Zanaki|||a
-Zaramo|||a
-Zigua|||a
-Zinza|||a
 Formula One|||a
 Gothenburg|||a
 Malmö|||a
-Y2K38|||a
-Bonn|||a
 Jeeves|||a
 Lübeck|||a
-Ulm|||an
 Bangor|||a
 Rupert|||a
 Randolph|||a
 Gaston|||a
 Mortimer|||a
-Manuel|||a
-Arabella|||an
 Vivian|||a
 Curtis|||a
 Matilda|||a
 Carthage|||a
 Sophy|||a
 Montgomery|||a
-Crawley|||a
-Dawida|||a
 Fates|||a
 Dermot|||a
 Cal|||a
-Estelle|||an
 Ariadne|||an
-Freddy|||a
 Crimea|||a
 Yarmouth|||a
-Wickham|||a
 Pearl Harbor|||a
 Telford|||a
-Fipa|||a
-Franny|||a
 Frannie|||a
 Hilary|||a
-Jules|||a
 Memphis|||a
-Clementina|||a
-Johnnie|||a
 Bess|||a
 Bradley|||a
-Beethoven|||a
 Louvre|||a
 Worcester|||a
-Harwich|||a
-Penzance|||a
-Southend-on-Sea|||a
-Truro|||a
-Colchester|||a
-Chelmsford|||a
 Birkenhead|||a
-Doncaster|||a
-Guildford|||a
-Lowestoft|||a
 Luton|||a
 Maidstone|||a
 Margate|||a
 Shrewsbury|||a
-Swindon|||a
-Basingstoke|||a
-Swanwick|||a
 Poetic Edda|||a
 Henderson|||a
 Dawson|||a
-Newman|||a
-Supreme Soviet|||a
-Ikizu|||an
-Jita|||a
-Kiha|||a
-Kimochi|||a
-Kutu|||a
 Mabia|||a
-Malila|||a
 Caitlin|||a
 Rydberg|||a
-Ivrit|||an
-Jarrow|||a
 Kev|||a
 Kinga|||a
 Nata|||a
-Ndali|||a
 Ndari|||a
-Sambaa|||a
 Goliath|||a
 Beltway|||a
 Anirban|||an
@@ -4757,145 +3485,65 @@ Ariana|||an
 Sameer|||a
 Susmita|||a
 Trewartha|||a
-Mindanao|||a
-Hispaniola|||a
 New Britain|||a
 Timor|||a
-Sumbawa|||a
-Palawan|||a
-Negros|||a
 Soho|||a
-Lourdes|||a
 Strasbourg|||a
 Springfield|||a
 Bert and Ernie|||a
-Gestuno|||a
 Abdon|||an
 Mayberry|||a
-Abey|||an
 Ondine's curse|||an
 Aiden|||an
-Alejandro|||an
 Ypres|||a
-Dijon|||a
-Toulouse|||a
 Lausanne|||a
 Clem|||a
-Lovell|||a
 Windsor|||a
 Central Asia|||a
-Novo Mesto|||a
 Hagar|||a
-Pretoria|||a
 Magdeburg|||a
-Lizzy|||a
-Lidia|||a
-Grenoble|||a
 Yvonne|||a
 Yukon|||a
-Likud|||a
-Knesset|||a
-sulfur works|||a
 Millie|||a
-Waterford|||a
 Canaries|||a
-Bessy|||a
-Jägermeister|||a
-Katrine|||a
-Będzin|||a
 Gina|||a
-Mongolic|||a
 Navid|||a
 Naveed|||a
-Geddies|||a
 Zippergate|||a
-Aharon|||an
-Abundius|||an
 Elmer|||an
 Krisa|||a
 Micky|||a
 Naved|||a
-Montpellier|||a
-Erfurt|||an
-Mayflower|||a
-Achaius|||an
-Adair|||an
 Adamnan|||an
 Ahab|||an
 Abi|||an
 Aegidius|||an
 Ahaz|||an
-Millennium Dome|||a
-Kenai|||a
-Mazandaran Sea|||a
-Sudip|||a
 Abdullatif|||an
-Abdunnasir|||an
-Alven|||an
 Alwin|||an
-Alwyn|||an
-Alphonse|||an
-Alonso|||an
-Alonzo|||an
-Alfie|||an
-Alfy|||an
-Albie|||an
 Alby|||an
 Erasmus|||an
-Davidson|||a
 Harley|||a
 Harley Street|||a
 Alban|||an
-Albin|||an
-Alastair|||an
-Aleck|||an
 Allister|||an
-Aleksei|||an
 Epicurus|||an
 Oberon|||an
-Arjuna|||an
 Elgar|||an
-Barnsley|||a
-Swindonian|||a
 Scheherazade|||a
-Nantes|||a
-Cannes|||a
 Comforter|||a
-Ashleigh|||an
 Denis|||a
 Planet X|||a
-Ernesto|||an
 Santa Cruz|||a
 Advaita|||an
-Troyes|||a
-Vannes|||a
 Tours|||a
-Bandjalang|||a
-Breda|||a
-Kilkenny|||a
-Clint|||a
 Courtney|||a
-Acapulco|||an
-Tianjin|||a
-Guadalajara|||a
-Western Samoa|||a
 West Bank|||a
 Wessex|||a
 West Africa|||a
-Western Europe|||a
-Maasai|||a
 Easter Island|||an
-Rhode|||a
-Haakon|||a
 Hezekiah|||a
 Armenian SSR|||an
-Tajik SSR|||a
-Uzbek SSR|||an
-Hazara|||a
-Hawick|||a
-Extremadura|||an
-Brutus|||a
-Noele|||a
 Gustav|||a
 Gus|||a
 Cecile|||a
@@ -4904,13 +3552,7 @@ Meriam|||a
 Hadrian|||a
 Sandra|||a
 Trey|||a
-Goethe|||a
-Isthmus Zapotec|||an
-Juchitán|||a
-Peacock Throne|||a
-Boyle|||a
 Matthias|||a
-Meghan|||a
 Thelma|||a
 Taj Mahal|||a
 Dieri|||a
@@ -4918,62 +3560,32 @@ Minneapolis|||a
 Bharat Army|||a
 Dharuk|||a
 Corinthians|||a
-Interlingue|||an
 Lara|||a
 Boise|||a
 Denver|||a
 Lansing|||a
-Raghda|||a
-Bamako|||a
-Abuja|||an
-Apia|||an
-Castries|||a
 Doha|||a
-Kingstown|||a
-Lilongwe|||a
-Majuro|||a
-Managua|||a
 Kishinyov|||a
-Great War|||a
-Ammon|||an
 Pilate|||a
-Thamar|||a
 Charlemagne|||a
-Pepys|||a
 Dysnomia|||a
-Inari Sami|||an
-Southern Sami|||a
-Lule Sami|||a
 Jasper|||a
 Charleston|||a
 Sparta|||a
-Lezghian|||a
 Dagestan|||a
 Popocatépetl|||a
 Algarve|||an
-Alicante|||an
 Zaragoza|||a
-Saragossa|||a
 Navarre|||a
-Murcia|||a
-Finistère|||a
-Loire|||a
-Vendée|||a
 Somme|||a
 Moselle|||a
-Mayenne|||a
 White House|||a
 Gail|||a
 Banstead|||a
-Palio di Siena|||a
 Willis|||a
-Middle Kingdom|||a
 Ackermann|||an
 Davenport|||a
 Great Bear|||a
-Omid|||an
-Qaanaaq|||a
-Kandahar|||a
 Qazvin|||a
 Anakim|||an
 Kiput|||a
@@ -4983,26 +3595,16 @@ Samson|||a
 Mhairi|||a
 Grand Guignol|||a
 E-day|||an
-Padania|||a
 Popoloca|||a
-Lollywood|||a
-Lord's Prayer|||a
 Ayr|||an
-Stu|||a
 Canaan|||a
-Saddam|||a
 Lafayette|||a
 Ulster Scots|||an
-Subaru|||a
-Avi|||an
-Vesper|||a
-Carys|||a
 Lashkar|||a
 Hannibal|||a
 Carson|||a
 Abenaki|||an
 Achumawi|||an
-Miao|||a
 Sidhe|||a
 Cuauhtémoc|||a
 Hester|||a
@@ -5016,13 +3618,8 @@ Jonas|||a
 Clinton|||a
 Seb|||a
 Deb|||a
-Debby|||a
 Deborah|||a
 Jeb|||a
-Mopelia|||a
-Society Islands|||a
-El Nino|||an
-Võro|||a
 Tanduay|||a
 Brulé|||a
 Josiah|||a
@@ -5032,93 +3629,57 @@ Lingala|||a
 Aglaia|||an
 Mount Rushmore|||a
 Proto-Japonic|||a
-Castile|||a
 Moldavia|||a
 Chihuahua|||a
-Knights Templar|||a
 Dave|||a
 Dixie|||a
-Kalie|||a
 Quincy|||a
 Kyōto|||a
 Palatinate|||a
 Empedocles|||an
-Baoulé|||a
-Twin Towers|||a
-Nablus|||a
 Dalmatia|||a
 Istria|||an
-HTTPd|||a
 Naomi|||a
-Nattalie|||a
-Racquel|||a
 Renée|||a
-Renata|||a
 Sabina|||a
 Sayer|||a
 Tula|||a
-Afeefa|||an
 Sahar|||a
 Sudovia|||a
 Serena|||a
 Siobhan|||a
-Simonetta|||a
 Sinead|||a
-Simona|||a
-Sonia|||a
-Stace|||a
 Stef|||a
-Steff|||a
-Symone|||a
-Tasha|||a
 Tess|||a
 Tessa|||a
-Trisha|||a
-Valarie|||a
 Day-Glo|||a
 Beaumont|||a
-Kadiwéu|||a
-Kadiweu|||a
-Kwanyama|||a
 Lak|||a
-Apalaí|||an
 Nheengatu|||a
 Tucano|||a
 Williamson|||a
-Kester|||a
 Sea of Japan|||a
 Ophir|||an
 Ramesh|||a
 ARIN|||an
-Royal Marines|||a
 Hammond|||a
 Warner|||a
 Reginald|||a
 Hubert|||a
 Cornelius|||a
 Tristram|||a
-Winsock|||a
 Zelda|||a
 Edison|||an
 Griselda|||a
 Des Moines|||a
-Woodbine|||a
 Agamemnon|||an
 North Star|||a
 Big Crunch|||a
 Rosh Hashanah|||a
-Tishrei|||a
-Cheshvan|||a
-Kislev|||a
 Tevet|||a
 Shevat|||a
-Nisan|||a
-Iyar|||an
-Sivan|||a
 Tammuz|||a
-Qezel Ozan|||a
 Kremlin|||a
-Kantei|||a
 Fennoscandia|||a
 Westphalia|||a
 Euahlayi|||an
@@ -5126,18 +3687,14 @@ Zoltan|||a
 Anglican Church|||an
 SFA|||a
 Lorena|||a
-Aimee|||an
 Lesley|||a
 Gaylord|||a
-Salt Lake City|||a
 Teton|||a
 Reformation|||a
 Santa Fe|||a
 Jenifer|||a
 Rochester|||a
 STEREO|||a
-Santoprene|||a
-Haifa|||a
 Lucius|||a
 Cato|||a
 Elijah|||an
@@ -5146,9 +3703,7 @@ Claudius|||a
 Baxter|||a
 Prescott|||a
 Sebastian|||a
-Leonardo|||a
 Everett|||an
-Monroe|||a
 Hampton|||a
 Osborne|||an
 Roosevelt|||a
@@ -5156,25 +3711,18 @@ Rowland|||a
 Clayton|||a
 Carroll|||a
 Weston|||a
-Harding|||a
-Greene|||a
 Hyde|||a
 Stanton|||a
 Rousseau|||a
-Oswald|||an
 Brooks|||a
 Perkins|||a
 Churchill|||a
 Hopkins|||a
-Browne|||a
 Beauchamp|||a
 Beaufort|||a
-Longfellow|||a
 Hartford|||a
 Pliny|||a
-Alsvid|||an
 Bismarck|||a
-Honora|||a
 Honorius|||a
 Buckingham|||a
 Eustace|||an
@@ -5194,14 +3742,10 @@ Huxley|||a
 Eliot|||an
 Cornelia|||a
 Confucius|||a
-Argyll|||an
 Southey|||a
 Silas|||a
 Bertram|||a
 Margery|||a
-Pushkin|||a
-Lermontov|||a
-Balzac|||a
 Athos|||an
 Sigurd|||a
 Siegfried|||a
@@ -5214,30 +3758,21 @@ Ovid|||an
 Hume|||a
 Pallas|||a
 Pandora's box|||a
-Moose Jaw|||a
 Kieran|||a
 Ciaran|||a
-Roland Garros|||a
 Lakshmi|||a
-Laois|||a
 Naypyidaw|||a
 Strontian|||a
-Saint Monday|||a
 Reid|||a
 Lodebar|||a
 Middle Korean|||a
-Helsingfors|||a
 High German|||a
 Rosetta Stone|||a
-Uppsala|||an
-Aghul|||an
 Hooke|||a
 Inupiak|||an
 Shoshone|||a
 Nellie|||a
 Percival|||a
-Jonson|||a
-Lawson|||a
 Sherwood|||a
 Sinclair|||a
 Omar|||an
@@ -5249,59 +3784,34 @@ Dion|||a
 Melville|||a
 Ptolemy|||a
 Dáil Éireann|||a
-OxyContin|||an
 Hiram|||a
 Mandeali|||a
 Meiji period|||a
-Mount Fuji|||a
-Brendan|||a
-Cyrenaica|||a
 Maura|||a
 Lamborghini|||a
 Ute|||an
-Lemnos|||a
-Velestino|||a
-Metsovo|||a
 Kefalovrysi|||a
-Konitsa|||a
 Magna Carta|||a
 Gore-Tex|||a
-Drunken Fist|||a
-Old Chinese|||an
 Mesoamerica|||a
 Anglo-Latin|||an
-Tenochtitlan|||a
 Selah|||a
 Lena|||a
 Kensington|||a
 Betsy|||a
-Provence|||a
-Old Saxon|||an
 Steele|||a
 Willoughby|||a
 Colton|||a
 Nevaeh|||a
-No-Mates|||a
 Catalina|||a
-Nunatsiavut|||a
-Nunavik|||a
 Brewster|||a
 Sina|||a
 Joachim|||a
-Edwina|||an
 Spock|||a
-Eastaughffe|||an
 Eastoft|||an
-Salou|||a
 Miyako|||a
-Metsovon|||a
 Dodona|||a
-Dodoni|||a
 Arta|||an
-Igoumenitsa|||an
-Paramithia|||a
-Parga|||a
-Preveza|||a
 Kefalovryssi|||a
 Kefalovrisi|||a
 Kefalovrissi|||a
@@ -5323,41 +3833,19 @@ Newspeak|||a
 Jadon|||a
 Braden|||a
 Golgotha|||a
-Dorothea|||a
-Ramsgate|||a
-Santy|||a
 Thelema|||a
 Endo|||an
-Orla|||an
 Denny|||a
 Karditsa|||a
 Demiurge|||a
 Lughnasadh|||a
-Kuopio|||a
-Lappeenranta|||a
-Jyväskylä|||a
-Hämeenlinna|||a
-Dominicans|||a
 Kiera|||a
-Gjirokastër|||a
-Himarë|||a
-Korean War|||a
 States|||a
 Monika|||a
 Sheela|||a
-Tokugawa|||a
-Pogradec|||a
-Graz|||a
-Innsbruck|||an
 Purell|||a
-Tyndall|||a
-Tindall|||a
 Rowena|||a
 Krista|||a
-Forsyte|||a
-Puebla|||a
-Candomblé|||a
-Romex|||a
 Ramsey|||a
 Finlay|||a
 Finley|||a
@@ -5365,37 +3853,23 @@ Festivus|||a
 Damien|||a
 Heinie|||a
 Derry|||a
-Yonkers|||a
 Zane|||a
 Frida|||a
 Bottle of Dog|||a
-McGill|||a
 Princeton|||a
-Bornholm|||a
 High Mass|||a
 Missa Cantata|||a
 Stepford|||a
 Messia|||a
-Jutland|||a
-Savoie|||a
-Chambéry|||a
-Dartmoor|||a
 Exmoor|||an
-South Downs|||a
-Guanabara|||a
 Hawking|||a
 Moby-Dick|||a
 Alexis|||an
 Anton|||an
-Chopin|||a
-Lasix|||a
 Rumsen|||a
 Costanoan|||a
 Muwekma|||a
-Utian|||an
 Ewan|||an
-Euan|||an
-Shintoism|||a
 Rosie|||a
 Enid|||an
 Quentin|||a
@@ -5404,18 +3878,13 @@ Randall|||a
 Jolyon|||a
 Elaine|||an
 Elisha|||an
-Jeanie|||a
-Gustave|||a
 Francesca|||a
 Adrienne|||an
 Theodora|||a
 Olga|||an
 Upton|||an
-Pauli|||a
 Tobiah|||a
-Mogadishu|||a
 Aeolic|||an
-Arcado-Cypriot|||an
 Pasiphae|||a
 Hogwarts|||a
 Mishnaic Hebrew|||a
@@ -5423,16 +3892,13 @@ Maulis|||a
 Christian Era|||a
 North Finnish|||a
 Lilian|||a
-Shirgah|||a
 Motown|||a
 Rhian|||a
 Arcady|||an
 Oekaki|||an
-Randstad|||a
 Hibernia|||a
 Theseus|||a
 Pratt|||a
-Gresham|||a
 Chatham|||a
 Austen|||an
 Sheldon|||a
@@ -5442,14 +3908,10 @@ Radha|||a
 Tulsa|||a
 Omaha|||an
 Jacksonville|||a
-Dead Sea|||a
-Titicaca|||a
-Mariana Trench|||a
 Potomac|||a
 Bartlett|||a
 Forrest|||a
 Harrington|||a
-Payne|||a
 Paine|||a
 Marmaduke|||a
 Sterling|||a
@@ -5460,16 +3922,10 @@ Ba'ath|||a
 Baath|||a
 Libby|||a
 Sealand|||a
-Corona Corona|||a
 Shamsher Jang|||a
-Shirshak|||a
-Lysol|||a
 Timmy|||a
-Puducherry|||a
 Chinook Jargon|||a
 Aloysius|||an
-Greco-Buddhism|||a
-John Law|||a
 Ozark|||an
 Obon|||an
 Pierrot|||a
@@ -5478,7 +3934,6 @@ Nimrod|||a
 Tawe|||a
 Thoth|||a
 Abbie|||an
-Phoney War|||a
 Nevi'im|||a
 Mishna|||a
 Ge'ez|||a
@@ -5488,122 +3943,60 @@ Ophiuchus|||an
 Sculptor|||a
 Volans|||a
 Corona Borealis|||a
-ONFI|||an
 Yana|||a
-Aesculapius|||an
 Guangdong|||a
 Euler's formula|||an
 Stonehenge|||a
 Army|||an
 Drummond|||a
-Harbin|||a
-Changchun|||a
-Hefei|||a
-Wuhan|||a
-Chengdu|||a
-Shenyang|||a
 Xiamen|||a
-Jinan|||a
 Amina|||an
-Anshan|||an
-Baotou|||a
-Fuzhou|||a
-Guiyang|||a
-Kunming|||a
-Lanzhou|||a
-Nanchang|||a
-Zhengzhou|||a
 Barmacide feast|||a
 Blore's razor|||a
-Dyuti|||a
-Rambabu|||a
 Gaspesian|||a
-Vinay|||a
-Antara|||an
-Taiyuan|||a
 Tartu|||a
-Kaden|||a
 Laconian|||a
-Caitlyn|||a
-Mallorca|||a
 Ibiza|||an
-Muhu|||a
 East Sea|||an
-Super Bowl|||a
-Kieron|||a
 Kven|||a
-Ihitha|||an
 Imtenan|||an
 Jolly|||a
-Malika|||a
 Rappai|||a
 Hughie|||a
-Muarrif|||a
 Panzaism|||a
-Parthenos|||a
-Velachery|||a
 Walpole|||a
 Hicks|||a
-Funen|||a
-Ningxia|||a
 Fromase|||a
 Floyd|||a
 Sakha|||a
 Plains|||a
 Aubrey|||an
 Carmen|||a
-Elinor|||an
 Maitland|||a
 Bunyan|||a
 Rosamund|||a
-Louisville|||a
 Howie|||a
 O'Dare|||an
 Olwen|||an
-Gwendolen|||a
 Gareth|||a
 Liam|||a
-Cannaregio|||a
-Dorsoduro|||a
-San Marco|||a
-San Polo|||a
-Santa Croce|||a
-Livy|||a
-Belize City|||a
-Nagano|||a
-Wakkanai|||a
-Kagoshima|||a
-Kumamoto|||a
-Agrinio|||an
-Agrinion|||an
 Amfilohia|||an
-Vonitsa|||a
 Lefkas|||a
 Lefkada|||a
 Naupactus|||a
-Aiyush|||an
 Delilah|||a
 Aceh|||an
 Dangme|||a
-Big Rip|||a
 Golconda|||a
-Chanti|||a
 Yapese|||a
 Kimberley|||a
 Kimmy|||a
-Scottie|||a
-Scotty|||a
-Stewie|||a
 Bernie|||a
-Chrissie|||a
 Donny|||a
-Wakefield|||a
 Jezebel|||a
 Ambai|||an
 Adyghe|||an
 Circassian|||a
-Adygei|||an
-Scandia|||a
 Adzera|||an
 Ægir|||a
 Agul|||an
@@ -5611,131 +4004,71 @@ Aguly|||an
 Akoli|||an
 Niger-Congo|||a
 Sichuan|||a
-Chopra|||a
-Lenny|||a
 Decatur|||a
-Earth Day|||an
-Redeemer|||a
 Gibbs|||a
-Gibb|||a
 Toraja-Sa'dan|||a
 Cadillac|||a
 Venices|||a
 Dar es Salaam|||a
-Tipperary|||a
-Longford|||a
-Galway|||a
-Sligo|||a
-Wexford|||a
-Carlow|||a
-Cavan|||a
-Kildare|||a
-Louth|||a
-Monaghan|||a
-Wicklow|||a
 Allamakee|||an
 Forrest Gump|||a
 Jolene|||a
 Midlands|||a
-Cilla|||a
 Serendib|||a
 Crioulo|||a
 UTF-16|||an
-Nørrebro|||a
-Morabaraba|||a
 Tainan|||a
 Kali Yuga|||a
 Shahab|||a
 ELOT|||an
-Cairns|||a
-Vormsi|||a
-Naissaar|||a
-Osmussaar|||an
-Kihnu|||a
-Ruhnu|||a
-Prangli|||a
-Abruka|||an
 Amerikkka|||an
-Aichi|||an
 Mormonism|||a
-Cutler|||a
-Orkneys|||an
-Kirkwall|||a
-Shetlands|||a
 Ella|||an
-Crimean Tatar|||a
-Reform Judaism|||a
 Aari|||an
 FSB|||a
-Akawaio|||an
 Awabakal|||an
 Adnyamathanha|||an
 Amaimon|||an
 Ansus|||an
 Travis|||a
 Amto|||an
-Antakarinya|||an
 Plains Apache|||a
 Bovril|||a
-Umbundu|||an
-Kanuri|||a
 Suzi|||a
-Makua|||a
 Makhuwa|||a
 Mjollnir|||a
 Makhuwa-Meetto|||a
 Makhuwa-Shirima|||a
-Attri|||an
 Chopawamsic|||a
-Druze|||a
-Calexico|||a
 Bluebeard|||a
-Maputo|||a
-T.O.|||a
 Rebekah|||a
 Camille|||a
-Vinalia|||a
-Marines|||a
 4-H|||a
-Diann|||a
 Xi'an|||a
 Barbary|||a
-Proteas|||a
 Ruben|||a
 Rubin|||a
-Tórshavn|||a
 Malam|||a
 Graham|||a
 Elohim|||an
 Mishima|||a
 Raku|||a
 Appleton|||an
-Gestapo|||a
 Malizai|||a
 Mutsun|||a
-Cybil|||a
 Blairism|||a
 Nevis|||a
 Brownism|||a
 Kristina|||a
 Ivo|||an
-Quinne|||a
 Sunyavadi|||a
 Peronism|||a
-Mriganka|||a
-Mudathir|||a
 Galalith|||a
-Aarush|||an
-Keelin|||a
-Prerna|||a
 Trenewan|||a
-Sakhalin|||a
 Big Smoke|||a
 Viborg|||a
-Vyborg|||a
 Shem|||a
 Japheth|||a
-Susheela|||a
 Antilles|||an
 Lesser Antilles|||a
 Barbuda|||a
@@ -5745,21 +4078,16 @@ Esselen|||an
 Salinan|||a
 Yolanda|||a
 Tabitha|||a
-Tamera|||a
-Patrice|||a
 Selma|||a
 Diviya|||a
-Jeffery|||a
 Cindy|||a
 Debra|||a
-Fannie|||a
 Brianna|||a
 Sadie|||a
 Penutian|||a
 Miwokan|||a
 Hephzibah|||a
 Neale|||a
-Valentinus|||a
 Bay Miwok|||a
 Coast Miwok|||a
 Lake Miwok|||a
@@ -5767,42 +4095,27 @@ Sierra Miwok|||a
 Plains Miwok|||a
 Marin Miwok|||a
 Bodega Miwok|||a
-Karkin|||a
-Garg|||a
 Tamyen|||a
 Awaswas|||an
-Chochenyo|||a
 Ramaytush|||a
 Chalon|||a
 Soledad|||a
 Santa Clara|||a
 Bernice|||a
 Brenda|||a
-Mbabane|||a
 Harare|||a
 São Tomé|||a
-Tarawa|||a
-Nuku'alofa|||a
 San Carlos|||a
 Carmel|||a
 Carmeleno|||a
-Jeanette|||a
 Adonai|||an
-Parnika|||a
 Cora|||a
 Della|||a
-Dolores|||a
 Gogol|||a
-Almyros|||an
-Almiros|||an
 Elfland|||an
-Faroes|||a
 Attashin|||an
-Dolan|||a
 Tagesa|||a
-Osaka|||an
 Winnie|||a
-Holyhead|||a
 Anastasi|||an
 Stylianos|||a
 Stelios|||a
@@ -5812,85 +4125,52 @@ Parthenon|||a
 Connor|||a
 Zulgo-Gemzek|||a
 Dreamtime|||a
-Zari|||a
 Yupik|||a
 Saran Wrap|||a
 Branson|||a
 Gire|||a
-Sekhon|||a
 Hailey|||a
 Hattie|||a
 Ida|||an
 Janice|||a
-Shambala|||a
-Akhaury|||an
-Akhoury|||an
-Yankee land|||a
 ffrench|||a
-Nezhegol|||a
 Mallory|||a
-Jacqui|||a
 Luca|||a
-Ré|||a
 Carey|||a
 Vitré|||a
 Atherton|||an
-Rahim|||a
 Eli|||an
-Mandingo|||a
 Leeward Islands|||a
-Mangarevan|||a
 Ostrobothnia|||an
-Juanita|||a
 Kelsey|||a
 Kristen|||a
-Hassānīya|||a
-Ariane|||an
 Tir|||a
 WD-40|||a
 Chuck E. Cheese|||a
-Azal|||an
-Coimbatore|||a
 Laurie|||a
 Lori|||a
 Lindsey|||a
 Lois|||a
 Lucille|||a
-Ugaritic|||an
 Near East|||a
-Nico|||a
 Gbe|||a
-Reims|||a
 Mae|||a
 Marilyn|||a
 Michaela|||a
 Myrtle|||a
 Shiraz|||a
 Jungle Carbine|||a
-KwaZulu-Natal|||a
-Dipu|||a
-Kintyre|||a
 Lü|||a
 Arunim|||an
-Tattersall|||a
 Rhonda|||a
-Robyn|||a
 Shelby|||a
 Cheri|||a
-Tonya|||a
 Antonia|||an
 Tracy|||a
-Traci|||a
 Perrot|||a
-Dylan|||a
-Cheetos|||a
 Route 66|||a
-Dido|||a
 Ankave|||an
-Oahu|||an
-Maui|||a
 Élysée|||a
-Reichstag|||a
 Laban|||a
 Simeon|||a
 Naphtali|||a
@@ -5898,234 +4178,140 @@ Asher|||an
 Issachar|||an
 Zebulun|||a
 Beowulf|||a
-Scania|||a
 Melvin|||a
 Zilpah|||a
 Bilhah|||a
-Lucea|||a
-World Bank|||a
 Le Mans|||a
 Chernobyl|||a
 Corinne|||a
 Gilead|||a
 Supremes|||a
-Andre|||an
 Brice|||a
-Bryce|||a
-Claud|||a
 Claus|||a
-Collin|||a
 Corey|||a
 Devin|||a
 Dillon|||a
-Dominic|||a
 Duane|||a
-Dwayne|||a
 Dwight|||a
 Memorial Day|||a
-Huaxi|||a
-Jhingade|||a
 Sylvester|||a
 Pinocchio|||a
 Avery|||an
-Darryl|||a
-Daryl|||a
 Dara|||a
-Brayden|||a
 Anita|||an
 Arlene|||an
-Addie|||an
 Adeline|||an
 Adriana|||an
-Alana|||an
-Alaina|||an
 Manipogo|||a
 Puram|||a
 Timbit|||a
 Beulah|||a
-Carole|||a
 Dianne|||a
 Gayle|||a
 Glenda|||a
-Jeannette|||a
-Delores|||a
 Irma|||an
-Erma|||an
 Parti Quebecois|||a
 Zoilus|||a
-Khorramshahr|||a
 IKEA|||an
 Falklands|||a
 Unserdeutsch|||an
 NDP|||a
 Tex|||a
 Emil|||an
-Essie|||an
 Estella|||an
 Etta|||an
 Eulalie|||an
 Freda|||a
-Frieda|||a
 Genevieve|||a
-Goldie|||a
 Ina|||an
 Inez|||an
-Janie|||a
 Dewey|||a
 Grover|||a
 Raaya|||a
-Londonistan|||a
-Shaquille|||a
-Big Muddy|||a
-Alix|||an
 Tanganyika|||a
 Baikal|||a
-Arianna|||an
 Brandi|||a
-Erick|||an
 Jayden|||a
 Caden|||a
 Hayden|||a
 Brady|||a
 Brodie|||a
 Bryson|||a
-Funghus Rock|||a
-Manoel Island|||a
-Kristie|||a
-Kristy|||a
-Marsaxlokk|||a
-Kristine|||a
-Leona|||a
 Lottie|||a
 Lola|||a
-Lynda|||a
 Lynette|||a
 Mable|||a
-Marlene|||a
-Tilda|||a
 Patsy|||a
-Paulette|||a
-Sallie|||a
 Tiare|||a
 Valeria|||a
-Deshawn|||a
-Nazi Germany|||a
 Marsala|||a
 Cassie|||a
-Geoff|||a
-Hainan|||a
 Aborigines|||an
 Leroy|||a
-Elroy|||an
-LeRoy|||a
 Lester|||a
 Micheal|||a
-Ronnie|||a
 Sergius|||a
-Kalevala|||a
 Nineveh|||a
 Baedeker|||a
-Woiwurrung|||a
 Alucard|||an
-Aseem|||an
 Aaliyah|||an
 Aliyah|||an
 Cecily|||a
 Cicely|||a
 Candace|||a
 Candice|||a
-Karla|||a
 Cara|||a
 Chantal|||a
 Jasmin|||a
-Kiana|||a
 Tiana|||a
-Gaynor|||a
-Pandarus|||a
 Caspar|||a
 Donovan|||a
-Jace|||a
 Jaime|||a
-Elliot|||an
-Gregor|||a
 Vietraq|||a
-Black Forest|||a
-Jiangsu|||a
 Amaya|||an
-Catriona|||a
-Cierra|||a
 Darcy|||a
 Davina|||a
 Deanna|||a
-Desiree|||a
-Desirée|||a
-Doreen|||a
 Eloise|||an
 Ernestine|||an
-Felicia|||a
 Elena|||an
-Gianna|||a
-Gracie|||a
-Iva|||an
-Juliana|||a
-Jodie|||a
-Janis|||a
 Digibox|||a
-Hanko|||a
-Glenys|||a
-Glynis|||a
 Hermione|||a
 Imogen|||an
 Kaylee|||a
-Kailey|||a
 Keeley|||a
 Karin|||a
 Keira|||a
 Kyra|||a
-Kirsty|||a
-Kyla|||a
 Krystal|||a
 Lacey|||a
-Latoya|||a
 Laverne|||a
 Leila|||a
-Laila|||a
-Layla|||a
 Lela|||a
 Lorna|||a
 Lucinda|||a
-Louella|||a
 Mavis|||a
 Margie|||a
-Maryann|||a
 Curaçao|||a
 Davey|||a
 Iwo Jima|||an
 Guys|||a
 Haight|||a
-Pavel|||a
 KLM|||a
 Rus|||a
 Maddison|||a
-McKenzie|||a
-Marisa|||a
 Macy|||a
 McKenna|||a
 Makenna|||a
 Maxine|||a
 Millicent|||a
-Misty|||a
 Myra|||a
 Muriel|||a
 Natalia|||a
-Nadine|||a
 Nadia|||a
 Nikita|||a
 Ollie|||an
-Patti|||a
-Rylee|||a
 Rosalie|||a
-Hesse-Kassel|||a
 Deepak|||a
 Payton|||a
 Rhoda|||a
@@ -6135,34 +4321,19 @@ Rosina|||a
 Sabrina|||a
 Scarlett|||a
 Selena|||a
-Shauna|||a
 Sheena|||a
 Sheri|||a
-Shari|||a
 Skye|||a
 Schuyler|||a
-Skylar|||a
 Skyler|||a
-Stacie|||a
-Moenkopi|||a
-Latino-Punic|||a
-Abhishikt|||an
 Eötvös|||an
 Lacy|||a
 Ulrica|||an
 Mazandaran|||a
-Dumas|||a
 Tamsin|||a
-Tayla|||a
-Tonia|||a
 Tricia|||a
 Verna|||a
-Zara|||a
-Zoey|||a
-Guadalupe|||a
 Kikongo|||a
-Chauncey|||a
-Kian|||a
 Cedric|||a
 Flynn|||a
 Esme|||an
@@ -6172,7 +4343,6 @@ Ivor|||an
 Colby|||a
 Grayson|||a
 CESG|||a
-Bonaire|||a
 Internet|||an
 Wikipedia|||a
 Dubai|||a
@@ -6201,12 +4371,7 @@ Ronan|||a
 Rory|||a
 Midwest|||a
 Hillsborough|||a
-Luhith|||a
-Blackburn|||a
-Syd|||a
-Vic|||a
 Ryder|||a
-Terrance|||a
 Wilbur|||a
 Willard|||a
 Woodrow|||a
@@ -6220,9 +4385,6 @@ Nyunga|||a
 Laredo|||a
 Bellatrix|||a
 Alnilam|||an
-Saiph|||a
-NOPEC|||a
-Brenden|||a
 Malik|||a
 Asa|||an
 Iona|||an
@@ -6232,205 +4394,119 @@ Oren|||an
 Orin|||an
 Pharmageddon|||a
 Tabasaran|||a
-Kantianism|||a
-Braeden|||a
-Tagus|||a
-Vudatha|||a
-Sellers|||a
 Seller|||a
-Shabbos|||a
-Düne|||a
 Janner|||a
-Armagnac|||an
 Glenna|||a
-Braintree|||a
 Adria|||an
-Omaha hold 'em|||an
-Hold 'em|||a
-Weser|||a
 Serpens Caput|||a
 Serpens Cauda|||a
-Fitz|||a
 Caribbean Sea|||a
 Aigio|||an
-Kato Achaia|||a
-Jingpho|||a
-Klan|||a
 Marlboro|||a
 Risorgimento|||a
 Garside|||a
-Manassas|||a
-Amaliada|||an
 Megalopoli|||a
-Katya|||a
-Katia|||a
 GMA|||a
-Augsburg|||an
-Potsdam|||a
-Branden|||a
-Moravia|||a
 Maruthini|||a
 Marita|||a
-Belleek|||a
 Tocharian|||a
 Sumer|||a
 C of E|||a
 Oozlefinch|||an
-Kelso|||a
 Huitzilopochtli|||a
 Darian|||a
-Lù|||a
 Montpelier|||a
 Ebenezer|||an
 Greta|||a
-Leesburg|||a
 Wilberforce|||a
-Yuma|||a
 Elsa|||an
 Lise|||a
-Camorra|||a
 Ferris|||a
 Mata Hari|||a
-Arbil|||an
-Cotswolds|||a
 Moab|||a
 Amalec|||an
 Gandhi|||a
 Gog|||a
 Balthazar|||a
-Kazan|||a
-Yatish|||a
 Helene|||a
-Ilona|||an
 Beltane|||a
-Ferrari|||a
-Giudecca|||a
-Cefalù|||a
-Cormac|||a
 Singapura|||a
 Brahmanism|||a
-Lauri|||a
 Frederica|||a
 Mazda|||a
 Porsche|||a
-Ellery|||an
 Chechnya|||a
 Algernon|||an
 Anand|||an
 Christa|||a
 Hesperus|||a
-Behrouz|||a
 Jemima|||a
 Bradshaw|||a
-Suzuki|||a
 Transnistria|||a
 Vegas|||a
 Las Vegas|||a
-Tijuana|||a
 Eostre|||an
 Mossie|||a
 Balkans|||a
-Kagay-anon|||a
 Isidora|||an
 Kaitij|||a
 Henny|||a
 APTS|||an
-Stromboli|||a
 Ulric|||an
 Petronella|||a
-Bothnian Bay|||a
-Kvarken|||a
-Joe College|||a
-Barents Sea|||a
-Norwegian Sea|||a
-Punekar|||a
-Sargasso Sea|||a
-Chukchi Sea|||a
 Middle Dutch|||a
 Old Dutch|||an
-NSAU|||a
-Umbararo|||an
 Discordianism|||a
 Wahhabism|||a
 Spiritism|||a
 Ripuarian|||a
 Teochew|||a
-Stephan|||a
-Afrikander|||an
 Discordia|||a
-El Paso|||an
-CHAPS|||a
-Benedicta|||a
-Jennings|||a
-Old Latin|||an
-Yanomamo|||a
 Purana|||a
-Wearside|||a
-KwaZulu|||a
 Itzcoatl|||an
-Florina|||a
 Allies|||an
 Bastian|||a
-Vai|||a
 triple O|||a
 Biak|||a
 Kaleb|||a
 Adidas|||an
 Molina|||a
-Fine Gael|||a
-Arne|||an
-Arno|||an
 Rudy|||a
 Hakomi|||a
 Timișoara|||a
 Stasi|||a
 Guoyu|||a
-Fredericksburg|||a
 Lindsay|||a
 Brainfuck|||a
-Holy Alliance|||a
 Paulina|||a
 Yawuru|||a
 Marti Ke|||a
 Remote Oceania|||a
 Henan|||a
 Hubei|||a
-Samaritans|||a
 Shanxi|||a
 Hebei|||a
 Lipan|||a
 Hunan|||a
 Quanzhou|||a
-Zhangzhou|||a
 Tyneside|||a
-Laz|||a
 Rayne|||a
-Raine|||a
 Oaxaca|||an
 Ionia|||an
 Bosphorus|||a
 Bharat|||a
-Baagandji|||a
 Gymnopaedia|||a
 Song of Songs|||a
 Thurston|||a
 Torquil|||a
 ARCA|||an
-Morava|||a
 Ecclesiasticus|||an
-Ben Sira|||a
 Sirach|||a
 Proto-Slavic|||a
 Helga|||a
-Thora|||a
-Tuva|||a
 Mylanta|||a
-Gouda|||a
-Bevan|||a
 Emmy|||an
-Emile|||an
 Gerda|||a
-Trudy|||a
 Trudi|||a
 Aeneid|||an
 Proto-Celtic|||a
@@ -6438,11 +4514,8 @@ Euler method|||an
 Euler|||an
 Proto-Oceanic|||a
 Dales|||a
-Yunnan|||a
 LORD|||a
 Limoges|||a
-Aleisha|||an
-Dagmar|||a
 Astrid|||an
 Beatrix|||a
 Interpol|||an
@@ -6456,68 +4529,43 @@ Ingrid|||an
 Lord of Lords|||a
 Decalogue|||a
 1 Samuel|||a
-2 Samuel|||a
 1 Kings|||a
 2 Kings|||a
-3 Kings|||a
-4 Kings|||a
 PALplus|||a
-Aanya|||an
 Cooranbong|||a
-Hindawi|||a
-Juretzko|||a
-Radhesh|||a
-Juneteenth|||a
-Amadeus|||an
-Bradlee|||a
 Loren|||a
 Congo-Kinshasa|||a
 2 Peter|||a
 1 Peter|||a
-Verner|||a
 Xander|||a
-Berlin Wall|||a
 Finnair|||a
 Casper|||a
 Galatia|||a
 Lone Ranger|||a
-Wathawurung|||a
 Bactria|||a
-Holy Book|||a
 Denglisch|||a
-Tanglish|||a
 Europanto|||an
 Everglades|||an
 Acadia|||an
 Arches|||an
-Death Valley|||a
 Yosemite|||a
-Disneyland|||a
-Kozani|||a
 Wally World|||a
-Southern Europe|||a
 Northern Europe|||a
 Old Tupi|||an
 Classical Tupi|||a
 Obed|||an
 Humpty Dumpty|||a
-1 Timothy|||a
 2 Timothy|||a
 1 John|||a
 2 John|||a
 3 John|||a
-Derick|||a
 Mickey D|||a
 Alina|||an
-Hilma|||a
 Vogul|||a
 Voro|||a
-Limeyland|||a
 Dark Ages|||a
 Hsinchu|||a
 Jingzhe|||a
-Wachowich|||a
-Raul|||a
 Liv|||a
 Rainer|||a
 Tū|||a
@@ -6525,82 +4573,47 @@ Massachusett|||a
 Wampanoag|||a
 Oltenia|||an
 Zoroaster|||a
-Austronesia|||an
 Muntenia|||a
 USAR|||an
-Opposite Day|||an
 Timotheus|||a
-Pippa|||a
 AFRICOM|||an
-Mencius|||a
 Elysian|||an
 ICESat|||an
 Macaulayism|||a
 Apollyon|||an
 Peters|||a
-Liberec|||a
-Avinash|||an
 Alfreda|||an
 Elfreda|||an
 Potteries|||a
-Pirani|||a
-Losari|||a
 Granger|||a
 Lyme|||a
-Bevans|||a
-Godwin|||a
 Gideon|||a
-Lucretia|||a
-Stoli|||a
 Pontus|||a
 MediaWiki|||a
 Dianetics|||a
-Maitreya|||a
-Dodie|||a
 Gopala|||a
 Govinda|||a
 Peipus|||a
-Hildegard|||a
 Zacharias|||a
 Pax Romana|||a
 Pax Americana|||a
-Galway Bay|||a
-Alhambra|||an
-Mixe|||a
 San Marcos|||a
 Xenu|||a
-Pyu|||a
-Qallunaat|||a
 Ganga|||a
-East China Sea|||an
 Gulf of Alaska|||a
-Gulf of Guinea|||a
 Bay of Biscay|||a
-Cape Horn|||a
-Quirites|||a
-Chopsticks|||a
 Timese|||a
 South Asia|||a
-Komodo|||a
-Idoine|||an
-Joumana|||a
 Twixmas|||a
 Polabian|||a
 Ajay|||an
 Janjaweed|||a
 Hillary|||a
-Boeing|||a
-Darfur|||a
 Putin|||a
-Hagen|||a
 Münster|||a
 Coburg|||a
-Cottbus|||a
-Chemnitz|||a
 Bayonne|||a
 Trier|||a
-Speyer|||a
-Flensburg|||a
 Mizrachi|||a
 Auschwitz|||an
 Leiden|||a
@@ -6609,88 +4622,44 @@ Wayuu|||a
 Tillie|||a
 Sif|||a
 Norbert|||a
-Erwin|||an
-Garge|||a
 Zambezi|||a
-Zambesi|||a
-Oto|||an
 Gita|||a
 Galina|||a
 Niagara Falls|||a
-Suez|||a
-Panama Canal|||a
 Keene|||a
 Rowley|||a
 Munro|||a
 Colosseum|||a
 Ithaca|||an
-Timor-Leste|||a
 Aguascalientes|||an
-Campeche|||a
-Chiapas|||a
-Coahuila|||a
-Colima|||a
-Durango|||a
-Guanajuato|||a
 Guerrero|||a
 Hidalgo|||a
 Jalisco|||a
-Michoacán|||a
-Morelos|||a
 Nayarit|||a
-Nuevo León|||a
-Querétaro|||a
 Quintana Roo|||a
 Sinaloa|||a
-Veracruz|||a
-Tlaxcala|||a
-Tamaulipas|||a
-Sonora|||a
-Zacatecas|||a
-Bengkulu|||a
-Panchatantra|||a
 Maluku|||a
-Lampung|||a
 Guinness|||a
 Hesper|||a
 Ignatius|||an
 NOMAS|||a
 Heathrow|||a
-Bayeux|||a
-Dror|||a
-Mycenaean Greek|||a
-Gold Coast|||a
-Nyasaland|||a
 Ruthenia|||a
 Shani|||a
 Krym|||a
-White Sea|||a
 Machu Picchu|||a
 Manchuria|||a
 Vayu|||a
 Mahabharata|||a
 NACA|||a
-Ashlee|||an
 Ascension|||an
 UBS|||an
-Lucite|||a
-Noreen|||a
-Norette|||a
-Pilsen|||a
-Leodiensian|||a
-Montego Bay|||a
 Issa|||an
-Cluj-Napoca|||a
 TSA|||a
 Llanito|||a
-Eastern Balochi|||an
 Western Balochi|||a
-Vidar|||a
-Hedwig|||a
-Tynwald|||a
 Batt|||a
 Fibonacci|||a
-Bende|||a
 Davion|||a
 Waldemar|||a
 Hertha|||a
@@ -6698,7 +4667,6 @@ Kamal|||a
 Kant|||a
 Ch'orti'|||a
 Lancelot|||a
-Kabuverdianu|||a
 Reno|||a
 Etna|||an
 Camembert|||a
@@ -6706,187 +4674,102 @@ Golden Arches|||a
 Everard|||an
 Akron|||an
 Esaias|||an
-Elis|||an
 Artie|||an
-Arnie|||an
-Grammys|||a
 Rapa Nui|||a
 Lemuel|||a
 Leroi|||a
 Sconnie|||a
-Thales|||a
 Lenin|||a
-Airedale|||an
 Night|||a
 Yggdrasil|||a
-Valentina|||a
-Albertina|||an
-Ethelbert|||an
 Bodge|||a
 Elbert|||an
 Tollywood|||a
 Nollywood|||a
-Morija|||a
 Czechlish|||a
 BRD|||a
-Kotte|||a
 MIME|||a
 Scouserati|||a
-Priština|||a
 Methoni|||a
-Argyrades|||an
-Nydri|||a
-Lixouri|||a
-Kyparissia|||a
-Désirée|||a
 Enzo|||an
-Baruga|||a
-Perez|||a
 CanOD|||a
-Santa Fé|||a
-Feldman|||a
 Szczecin|||a
-Pekin|||a
 Yehudit|||a
-Agia Napa|||an
-Rügen|||a
 Six Counties|||a
-Basra|||a
-Patagonia|||a
-Eblaite|||an
 Silvanus|||a
 Selwyn|||a
 Ayn|||an
 Gherkin|||a
-Cowtown|||a
 Kama Sutra|||a
 Nylonkong|||a
-Aline|||an
 Argos|||an
-Everton|||an
-Falkland|||a
 Mona Lisa|||a
-Farvardin|||a
-Ordibehesht|||an
-Shahrivar|||a
-Azar|||an
-Bahman|||a
-Esfand|||an
 Celine|||a
 Celina|||a
 Coralie|||a
-Corina|||a
 Clovis|||a
 Toni|||a
-Deric|||a
-Gifu|||a
-Fukui|||a
-Chang Jiang|||a
 Kanazawa|||a
-Ishikawa|||an
 Francine|||a
 Letitia|||a
 Laetitia|||a
 Redbeard|||a
 Glock|||a
 Mao|||a
-Ruger|||a
 Abbottabad|||an
-Rawalpindi|||a
-Haripur|||a
-Quetta|||a
 Shoop|||a
 Norse Tradition|||a
-Aomori|||an
 Roma|||a
-Viviane|||a
-Marleen|||a
 Marla|||a
 Rosaline|||a
 Roslyn|||a
 Tuileries|||a
-Salvation Army|||a
 Numidia|||a
 Soviet|||a
 Winter Finding|||a
 Summer Finding|||a
-Elisheba|||an
 Macedonianism|||a
-bopomofo|||a
 North Atlantic|||a
 Asafolk|||an
 Narayana|||a
 Rigveda|||a
 Atharvaveda|||an
-Agni|||an
 Methone|||a
 Eurydice|||an
 Erebus|||an
 Euphrosyne|||an
 Zhuyin fuhao|||a
 Kievan Rus|||a
-Lake Superior|||a
-Schiller|||a
 Dickson|||a
-Atkinson|||an
 Patterson|||a
-Romulus|||a
 Remus|||a
-Angloromani|||an
-Zhuyin|||a
 Canicula|||a
-Dioscuri|||a
 Sea of Azov|||a
 Argobba|||an
 Gomorrah|||a
 Minos|||a
-Aron|||an
 Ahasuerus|||an
 Oona|||an
-Adah|||an
-Naruto|||a
-Avalon|||an
-Magha Puja|||a
 Dungan|||a
 Cosmo|||a
-Carlie|||a
-Vé|||a
-IWW|||an
 Godwin's law|||a
-Bobbi|||a
-Candi|||a
-Davie|||a
 Lavinia|||a
 Moe|||a
-Manchukuo|||a
-Benz|||a
 Bhattacharya|||a
-Chakavian|||a
-Biddie|||a
-Bradly|||a
 Flo|||a
 Maunder minimum|||a
 Gregg|||a
-Vantaa|||a
-Gerber|||a
 Concorde|||a
-Gena|||a
-Junie|||a
 Kezia|||a
 Mitra|||a
-Jacko|||a
 Ambonese|||an
 Ishtar|||an
-Inanna|||an
 Astarte|||an
-Sea of Galilee|||a
 Lakeisha|||a
-Lawrie|||a
 Accrington|||an
 Addington|||an
 Adgarley|||an
 Adlington|||an
-Bosox|||a
 Aigburth|||an
 Old West|||an
 Asman|||an
@@ -6898,14 +4781,9 @@ Ameretat|||an
 Haurvatat|||a
 RAN|||a
 APEX|||an
-Aegenwulf|||an
-Goosnargh|||a
 Catterall|||a
 Ainsworth|||an
-Aegenbald|||an
-Aegen|||an
 Aintree|||an
-Alkincoats|||an
 Allerton|||an
 Alston|||an
 Amounderness|||an
@@ -6918,14 +4796,9 @@ Arbury|||an
 Ardwick|||an
 Astley|||an
 Audenshaw|||an
-Barretta|||a
-Tang Dynasty|||a
-Nanjing|||a
-Nyepi|||a
 Aughton|||an
 Ayre|||an
 Amira|||an
-Nukus|||a
 Saraswati|||a
 Decameron|||a
 Habs|||a
@@ -6938,53 +4811,30 @@ Reeth|||a
 Lindy|||a
 Madge|||a
 Bahrām|||a
-Kilroy|||a
 Hab|||a
-Ter Sami|||a
-Kemi Sami|||a
-Ume Sami|||an
-Pite Sami|||a
-Akkala Sami|||an
 Leighton|||a
-Myles|||a
-Rwa|||a
 Marianna|||a
 Indra|||an
 Mitanni|||a
 Ghotuo|||a
 Parvati|||a
 Anson|||an
-Euroland|||an
 Nathanael|||a
 Nevil|||a
-Noeleen|||a
-Noelene|||a
-Ryann|||a
 Roxana|||a
 Roxane|||a
 St Giles' Greek|||a
-Antofagasta|||an
 Ananias|||an
 Suyog|||a
 Marianas|||a
-Mercia|||a
 Celtiberian|||a
 Rosaleen|||a
-Neman|||a
-Ceecee|||a
-Ol Cemet'|||an
-Middle Welsh|||a
-Tamra|||a
-Tisha|||a
 Teri|||a
-Terrie|||a
-Tyron|||a
 Vaughan|||a
 Bhatt|||a
 Bhat|||a
 Bhatta|||a
 Vritra|||a
-Bava Metzi'a|||a
 Dnipropetrovsk|||a
 Donetsk|||a
 Kharkiv|||a
@@ -6992,11 +4842,7 @@ Lviv|||a
 Mykolaiv|||a
 Sevastopol|||a
 Zaporizhia|||a
-Oonagh|||an
-Alesha|||an
-Ericka|||an
 Sherlock|||a
-Yama|||a
 Aditya|||an
 Bhaga|||a
 Nataraja|||a
@@ -7008,24 +4854,16 @@ Aunt Flo|||an
 Chimera|||a
 Tom Thumb|||a
 Podunk|||a
-Ramona|||a
-Afbachir|||an
-Trina|||a
 Gutnish|||a
 Wimbleware|||a
-Åbo|||a
 Linus|||a
 Thaddaeus|||a
 Nicodemus|||a
 Theophilus|||a
-Decapolis|||a
 Cabo Verde|||a
-Jiantizi|||a
 Sadducee|||a
-Arty|||an
 Ushas|||an
 Dyaus Pita|||a
-Adnan|||an
 Kalami|||a
 Dardic|||a
 Simson|||a
@@ -7034,12 +4872,9 @@ Prisca|||a
 Drusilla|||a
 Damaris|||a
 Kore|||a
-Windies|||a
 Napier|||a
 Eskimo-Aleut|||an
 Chukotka|||a
-Stefani|||a
-Flavia|||a
 Jewell|||a
 Galloway|||a
 Tammany|||a
@@ -7047,24 +4882,15 @@ Sin City|||a
 Marin|||a
 Hypnos|||a
 Proto-Turkic|||a
-Old Turkic|||an
 Victrola|||a
 Jahannam|||a
 Boot Hill|||a
 Darin|||a
 Huldah|||a
-Grossman|||a
-Rodgers|||a
 Freeman|||a
-Nibley|||a
-Gagauzia|||a
 Alutor|||an
-Austrian German|||an
-Osama|||an
-Shanae|||a
 Darien|||a
 Venizelos|||a
-Ruhr|||a
 Samkhya|||a
 Nyaya|||a
 Sranan Tongo|||a
@@ -7090,7 +4916,6 @@ Lutsk|||a
 Uzhhorod|||an
 Zhytomyr|||a
 Volyn|||a
-Gujjar|||a
 Sinai|||a
 Jedidiah|||a
 Nanna|||a
@@ -7101,31 +4926,23 @@ Crispus|||a
 Charmian|||a
 Evita|||an
 Westbrook|||a
-Crigan|||a
 Saskatoon|||a
 Edmonchuk|||an
 Rand formula|||a
 Norseman|||a
-Novosibirsk|||a
 Novgorod|||a
-Rosanne|||a
 Ryukyu|||a
 Izanagi|||an
 Izanami|||an
 Amaterasu|||an
 Hieronymus|||a
-Volgograd|||a
-Yaroslavl|||a
 Ramsar|||a
-Leonora|||a
 Lora|||a
 Marcellus|||a
-Misanga|||a
 Savitr|||a
 Sibylla|||a
 Dunstan|||a
 Appalachians|||an
-Stansted|||a
 Edda|||an
 Perm|||a
 Surya|||a
@@ -7140,365 +4957,173 @@ Jammu|||a
 Vasu|||a
 Amabel|||an
 Makemake|||a
-Dogger Bank|||a
-Pablum|||a
 Sandoval|||a
 Almaty|||an
 Grissel|||a
-Chuvashia|||a
-Mordovia|||a
-Mordvinia|||a
-Kalmykia|||a
-Ingushetia|||an
-Udmurtia|||an
-Buryatia|||a
-Adygea|||an
 Bashkortostan|||a
-Bashkiria|||a
-Khakassia|||a
 Høgnorsk|||a
-Obama|||an
 Barça|||a
-Grozny|||a
-Ufa|||an
-Makhachkala|||a
-Yakutsk|||a
 Abakan|||an
-Cheboksary|||a
 Ciskei|||a
 Mentor|||a
-Paymon|||a
 Yanjing|||a
-Cholon|||a
 Aurelius|||an
-Aurelian|||an
-Ivalo|||an
 Linette|||a
-Sella|||a
 Amin|||an
-Anwar|||an
 Taos|||a
 Murat|||a
-Harun|||a
 Osmond|||an
-Osmund|||an
-Pankaj|||a
 Anselm|||an
 Prett|||a
 Pritt|||a
-Ardèche|||an
 Amur|||an
 Demogorgon|||a
-Forbidden City|||a
 Qing Dynasty|||a
 Dmitry|||a
 Putinism|||a
 Winona|||a
-Ephesus|||an
 Jahan|||a
 Euboea|||an
 Carrol|||a
-Uruk|||an
-Orly|||an
-Saba|||a
 Sutratman|||a
-Buddhist Era|||a
 Snake|||a
 Theravada|||a
 Leander|||a
-Debora|||a
-Portmore|||a
 Láadan|||a
 Glosa|||a
 t'internet|||a
-Blissymbols|||a
-Kotava|||a
 Romanova|||a
 Fabius|||a
 English vice|||an
-NPD|||a
-Oviedo|||an
-APTA|||an
 Capitol Hill|||a
 Samir|||a
 Irvine|||an
 Octavia|||an
-Octavius|||an
-Fareed|||a
 Ehsan|||an
 Barlow|||a
-Kiato|||a
 South Tarawa|||a
-Czenglish|||a
 Procrustes|||a
-Shuadit|||a
-Katowice|||a
-Gliwice|||a
-Zabrze|||a
-Olsztyn|||an
-South Ndebele|||a
-North Ndebele|||a
 Ganda|||a
 Luba-Katanga|||a
-Hiri Motu|||a
-Herero|||a
 Giganto|||a
-Cathi|||a
-Cathie|||a
 Amey|||an
-Cathryn|||a
 Amory|||an
 Megaera|||a
 Johnny Canuck|||a
 Emery|||an
-Anthropos|||an
-Duna|||a
-Elbląg|||an
 Usonia|||an
-Lodz|||a
-HBOS|||a
-Kauai|||a
-Molokai|||a
-Lanai|||a
-Niihau|||a
-Kadima|||a
 Aesop|||an
 Xylokastro|||a
 Erymanthos|||an
-Aroania|||an
-Leonidi|||a
 Haumea|||a
-Fresno|||a
 Yahtzee|||a
-Yanomamö|||a
 Avernus|||an
-Yekaterinburg|||a
 Chorzów|||a
 German Autumn|||a
 Trish|||a
 Highways Agency|||a
-Tenerife|||a
 Main Street|||a
-Saint Barbara|||a
-Pampanga|||a
-Kirstie|||a
 Ogden|||an
 Palaic|||a
-Grims|||a
-Gryms|||a
-Gryme|||a
-Grime|||a
-Grymes|||a
 Stuckism|||a
 Brahmana|||a
-Cholargos|||a
 Montezuma|||a
 Holy See|||a
-Aigaleo|||an
-Nea Smyrni|||a
-Papagou|||a
 Chaidari|||a
 Mecayapan|||a
 Horn of Africa|||a
 Lorie|||a
-Carolinas|||a
 Wroclaw|||a
-Fat Tuesday|||a
-Jane Sixpack|||a
-Clarice|||a
-Ankou|||an
-Ah Puch|||an
-Krissy|||a
-Peace Corps|||a
 Aetolia|||an
 Menominee|||a
-Atayal|||an
-Bryon|||a
 Roy G. Biv|||a
-Assisi|||an
-Kodimunai|||a
 Aeolus|||an
 Ararat|||an
-Kırklareli|||a
-Wigan|||a
 Beki|||a
-Mother Nature|||a
 Kalahari|||a
-Gobi|||a
+Jimmer|||a
 Earle|||an
 Earline|||an
 Cotton|||a
-Kool-Aid|||a
 Holi|||a
-Kobarid|||a
 Valerius|||a
 Juley|||a
 Belle Époque|||a
 Empire State|||an
-Saskabush|||a
 Grauniad|||a
-Melony|||a
 Scooby|||a
-Rickie|||a
 Aristophanes|||an
 Hindu Kush|||a
 Fulton|||a
 Asturias|||an
-Biscay|||a
-Memel|||a
-Yassa|||a
 Oghuz|||an
-Sardar|||a
 Araks|||an
 Archimedes|||an
-Lontara|||a
-Buginese|||a
-Dolomites|||a
-Carrick|||a
 Caty|||a
 Sokoban|||a
 Combine|||a
-Avogadro|||an
 Cai|||a
 Cài|||a
 Kamchatka|||a
-Linear B|||a
-Linear A|||a
 Lauretta|||a
 Cockaigne|||a
-Hirado|||a
-Liebling|||a
-Kuril Islands|||a
-Pitcairn|||a
-Haryanvi|||a
 N.Y.|||a
-Abadan|||an
-Meissen|||a
-Marky|||a
 Ockhamist|||an
 Olomouc|||an
-Usedom|||a
 Lusatia|||a
-Baekje|||a
-Sněžka|||a
 Cramlington|||a
-Kirundi|||a
-Samarkand|||a
 Sumner|||a
-Deep South|||a
-Ngwa|||a
 Gelug|||a
-N Centauri|||a
-Ttujur|||a
-Sts'Ailes|||a
-Islay|||an
 Tłįchǫ|||a
-Ntenguru|||a
-Kayunga|||a
-Lewiston|||a
 Elmo|||an
 Bharatanatyam|||a
 South India|||a
-Falun Gong|||a
 Saxbe fix|||a
 Sasak|||a
 Kirby|||a
 Black Tuesday|||a
 Cohen|||a
 Haida|||a
-Tempe|||a
 Kokborok|||a
 Prue|||a
-Pascuanese|||a
 Sessrúmnir|||a
-Ersange|||an
 Elba|||an
-Sánchez|||a
 Chrimbo|||a
-Baha|||a
-Itylus|||an
-Kumyk|||a
-Lchashen|||a
 Evel Knievel|||an
 Facebook|||a
 Mary Celeste|||a
 Flying Dutchman|||a
 Father Frost|||a
-Kallikantzaros|||a
 Ladoga|||a
 CPC|||a
 CRAP|||a
 PASOK|||a
 CREEP|||a
-Scheldt|||a
-Ktiv Male|||a
-Laren|||a
 Smriti|||a
-Kashub|||a
-MacDonald|||a
-Ealing|||an
 Chicagoland|||a
-Rakai|||a
-Anhui|||an
 Ndrumbea|||a
-Novocaine|||a
-Omagh|||an
-Trentino|||a
-Pesaro|||a
 Toledo|||a
-Papeete|||a
-Rhône|||a
-Otago|||an
 Vaisnavara|||a
-Uckers|||an
-Presidents' Day|||a
 Turing|||a
 Zealandic|||a
 Kamâl|||a
-Kifissia|||a
-Nea Filadelfeia|||a
-Megara|||a
-Glyfada|||a
-Palaio Faliro|||a
-Kaisariani|||a
 Dafni|||a
 Tanagra|||a
-Schimatari|||a
-Orchomenos|||an
 Palearctic|||a
 Nearctic|||a
-Afrotropic|||an
-Indomalaya|||an
 Neotropic|||a
-Polesia|||a
 Zorro|||a
-Yurok|||a
 Vahagn|||a
 XQuery|||a
-Eramo|||an
-Kott|||a
 Yeniseian|||a
 Alander|||an
-Tahoe|||a
-Zooey|||a
-Arvanitika|||an
-Arbëresh|||an
-Tatra|||a
-Teotihuacan|||a
 Tyrrhenian Sea|||a
-Thar|||a
 Joe Schmoe|||a
 Nomic|||a
-Turkish towel|||a
 PLAN|||a
-Gaza Strip|||a
-Burhan|||a
-Jehoshaphat|||a
-Mallen|||a
 Baba Yaga|||a
 Halabja|||a
 Bennet|||a
-Jensen|||a
 Croesus|||a
 Abednego|||an
 Jeebus|||a
@@ -7507,82 +5132,47 @@ Lunfardo|||a
 Sevan|||a
 Friuli|||a
 Atacama|||an
-Kamassian|||a
-Kamasin|||a
 Udupi|||an
 Mapuche|||a
 China's Sorrow|||a
 Taino|||a
-Dholuo|||a
 Dutch Limburg|||a
-Dhupadhola|||a
-Braiden|||a
 Canadian Shield|||a
-Ma Nishtana|||a
 Medicare|||a
-Macaronesia|||a
 Remington|||a
-Land of Israel|||a
-Elissa|||an
-Madura|||a
 Meshach|||a
 Shadrach|||a
 Makaton|||a
 Vashti|||a
-Prajesh|||a
 Sahul|||a
-Aristotelianism|||an
 Utopia|||an
 Abitibi|||an
-Medvedev|||a
 Anatoli|||an
 Kirill|||a
 Suzhou|||a
 Rejang|||a
 Nadezhda|||a
-Golden Week|||a
-Yelena|||a
 leftosphere|||a
-Krasnodar|||a
 Belgorod|||a
-Caló|||a
-Supreme|||a
-Nizhny Novgorod|||a
-Reggio Calabria|||a
-Sochi|||a
 Emajõgi|||an
-Samara|||a
 Lady Justice|||a
 Anatolius|||an
 Electra|||an
 Euphemia|||an
 Lebensraum|||a
 Belgian Limburg|||a
-Jocasta|||a
 Euclid|||an
-Fiji Hindi|||a
-Gargalianoi|||a
-Pylos|||a
-Areopoli|||an
-Gytheio|||a
-Atlalanti|||an
-Farsala|||a
-Domokos|||a
-Temuco|||a
 Araucania|||an
 E-Prime|||an
 .NET|||a
 Cass|||a
 Cassian|||a
-Darla|||a
 Gervase|||a
 Paterson|||a
-Norrland|||a
 Seljuk|||a
 Lulogooli|||a
 Sally Ann|||a
 Alutiiq|||an
-Kursk|||a
 Micro$oft|||a
 Luhya|||a
 Maglemosian|||a
@@ -7590,295 +5180,131 @@ Trinity Sunday|||a
 Utu|||an
 Bel|||a
 Lani|||a
-Smolensk|||a
-Murmansk|||a
 Elastoplast|||an
-Lauje|||a
-Irkutsk|||an
-Ōsaka|||a
-Kōbe|||a
-Khotanese|||a
-Phalura|||a
-Laal|||a
 Abau|||an
 Ahtna|||an
-Akha|||an
-Alamblak|||an
-Alune|||an
-Amahai|||an
-Andi|||an
-Aneityum|||an
-Angas|||an
-Anuta|||an
 Araki|||an
-Arbore|||an
-'Are'are|||a
 Arin|||an
-Assan|||an
-Awngi|||an
-Basketo|||a
-Dargwa|||a
-Dyula|||a
-Evenki|||an
-Gamo-Gofa-Dawro|||a
-Goemai|||a
-Gumatj|||a
-Gurindji|||a
-Iquito|||an
-Zayse-Zergulla|||a
-Xavánte|||a
-Yao|||a
 Tsou|||a
-Tsakhur|||a
-Torwali|||a
-Karakalpak|||a
-Karamojong|||a
-Turkana|||a
-Timucua|||a
-Shina|||a
-Zaghawa|||a
-Kurukh|||a
-Gondi|||a
-Gojri|||a
-Voronezh|||a
-Ulyanovsk|||an
 Dinka|||a
 Royal|||a
 Meghann|||a
 Cayley|||a
-Kaylie|||a
 Hansen|||a
 GTS|||a
 Hellenismos|||a
-Raymonn|||a
-Orenburg|||an
-Ryazan|||a
-Makalu|||a
 Lhotse|||a
-Malabar|||a
 Chamicuro|||a
-Aristarchus|||an
 Khitan|||a
 Bhatti|||a
 SOWPODS|||a
 Aleppo|||an
 Danelaw|||a
-Stavropol|||a
 Beyoncé|||a
 Chablis|||a
 Clarinda|||a
 Kurgan|||a
-Lisette|||a
-Yucatec Maya|||a
-Oryol|||an
 Bentham|||a
 Parsi|||a
-Vishal|||a
 Sukhumi|||a
 Bay Street|||a
 Sussex Drive|||a
-Suren|||a
-Romagnolo|||a
-Chita|||a
 Bithynia|||a
 Lycia|||a
-Caria|||a
 Colchis|||a
-Paphlagonia|||a
-Pisidia|||a
-Pamphylia|||a
-Vogue|||a
 Geri|||a
-Gerri|||a
 Harper|||a
 Hereward|||a
 Fourth World|||a
-Critical Mass|||a
 realis mood|||a
 irrealis mood|||an
-Vladikavkaz|||a
 Isfahan|||an
 Red Nose Day|||a
-Huave|||a
-Ewen|||an
 Tskhinvali|||a
 Khinalug|||a
 Tambov|||a
-Vologda|||a
-Vivaan|||a
-Jemma|||a
-Keri|||a
-Nalchik|||a
-Petrozavodsk|||a
 Ürümqi|||a
 Wulumuqi|||a
 Ürümchi|||a
 Besançon|||a
 Shintō|||a
 Yoshkar-Ola|||a
-ASQC|||an
 Nogai|||a
 Dail|||a
 Lafe|||a
 Fayette|||a
 Theaetetus|||a
-Nimbari|||a
 Aukštaitija|||an
-Samogitia|||a
-Suvalkija|||a
 Dzūkija|||a
 Blagoveshchensk|||a
 Afro-Eurasia|||an
-Dongguan|||a
-Foshan|||a
-CP/M|||a
-Jiangmen|||a
 Hangzhou|||a
 Lilias|||a
-Anmol|||an
 DARE|||a
-Magadan|||a
-Birobidzhan|||a
 Mimas|||a
-Ruhr Area|||a
-Anadyr|||an
-Naryan-Mar|||a
-Salekhard|||a
 Madchester|||a
-Handan|||a
-Aleister|||an
-Utsunomiya|||an
 Kaohsiung|||a
-Matsuyama|||a
-Oita|||an
-Maple Leaf|||a
-Minangkabau|||a
-Huizhou|||a
-Nanning|||a
-Yantai|||a
 Abdias|||an
-Maracaibo|||a
-Elul|||an
 Dniester|||a
-Onuphrius|||an
-Middle Persian|||a
-Mari El|||a
-North Ossetia|||a
-Nenetsia|||a
 Khantia-Mansia|||a
 Yamalia|||a
 Common Slavic|||a
-Taichung|||a
-Wuxi|||a
 Krung Thep|||a
-Shijiazhuang|||a
-Xining|||a
-Yangzhou|||a
-Fantizi|||a
 South Caucasus|||a
 Transcaucasia|||a
-Camargue|||a
 Rae|||a
-Luoyang|||a
 Hohhot|||a
-CAMRA|||a
-Israel Israeli|||an
-Marool|||a
 Blue Jays|||a
 Orioles|||an
 Ceefax|||a
 Kickapoo|||a
 Zhongshan|||a
-Zhuhai|||a
-Yinchuan|||a
 Hui|||a
 Golden Age|||a
 Tamar|||a
-Thomasina|||a
-Lijiang|||a
-Haikou|||a
 Marrakech|||a
 Paiwan|||a
-Walsh|||a
 St. John|||a
 St John|||a
 Mags|||a
 Fujian|||a
-Gansu|||a
-Guizhou|||a
 Pegah|||a
 Changsha|||a
 Hagia Sophia|||a
-Rigil Kent|||a
-His Honor|||a
-Her Honor|||a
-Primorsky Krai|||a
 Côte d'Azur|||a
-Wakayama|||a
-Miyazaki|||a
 Masha|||a
 Izzy|||an
 J++|||a
 Eiffel|||an
-Aida|||an
 DIAND|||a
-Afyonkarahisar|||an
 Laserdisc|||a
 Lilibet|||a
-Totenkopf|||a
-Banyumasan|||a
 Araucanian|||an
 Newari|||a
 Shahmukhi|||a
-Masuria|||a
-Blackbeard|||a
-Mexico State|||a
 Napster|||a
-Jack the Ripper|||a
-Bauhaus|||a
 Pomo|||a
-Tosk|||a
 Gheg|||a
-Santa Rosa|||a
-Santa Barbara|||a
-Moray|||a
 Ossian|||an
 Fingal|||a
 Lilith|||a
-San Rafael|||a
 Confederation|||a
-Cowie|||a
 GRU|||a
 Sirionó|||a
 Matterhorn|||a
-Clotilda|||a
-Gan|||a
 Zwingli|||a
-Ceqli|||a
-Guggenheim|||a
-Esmerelda|||an
-Awadhi|||an
-Vlax Romani|||a
 Lomavren|||a
-Zugspitze|||a
 Hogrebe|||a
-Baffin Bay|||a
-Baffin|||a
-Baffin Island|||a
 Lilah|||a
 Lilia|||a
 Leela|||a
 Usania|||an
 Mauna Kea|||a
-Mauna Loa|||a
 Priam|||a
 Kashaya|||a
 kashaya|||a
-Maiden's Tower|||a
-Terracotta Army|||a
 Anansi|||an
 Zebul|||a
-Mavors|||a
 Maxy|||a
 Wichita|||a
 Acol|||an
@@ -7887,96 +5313,62 @@ Maxie|||a
 Vitus|||a
 Sémillon|||a
 Sonoma|||a
-El Aaiún|||an
 Samael|||a
-Mbundu|||a
 Thermageddon|||a
 Doppler|||a
 Mills Mess|||a
 Nagios|||a
 Old Spanish|||an
-Diophantus|||a
 Downs|||a
-Hiʻiaka|||a
 Fabs|||a
 Simps|||a
 Tacana|||a
 Mingrelian|||a
 Ganja|||a
 Dayton|||a
-Ajeesh|||an
-Tori|||a
 Dublinese|||a
 Isoko|||an
 Rahab|||a
 Milcah|||a
 Samburu|||a
 Pru|||a
-Japlish|||a
 Cyrene|||a
 AICC|||an
 Bing|||a
 Goddy|||a
-Lake Huron|||a
-Lake Erie|||a
-Lake Ontario|||a
-Stepanakert|||a
 Ridge|||a
 East End|||an
 Wemba-Wemba|||a
-Becki|||a
 Sublime Porte|||a
 Kassonke|||a
-Xamtanga|||a
-Xipaya|||a
-Haines|||a
 Proto-Romance|||a
 Shipot|||a
 Queenie|||a
-Anahit|||an
 Hayk|||a
-Kura|||a
 Alania|||an
 Nertz|||a
 Fox|||a
 Goldberg|||a
 Oxon|||an
-Zener|||a
-Tübingen|||a
-Nouméa|||a
 Enyo|||an
-Abramsky|||an
 Shasta|||a
 Mérida|||a
 Hellespont|||a
 Dardanelles|||a
 Médoc|||a
-Proto-Bantu|||a
-Abomey|||an
 Aboukir|||an
 Cadmus|||a
-Manoah|||a
 Meibion Glyndwr|||a
-Old Cornish|||an
 Odense|||an
 Esbjerg|||an
 Escaut|||an
 Ababil|||an
-Inglistan|||an
 Côte d'Or|||a
 Baumé|||a
-Vennam|||a
 Nature|||a
 Philomena|||a
 Novatian|||a
-St James's|||a
 Lateef|||a
-Gostivar|||a
-Sabadell|||a
-Vinica|||a
-Demir Hisar|||a
-Kruševo|||a
-Negotino|||a
 Sea of Marmara|||a
 Temple Mount|||a
 Aral Sea|||an
@@ -7986,79 +5378,42 @@ Urmia|||an
 Mandaic|||a
 Mandaeism|||a
 Astghik|||an
-Zizilivakan|||a
 Saintes|||a
-Man in Black|||a
-Mount Caburn|||a
-Wicker Man|||a
 Regent|||a
 Saho|||a
 Xiao'erjing|||a
 Kaila|||a
-Canal Zone|||a
 Tabriz|||a
 Béarn|||a
 Muscovy|||a
 Durrës|||a
-Saint Charles|||a
-St. Cloud|||a
-Ysabelle|||a
-Saïs|||a
 Soraya|||a
-BRIC|||a
 Amu Darya|||an
-Jayhoun|||a
 Oxus|||an
 Asturia|||an
 Kutaisi|||a
 Rioni|||a
-Phasis|||a
-Jabberwock|||a
-Samira|||a
 Egbert|||an
 Royce|||a
 Royston|||a
 Blythe|||a
 Panmunjom|||a
 Janelle|||a
-Auslan|||an
-Dusun|||a
-Shaivism|||a
-Siirt|||a
-Kashgar|||a
-Kashi|||a
 Vespasian|||a
-Kamala|||a
 Magic|||a
-Noor|||a
 NuLab|||a
 French India|||a
-Sanchana|||a
 Apennines|||an
-Baré|||a
-Archi|||an
 Bubba|||a
 Flash|||a
 Jennilyn|||a
-Cuyonon|||a
-Hammurabi|||a
-Mývatn|||a
 Fatah|||a
-Meagan|||a
 Arline|||an
-Arleen|||an
 Warsaw Pact|||a
 Ran|||a
 ǂKxʼauǁʼein|||a
-Achuar-Shiwiar|||an
 Aiwoo|||an
-Ajië|||an
-Akhvakh|||an
-Alekano|||an
-Alsea|||an
-Amahuaca|||an
 Ninotsminda|||a
-Strait of Dover|||a
 Pas-de-Calais|||a
 Katanga|||a
 Juno Moneta|||a
@@ -8068,101 +5423,57 @@ Eliezer|||an
 Tryphena|||a
 Zipporah|||a
 Mahlon|||a
-Multan|||a
 Fus-ha|||a
 007|||a
 Udi|||an
 Phineas|||a
 Phinehas|||a
 Tehani|||a
-Hue|||a
-Abrahan|||an
 Excalibur|||an
 Helvetia|||a
-French Republic|||a
-Aghvank|||an
 Church|||a
 Otomi|||an
 Grenadines|||a
 Floy|||a
 Chavacano|||a
-Milford|||a
 Pirahã|||a
 Parmenides|||a
-Stettin|||a
-Earby|||an
 Old Welsh|||an
-Old Norwegian|||an
-Old Swedish|||an
-Old Russian|||an
 Old Icelandic|||an
 Runglish|||a
 Frelimo|||a
-Archite|||an
 Pouyan|||a
 Anaxagoras|||an
 Peisistratus|||a
-Karlsson|||a
 Oprah|||an
-Pittacus|||a
-Anaximander|||an
 Anaximenes|||an
 Xenocrates|||a
-Strabo|||a
 Thucydides|||a
-Simonides|||a
-Pindar|||a
 Iphigenia|||an
 Memnon|||a
-Trixie|||a
-Alyshia|||an
 Hutt|||a
-Natali|||a
-Hohokam|||a
 Zeno|||a
 Nic|||a
 MacSpaunday|||a
-Marybeth|||a
 Karabakh|||a
 Eliel|||an
-Arfie|||an
-Gawd|||a
 Hoff|||a
 Kerch|||a
-Novorossiysk|||a
-Vitebsk|||a
-Gomel|||a
 Gorky|||a
 Kalinin|||a
-Kolomna|||a
-Oka|||an
-Tolyatti|||a
 Batumi|||a
 Adjara|||an
-Vorkuta|||a
-Lisu|||a
 Rostov|||a
 Novaya Zemlya|||a
 Evadne|||an
-Jewspeak|||a
 Divya|||a
 Zhukov|||a
 Gorbachev|||a
-Middle Irish|||a
 Ekka|||an
-Rihanna|||a
 Pyrrhus|||a
 Pringle|||a
 Hakkoz|||a
-Akita|||an
-Yamagata|||a
 Fukushima|||a
-Yamaguchi|||a
-Tokushima|||a
-Kochi|||a
-Yair|||a
-Cathal|||a
-Morioka|||a
 BitTorrent|||a
 Uachtarán|||an
 Rastus|||a
@@ -8170,34 +5481,15 @@ Erastus|||an
 Veluws|||a
 CART|||a
 Khariboli|||a
-Hyogo|||a
 Janna|||a
-Theckla|||a
-Keelung|||a
-Istriot|||an
-Mito|||a
-Maebashi|||a
-Kofu|||a
-Otsu|||an
-Matsue|||a
 Luana|||a
 Landmarkism|||a
 Unihan|||an
-Gilaki|||a
-Thaana|||a
-Irish English|||an
 Middle Chinese|||a
-Limbu|||a
-Kaithi|||a
-Ewart|||an
 Kimber|||a
-Ndala|||a
 Ananda|||an
-Cia-Cia|||a
 Tsimané|||a
-Hungana|||a
 Fam|||a
-Middle Watut|||a
 Sunshine Coast|||a
 Gang of Four|||a
 Caloundra|||a
@@ -8211,514 +5503,224 @@ Hayes|||a
 Silk Road|||a
 Hebron|||a
 Laozi|||a
-Old Breton|||an
-Middle Breton|||a
-Chagatai|||a
-Old Ionic|||an
-New Ionic|||a
-United Ireland|||an
-Europol|||an
 Microhoo|||a
 Komsomolsk|||a
-Sophus|||a
 Codies|||a
-Shlomo|||a
-Masovia|||a
-Poznan|||a
-Siatista|||a
-Tavros|||a
-Ptolemaida|||a
-Naxos|||a
-Tinos|||a
-Amorgos|||an
-Spetses|||a
-Skopelos|||a
 Occitania|||an
 Chard|||a
-Callirrhoë|||a
-Enosis|||an
 Potiphar|||a
-Chaoshan|||a
 Maris|||a
-Erebuni|||an
-Medic|||a
-Pactolus|||a
-North Frisian|||a
-Pasir Ris|||a
-Fraser Island|||a
-Big Blue|||a
-Oshiwambo|||an
-Shimane|||a
-Mengen|||a
-NOM|||a
 Ptah|||a
 Purepecha|||a
 Hawaiian Pidgin|||a
-Moroccan Arabic|||a
 Gascony|||a
-YHWH|||a
 Judezmo|||a
 Sol III|||a
 Fujita scale|||a
-Ukonu|||an
 French paradox|||a
 Tessy|||a
-Nueva Segovia|||a
 Circe|||a
-Boon Lay|||a
 Carpathians|||a
 Medigap|||a
-Izzie|||an
-Karaj|||a
 Linden|||a
-Hyllus|||a
-Parpi|||a
-Naoussa|||a
-Giannitsa|||a
-Arnaia|||an
-Nea Moudania|||a
-Tyrnavos|||a
-Deskati|||a
-Alimos|||an
 Elliniko|||an
-Ellinikon|||an
 Grevena|||a
-Voula|||a
-Nea Ionia|||a
-Karpathos|||a
-Kassos|||a
 Skyros|||a
-Volvi|||a
-Carnival|||a
 New Romanticism|||a
-Qom|||a
-Erzurum|||an
-Gardener|||a
 Gardner|||a
 Continent|||a
 Vayk|||a
 Vayots Dzor|||a
-CLDR|||a
-DUCET|||a
 Zhumulangma|||a
 Shyla|||a
 GUAM|||a
-Saône|||a
-Pannonia|||a
-Appleyard|||an
-Lombok|||a
-Phuket|||a
-Nigritia|||a
 Inna|||an
-Ere|||an
-Amiens|||an
-Gavar|||a
 Gwatkin|||a
-Kucha|||a
-Alcman|||an
-Anacreon|||an
 Alcaeus|||an
-Bacchylides|||a
-Theognis|||a
-Ibycus|||an
-Callinus|||a
-Mimnermus|||a
-Stesichorus|||a
-Terpander|||a
-Tyrtaeus|||a
 Chiayi|||a
 Closetgate|||a
 AVN|||an
 Persepolis|||a
-Yehuda|||a
-Yitzchak|||a
 ECMA|||an
-Stott|||a
-Chaozhou|||a
-Xiang|||a
-Ashtarak|||an
-Louanne|||a
-Wren Day|||a
 Eda|||an
 Bathsheba|||a
 Uriah|||an
 Livia|||a
-SIRC|||a
 Canadian Forces|||a
-HD 188753|||a
 Kalenjin|||a
-Zibo|||a
-Tangshan|||a
-Qiqihar|||a
-Xuzhou|||a
-Shantou|||a
-Daqing|||a
-Benxi|||a
-Changzhou|||a
-Liuzhou|||a
-Aten|||an
-Euskara|||an
-Acoma|||an
 Gliese|||a
 MUCTC|||a
 MTC|||a
 MMC|||a
-AMT|||an
 Brunhild|||a
 Jelena|||a
-Sava|||a
-Caren|||a
 Ghomara|||a
-Xârâcùù|||a
-Jez|||a
-Finagle's law|||a
 Old Norman|||an
-Old Picard|||an
 Scarlet|||a
-Islamiat|||an
-Mau Mau|||a
-Patras|||a
-Meganesia|||a
-Moshe|||a
 Jedward|||a
 Emmeline|||an
 Mitzi|||a
 ǀXam|||a
 Hegelese|||a
-Rider|||a
-Adélie Land|||an
 Ming|||a
-Chaim|||a
-Shimshon|||a
 Xenia|||a
 Naubinway|||a
-Shimon|||a
 Spinozism|||a
 Teabagistan|||a
 Willa|||a
-Shaz|||a
-Mother Russia|||a
-Reuven|||a
 Jair|||a
-Avraham|||an
-Rabinowitz|||a
 Ngarrindjeri|||a
-Stanislaus|||a
 Monom|||a
 Kerberos|||a
-Stavros|||a
 Chicken Little|||a
 Tirzah|||a
 Thirza|||a
 Seraphina|||a
-Seraphine|||a
-Marsh|||a
-Pommyland|||a
-Suze|||a
 Greenfield|||a
-Pune|||a
 Bhubaneswar|||a
-Dehradun|||a
-Thane|||a
 Iseult|||an
-Isolde|||an
-Agra|||an
-Vadodara|||a
-Wittenheim|||a
-Colmar|||a
 Pawnee|||a
 Itelmen|||an
-Nantong|||a
-Yichang|||a
-Xinyang|||a
-Zhenjiang|||a
-Baoding|||a
-Pouria|||a
 Cheka|||a
-Cajun French|||a
-El Dorado|||an
 Cajetan|||a
-Peel|||a
 Mahayana|||a
-Vajrayana|||a
 Hinayana|||a
-Uttarakhand|||an
-Madhyamika|||a
-Marx|||a
-Shor|||a
-Gower|||a
 Saqqaq|||a
 Proto-Norse|||a
-Maylene|||a
 Ecumenopolis|||an
-Anglo-Frisian|||an
-Surabaya|||a
 Apop|||an
 Hef|||a
 Helmand|||a
-Visakhapatnam|||a
 Krissie|||a
 Kohistan|||a
-Gateway City|||a
 Pichilemu|||a
-Beta Lyrae|||a
 Gacrux|||a
-Zeta Geminorum|||a
-Epsilon Pegasi|||an
-Lusatian Neisse|||a
 Tasman|||a
 Daur|||a
-Altai Krai|||an
-Pamir|||a
-Cecie|||a
-Dalecarlia|||a
 Iron Cross|||an
 Moral Majority|||a
 Marilla|||a
 Miletus|||a
-Marcomanni|||a
 Inessa|||an
 Cajun English|||a
 Brose|||a
 Pergamum|||a
 Darby|||a
-Malukus|||a
-Sundas|||a
-Tanimbars|||a
-Aegeans|||an
-Westmans|||a
-Keys|||a
 Tiamat|||a
-Annella|||an
 Salmon|||a
-Mount Megiddo|||a
 Moriarty|||a
-Haarlem|||a
-Movember|||a
-Bethesda|||a
-Casablanca|||a
 Illyria|||an
 Parnassus|||a
 Perun|||a
 Strephon|||a
-Portuñol|||a
 Big Bertha|||a
 Megiddo|||a
 Proto-Iranian|||a
-Guanhua|||a
 Altay|||an
 Sea of Okhotsk|||a
 ObamaCare|||an
 Obamunism|||an
-Alitalia|||an
-East Frisia|||an
 Burke's Barrage|||a
 Rowan|||a
-Bandung|||a
-Malibu|||a
 Allahabad|||an
 Sergey|||a
 His Worship|||a
 Claribel|||a
-Claira|||a
 Lana|||a
 Zograf|||a
-French Guinea|||a
-Isy|||an
-Great Lent|||a
 Kokomo|||a
 Wokingham|||a
-Tian Shan|||a
 Kemi|||a
 Carlene|||a
-Eastern Arabic|||an
 Enlil|||an
-Nippur|||a
-Sargon|||a
 Enûma Eliš|||an
-Anshar|||an
 Kishar|||a
-Apsu|||an
-Lahmu|||a
-Lahamu|||a
 Enki|||an
-Eridu|||an
-Kur|||a
 Anunnaki|||an
-Nabopolassar|||a
-Ninhursag|||a
-Kish|||a
 Ashur|||an
-Assur|||an
-Ninlil|||a
 Shamash|||a
-Harran|||a
-Sippar|||a
-Aya|||an
-mainland China|||a
 Merope|||a
 HDMI|||a
 Jojo|||a
-Western Africa|||a
-J'ouvert|||a
-Zumba|||a
 Kuban|||a
-Lolol|||a
 Dreaming|||a
 'ammiyya|||a
 Greater China|||a
 Buran|||a
-Fens|||a
-First Family|||a
 Shenzhen|||a
-Iași|||an
 Brahmaputra|||a
 Batavia|||a
-Twickenham|||a
-Tottenham|||a
-Man United|||a
-Man City|||a
 Conleth|||a
 Conley|||a
-Dereck|||a
-Prekmurian|||a
 Izmir|||an
-Cham|||a
 Nunatukavut|||a
 6in4|||a
 Kevorkian|||a
 Hanford|||a
 Molineux|||a
 Busan|||a
-Dorinda|||a
 Cholmondeley|||a
 Sarkozy|||a
-Patil|||a
-Hadrian's Wall|||a
-Antonine Wall|||an
-Islaam|||an
-Jennalyn|||a
 Eurabia|||an
-Deaflympics|||a
 Vanya|||a
-Ewood|||an
-C.F.R.|||a
-U.S.C.|||an
 Toon Army|||a
-Bluebirds|||a
-Musorgsky|||a
-Brezhnev|||a
-Mendy|||a
 Ricki|||a
-Eindhoven|||an
 Satchmo|||a
-Tunisian Arabic|||a
 Nana|||a
-Thorne|||a
-Anjou|||an
 Morley|||a
-Hodder|||a
-Buchanan|||a
-Lettice|||a
-Ashe|||an
 Burnside|||a
-Grandma|||a
 Kearney|||a
-Chesterfield|||a
 Sutton|||a
-Lake Constance|||a
-Granny|||a
 Central Canada|||a
-Nou Camp|||a
-Rudd|||a
-Dyngus Day|||a
-Verethragna|||a
 Drava|||a
 Aegina|||an
-Daegu|||a
-Namaka|||a
 Frozen Four|||a
 White Sox|||a
-Chisox|||a
-Quimper|||a
-Jannat|||a
-North Germanic|||a
-Weyewa|||a
-Motor City|||a
 Wejewa|||a
 Matildas|||a
 Bafana Bafana|||a
 Lemon test|||a
-Arche|||an
 Lucilla|||a
-Nakhodka|||a
 Sardis|||a
 x86|||a
 Deringer|||a
-Nikolayevsk|||a
 Rodina|||a
 Lockerbie|||a
 Lod|||a
-Londonderry|||a
 Algherese|||an
-Gerrard|||a
-Krk|||a
-Ardennes|||an
 Comox|||a
 Rising Sun|||a
-Q'anjob'al|||a
 Skynet|||a
-Vyvyan|||a
 Bruckner|||a
 Antonius|||an
 French Congo|||a
 Chiron|||a
 Saturn V|||a
-Khloé|||a
-Khloe|||a
-Ingvaeonic|||an
 Stanhope|||a
 Conan|||a
 Genghis Khan|||a
-Rijeka|||a
 Nosler|||a
-Borough|||a
 Teagan|||a
 Tegan|||a
-Runyonese|||a
-Free Zone|||a
 Digby|||a
-Bird's Head|||a
-Abood|||an
 Tuareg|||a
 Central Time|||a
-Algic|||an
-Janey|||a
-Deng|||a
 Teegeeack|||a
-Heihe|||a
 Cordelia|||a
 Dickon|||a
 Jafaican|||a
-Putre|||a
 Arica|||an
-Rutul|||a
 Wille zur Macht|||a
 Pitta-Pitta|||a
 Wageman|||a
 Worimi|||a
-Ajaccio|||an
 Rameau|||a
 Sybaris|||a
-Tamasheq|||a
 Cyberia|||a
 Sarcee|||a
 Bonifatius|||a
-Boniface|||a
 Middle Latin|||a
 Agrippa|||an
-Anaxarchus|||an
-Modern Korean|||a
 Yue|||a
 Rostov-na-Donu|||a
 Opals|||an
@@ -8729,657 +5731,311 @@ Supes|||a
 Slavey|||a
 Noonan syndrome|||a
 Noonan|||a
-Severnside|||a
 Isadore|||an
 Chelm|||a
-Manzhouli|||a
 Albina|||an
 G20|||a
 Binkie|||a
 Nibiru|||a
-Nannygate|||a
 Kez|||a
-Mahal|||a
 Bua|||a
 Song|||a
 Wenceslaus|||a
 America's Cup|||an
-Taimyr|||a
-Summerland|||a
-Umbanda|||an
 Nutella|||a
-Catharism|||a
 Leora|||a
 Takahashi|||a
-Yasmin|||a
-Yasmine|||a
-Yasmina|||a
-Llewelyn|||a
-Llewellyn|||a
 Twister|||a
-Proto-Vietic|||a
 Abovyan|||an
 Vietic|||a
 Mon-Khmer|||a
-Vesak|||a
-Aeroflot|||an
 Milo|||a
 Blasius|||a
 Blaise|||a
 Major|||a
-Hollandic|||a
-Lion's Head|||a
 Danglebahn|||a
-Kara Sea|||a
 Laptev Sea|||a
 Raëlism|||a
-Baikonur|||a
 Aletha|||an
-Baure|||a
-Tasman Sea|||a
 Orpington|||an
 Kayden|||a
-Cayden|||a
-Sukhoi|||a
 Staci|||a
-Sawney|||a
-Movement 2 June|||a
-urbiscript|||an
-Coral Sea|||a
 Kharput|||a
 Tai Dam|||a
 Amherst|||an
-Dench|||a
 Amerithrax|||an
 Beervana|||a
 Vectis|||a
-Oakland|||an
-Marchigüe|||a
 Dühring's rule|||a
-Bucalemu|||a
 Sheba|||a
 Judson|||a
 Judd|||a
 Sita|||a
 Rabshakeh|||a
-Blaine|||a
-Ubud|||an
-Lovina|||a
-Winblows|||a
-Microshaft|||a
 Lesath|||a
-Eora|||an
 Laurussia|||a
 Euramerica|||an
-Vale of Tempe|||a
 Munsee|||a
-Padma|||a
-Jaflong|||a
-Sudanese Arabic|||a
 K'iche'|||a
-Melb|||a
 Stasik|||a
-Jennabeth|||a
 Wren|||a
 Sinendé|||a
-Litueche|||a
-Codegua|||a
-Chalan Beel|||a
 Saidpur|||a
-Agrabad|||an
 Chittagong|||a
 Hermaphroditus|||a
 Wiktionary|||a
 Puck|||a
-Thumbelina|||a
-Rach|||a
-Kemps|||a
-Fraserburgh|||a
-Newcastleton|||a
 Selkirk|||a
 Denholm|||a
 Jyothis|||a
 Quiverfull|||a
-Sylheti|||a
 Elam|||an
-Kars|||a
 Hygiea|||a
 ABC Islands|||an
-Shelbyville|||a
 Smiggy|||a
 Jaz|||a
 Unity|||an
-Ground Zero|||a
-Augie|||an
-Cabinda|||a
 Gehenna|||a
-lunar cataclysm|||a
-Agesilaus|||an
 Sanskript|||a
 Sanscript|||a
-Bangi Me|||a
 West Germanic|||a
 Atalanta|||an
 Xan|||a
-Ike|||an
-Western Bengali|||a
-Eastern Bengali|||an
 Senkaku Islands|||a
 Timiskaming|||a
 Adioukrou|||an
-Biafra|||a
 Marnie|||a
 X-bar theory|||a
-Syktyvkar|||a
 Carrier|||a
-cosmic teapot|||a
-Westman Islands|||a
-Led Zep|||a
-Norilsk|||a
 Nakhichevan|||a
-Gelendzhik|||a
-Anapa|||an
-Hatshepsut|||a
 Dogrib|||a
-Chippewyan|||a
-Gwich'in|||a
-Koro|||a
 Kabardian|||a
-Dordogne|||a
-Garonne|||a
-Daugava|||a
-Sint Maarten|||a
 Abrasax|||an
 Toisanese|||a
 Hoisanese|||a
 Taishanese|||a
 Baruch|||a
-Sarthe|||a
-Gironde|||a
-Upper Lusatian|||an
-Lower Lusatian|||a
-Torquay|||a
 Silenus|||a
 Fornicalia|||a
-Old Georgian|||an
-Mannie|||a
 Chöd|||a
-Modern Japanese|||a
-Rkatsiteli|||a
-Komotini|||a
-Didymoteicho|||a
-Kavala|||a
-Alexandroupoli|||an
-Big Nambas|||a
-Church Latin|||a
-Proto-Armenian|||a
-Zoraya|||a
-Liszt|||a
-Punti|||a
-Plain of Jars|||a
-QGD|||a
-Lord Muck|||a
-Lady Muck|||a
 Vyomesh|||a
 Pleasance|||a
 Poitiers|||a
-Tereno|||a
 Chindia|||a
 Juventas|||a
 Fluffy|||a
-Telemachus|||a
-Laertes|||a
-Ilium|||an
 Diomedes|||a
 Halicarnassus|||a
-Imbros|||an
-Lacedaemon|||a
-Nashi|||a
 Na-Dene|||a
-Nicobar Islands|||a
-Alacalufan|||an
-Andamanese|||an
-Ijoid|||an
-Kiavah|||a
-Analgin|||an
-Ket|||a
-Kaiden|||a
-Tai-Kadai|||a
-Starbucks|||a
 Uncle Joe|||an
-Nar Phu|||a
-Chandra|||a
 Baal-gad|||a
-Jediism|||a
-Vikram|||a
-Myfanwy|||a
 George VI|||a
 Málaga|||a
 Badajoz|||a
 Red Square|||a
-Alberts|||an
-Pixie|||a
 Iswa|||an
-Red Brigades|||a
 July Monarchy|||a
-Lake Malar|||a
-Lake Mälaren|||a
 Cyber Monday|||a
-JavaME|||a
-JavaSE|||a
 Potterverse|||a
 Cablegate|||a
-South Slavic|||a
-Iblis|||an
-Old Korean|||an
 Sarlacc|||a
 Jade Emperor|||a
-Marks|||a
 Jaya|||a
 Bukovina|||a
-Shotokan|||a
-Melitene|||a
 Banquine|||a
 Tupamaros|||a
 Yoda|||a
 Eurus|||an
 Boreas|||a
 De'ang|||a
-Pima|||a
 Maat|||a
 Yahuwah|||a
 lazyweb|||a
-Daniels|||a
-Boteler|||a
 Clay|||a
 Brass Monkey|||a
-Karangetang|||a
-Krakatoa|||a
-Sunda Strait|||a
 Sunda|||a
-Sundaland|||a
-Battenberg|||a
 Audie|||an
 Chucky|||a
-Chet|||a
 Dima|||a
-Gil|||a
-Julianne|||a
-Jamestown|||a
 Goddard|||a
 LSSAH|||a
-Aragon Strip|||an
 9-1-1|||a
 Great Sky River|||a
 Silvery River|||a
-Red China|||a
 Ladislaus|||a
 Jacob Marley|||a
 Peabody|||a
 Gala|||a
 Duck|||a
-LSC|||a
-Upper South|||an
 Tiny Tim|||a
 Uab Meto|||an
 Proto-Eskimo|||a
 Galant|||a
-Romantic period|||a
 Lost Wages|||a
-Bibendum|||a
-RDP|||a
-PAT|||a
 rule of three|||a
 Rule of Three|||a
 Fridrich method|||a
 Victoria Falls|||a
-C64|||a
-Quemoy|||a
-Buddha Day|||a
-Al Hijrah|||an
 Orphism|||an
-Vitruvian Man|||a
-Ligurian Sea|||a
-Euripus Strait|||an
-Strait of Kerch|||a
 Irbe Strait|||an
 Courland|||a
 Minch|||a
-Fehmarn Belt|||a
-Fehmarn|||a
-Lolland|||a
-Guldborgsund|||a
-Robeson Channel|||a
-Hans Island|||a
 Durga|||a
 Duk-Duk|||a
-Urn of Fate|||an
-Kagyu|||a
 Jurruru|||a
 Caldwell|||a
 Daedalus|||a
 VMS|||a
-Laysan|||a
-Hitchcock|||a
-Hindi-Urdu|||a
-Billary|||a
-Yevanic|||a
 Doubs|||a
 Nîmes|||a
 Orunmila|||an
 Frigg|||a
-Korea Strait|||a
-Jamaica Channel|||a
-Deluge|||a
-Nares Strait|||a
-Luzon Strait|||a
-Torres Strait|||a
 Elbrus|||an
 Bajau|||a
 Saci|||a
 Nastia|||a
-Lepontic|||a
 Svetlana|||a
 Sveta|||a
 Curupira|||a
 CEF|||a
-Barking|||a
-Terrianne|||a
-Delonte|||a
 Aphrodisia|||an
 Torygraph|||a
-Annabeth|||an
-Arvanitic|||an
 Liberdade|||a
-Algerian Arabic|||an
 Kutenai|||a
 Antonina|||an
 Zinaida|||a
 Bluto|||a
 Venus de Milo|||a
 Arc de Triomphe|||an
-Itaipu Dam|||an
-Pure Data|||a
-CN Tower|||a
-Old Catalan|||an
-Bhoys|||a
 Afade|||an
-Aramanik|||an
-Eastern Abnaki|||an
-Oksana|||an
 Huda|||a
 Punycode|||a
-Incarnation|||an
-Welsh English|||a
-Ambulas|||an
-Pal|||a
-Aneme Wake|||an
-Abui|||an
-South Sudan|||a
-Naziland|||a
-Texas 42|||a
 Don Quixote|||a
-Lassie|||a
 Rin Tin Tin|||a
-Progesterex|||a
-Game of Life|||a
 Scooby-Doo|||a
 Goofy|||a
-Faizan|||a
-Nortia|||a
 Adurol|||an
 Christchurch|||a
 Proto-Italic|||a
-Khwarshi|||a
 Lotus Sutra|||a
 Ingrian|||an
-Biebs|||a
 Alvina|||an
 Frankland|||a
-Aeaea|||an
 Ida'an|||an
 Belgravia|||a
-Ivanovich|||an
-Ivanovna|||an
 Poe's law|||a
-Gandhara|||a
-Zeshan|||a
 Gayville|||a
-Poconos|||a
 Xanax|||a
 Suebi|||a
 January 0|||a
-February 31|||a
 GOMA|||a
 YAML|||a
-Nijmegen|||a
-Mopán|||a
-Saint-Denis|||a
-MIT license|||a
 Kolyma|||a
 Œneus|||a
 Orneae|||an
 Judæus|||a
-Digital Era|||a
 Œchalia|||a
 Œnoë|||a
 Brontë|||a
-Michif|||a
 Œcles|||a
-Vasconic|||a
 Old Scratch|||an
 Old Serpent|||an
 Arecibo message|||an
 Œnomaus|||a
 Nafaanra|||a
-Scudamore|||a
 Charmaine|||a
-Kazbek|||a
-BRICS|||a
 Œnotria|||a
 Dipper|||a
 Œnotrus|||a
 Hunsrik|||a
 Jensenism|||a
-Asia-Pacific|||an
 Hitachi|||a
-Bloc|||a
-Socreds|||a
 Naraka|||a
-Townshend|||a
 Hinomaru|||a
 Roscoe|||a
-five senses|||a
 Cush|||a
 Kushan|||a
-Gijón|||a
-Kutthung|||a
-San Antonio|||a
-Huya|||a
-Haggadah|||a
 Odisha|||an
-Odia|||an
 Sacred War|||a
-Montmartre|||a
-Pythian Apollo|||a
-Ghats|||a
-Mangalica|||a
 Buridan's ass|||a
 Amir|||an
-Miley|||a
 Super Saturday|||a
-Winnipesaukee|||a
-Golan Heights|||a
-Gotha|||a
-Kowloon|||a
-Primitive Irish|||a
 Iscariot|||an
 Santander|||a
 Segovia|||a
 Start Menu|||a
 Orrin|||an
 Bethy|||a
-Homintern|||a
 Weatherman|||a
 lower 48|||a
 Theory X|||a
 Theory Y|||a
-Bed-Stuy|||a
-Russenorsk|||a
-Tabatha|||a
 Nastaliq|||a
 Hepburn|||a
 Costa Daurada|||a
-Tuapse|||a
-Malaita|||a
 Buffy|||a
 Leda|||a
-Asian Games|||an
 Santorum|||a
 Ngai|||a
-Feltre|||a
-Kreyol|||a
 Bashir|||a
 Basheer|||a
 Aegeus|||an
-Yomi|||a
-Trollywood|||a
-Rachelle|||a
 Johannah|||a
-Radcliffe|||a
-Leia|||a
-Palma|||a
-Castro|||a
 Flores|||a
 Zillah|||a
 BITNET|||a
-Skeffington|||a
-Mashhad|||a
-Jelgava|||a
-Liepāja|||a
 Rochelle|||a
 Langley|||a
-Farhud|||a
 Zephyrus|||a
-Father Sky|||a
 Dari Persian|||a
-Vilamovian|||a
-Francoism|||a
-Euston|||an
 Bai|||a
 Yajurveda|||a
 Aunt Sally|||an
-Jesolo|||a
-Paulie|||a
-Umeda|||an
-Theotokos|||a
 Orontes|||an
-Proto-Altaic|||a
-Hendra|||a
-Hrazdan|||a
-Aragvi|||an
-Pasargadae|||a
-Yazidism|||a
-Woodley|||a
-Kaycie|||a
-Kaycee|||a
-Kacie|||a
-Kacee|||a
-Vosges|||a
-Ngerulmud|||a
 Lankaran|||a
-Draskhanakert|||a
-Hnarakert|||a
-Yerazgavors|||a
-Hagåtña|||a
 Kibology|||a
-Utoeya|||an
 Tring|||a
 Unknown Soldier|||an
-Unknowns|||an
-Zuleika|||a
-Gaz|||a
 Hanyu Pinyin|||a
 Tusayan|||a
 Maxim gun|||a
-Trafalgar|||a
 Seanad Éireann|||a
-Jūrmala|||a
 Rollo|||a
-Rui|||a
-Chaeronea|||a
-Bawku|||a
-Sunyani|||a
-Kumasi|||a
-Aflao|||an
-Troödos|||a
-Lydd|||a
-Magna Graecia|||a
 Creighton|||a
-Cormack|||a
 Coolidge|||a
 Cadiz|||a
 Tivoli|||a
-Rēzekne|||a
-Tsuu T'ina|||a
-Tsuut'ina|||a
 Medea|||a
-Wubi|||a
 Laocoön|||a
 Holstein|||a
 Schleswig|||a
 Emmett|||an
-Emmitt|||an
-Emmott|||an
-West Slavic|||a
 Kitchener|||a
 Chalcedon|||a
 Tamahaq|||a
-Scanian|||a
 Pitta Pitta|||a
-Abxazo|||an
-Győr|||a
 Toomooroo|||a
-Salford|||a
 HillaryCare|||a
 Kimball|||a
-Clœlia|||a
-Clœlius|||a
 Citibank|||a
 Amtrak|||an
-Acela|||an
 Aram|||an
-Avicenna|||an
 Mila|||a
-GDI+|||a
 Niobe|||a
-Miaphysitism|||a
 Nowruz|||a
 Kamboji|||a
-Vick|||a
 Zenobia|||a
 Temperance|||a
-Somethingism|||a
 Shaftesbury|||a
-Kloran|||a
-Wipers|||a
 Maybel|||a
 Isa|||an
 Karaism|||a
-Jacquie|||a
 Zemfira|||a
 Millen|||a
 Ramsay|||a
 Tecumseh|||a
 Baphomet|||a
-Magaluf|||a
-Boston Mess|||a
-Mike's Mess|||a
-Sakyamuni|||a
 Bethphage|||a
-UKoGBaNI|||an
-Nizhny Tagil|||a
-Vyacheslav|||a
 Viña del Mar|||a
 Valparaíso|||a
 Talitha|||a
@@ -9387,210 +6043,64 @@ Cephas|||a
 River Plate|||a
 Milwaukee|||a
 Zaqqum|||a
-Peshitta|||a
 Guanyin|||a
-Zhuangzi|||a
 Proto-Inupik|||a
-Legion of Honor|||a
 Kollam|||a
 Sagrada Familia|||a
 Dulcie|||a
-Jeddah|||a
 Onmyodo|||an
-Rasŏn|||a
 Judas Iscariot|||a
 Eck|||an
-Riviera|||a
-Livingston|||a
-Luciferianism|||a
 Zealandia|||a
 Ladakh|||a
 Tay|||a
-Upholland|||an
 Haidée|||a
 Lucretius|||a
 Hyde Park|||a
 Sian|||a
-Samnium|||a
-Ackinchesacky|||an
-Josephina|||a
-Alfvén|||an
 Yerkish|||a
 Wagnerism|||a
-Kilivila|||a
 Clelia|||a
 Cloelia|||a
 OVP|||an
-Noahidism|||a
 Freyja|||a
-Woodward|||a
 Socal|||a
 Arab World|||an
 Mischief Night|||a
-Ellis Island|||an
 Theatines|||a
-Mineralnye Vody|||a
-Nerys|||a
 Yola|||a
 O'Leary|||an
 Botany Bay|||a
 Tobit|||a
 Phillis|||a
 Phillipa|||a
-Aisne|||an
-Allier|||an
-Alpes-Maritimes|||an
-Ariège|||an
-Aube|||an
-Aveyron|||an
-Bas-Rhin|||a
-Charente|||a
-Corrèze|||a
-Creuse|||a
-Drôme|||a
-Essonne|||an
-Eure|||an
-Gers|||a
-Hérault|||a
-Indre|||an
 Taryn|||a
-Loiret|||a
-Lozère|||a
 Marne|||a
-Nièvre|||a
-Oise|||an
-Vaucluse|||a
-Yvelines|||a
-Côtes-d'Armor|||a
-Batu|||a
-Peacemaker|||a
 Jung|||a
 Komsomol|||a
 Khorgas|||a
 Konda|||a
-Gorgias|||a
-Protagoras|||a
 Waldo|||a
 Elgin|||an
 Skegness|||a
-Waheguru|||a
 Jiangnan|||a
-Kawésqar|||a
 Cephalonia|||a
 Zakynthos|||a
-Kythira|||a
-Cartagena|||a
-Kyrgyz Republic|||a
-Slovak Republic|||a
-Guayaquil|||a
-Vinny|||a
-Jonesy|||a
-Smithy|||a
-Greeny|||a
 PIIGS|||a
 PIIIGS|||a
 PIIGGS|||a
 Dún Laoghaire|||a
-Bumfuck|||a
 Den Bosch|||a
 Howell|||a
-Neill|||a
 Goodwin|||a
 Vietcong|||a
-Proto-Albanian|||a
-Kendrick|||a
-Taglish|||a
-Labadism|||a
-Phillipson|||a
-Lawrenson|||a
-Hewson|||a
-Emmerson|||an
-Waterson|||a
-Watkinson|||a
-Watkin|||a
-Jewson|||a
-Nicholl|||a
-Nicholds|||a
-Nickells|||a
-Nickolds|||a
-Nickolls|||a
-Nickalls|||a
-Nicolls|||a
-Nickless|||a
-Nickisson|||a
-Nicolson|||a
-Nickson|||a
-Nixson|||a
-Pattinson|||a
-Jobson|||a
-Mathieson|||a
-Nordicism|||a
-Beige Book|||a
 Vedanta|||a
-Collison|||a
-Collyns|||a
-Collen|||a
-Colling|||a
-Cowling|||a
-Collinge|||a
-Colls|||a
-Isaack|||an
-Zach|||a
-Zac|||a
-Christocentrism|||a
-Jeju-do|||a
-Arab Spring|||an
-Mothman|||a
 Amyas|||an
 Berry|||a
-Howson|||a
-Hewitson|||a
-Coales|||a
-Coules|||a
 Gates|||a
-Hutchin|||a
-Hutcheon|||a
 Boycott|||a
-Hughson|||a
-Hukins|||a
-Hookins|||a
-Hukin|||a
-Huckin|||a
-Houchen|||a
-Huggon|||a
-Howchin|||a
-Hewkin|||a
-Howlin|||a
-Howling|||a
-Howkins|||a
-Hooson|||a
-Huelin|||a
-Hulin|||a
-Fitchew|||a
-Fitchie|||a
-Ancient Egypt|||an
 Petre|||a
-Sliabh Luachra|||a
 Zzyzx|||a
-Huggett|||a
-Hews|||a
-Hewat|||a
-Howat|||a
-Howett|||a
-Howitt|||a
-Huet|||a
-Huett|||a
-Huitt|||a
-Hewetson|||a
-Hewison|||a
-Howatson|||a
-Howieson|||a
-Huetson|||a
-Huitson|||a
-Huws|||a
-Huddle|||a
-Howey|||a
-Hulance|||a
 Hero|||a
 Astraea|||an
 Parthenope|||a
@@ -9603,351 +6113,79 @@ Leukothea|||a
 Fides|||a
 Porscha|||a
 Daly|||a
-Hanlon's razor|||a
-Irvingism|||an
-Lexa|||a
-Andrina|||an
-Girawa|||a
-Willott|||a
-Willetts|||a
-Wilmott|||a
-Willmot|||a
-Willmott|||a
-Willmett|||a
-Willimott|||a
-Williment|||a
-Willment|||a
-Gilham|||a
-Gillham|||a
 Gillett|||a
-Gillatt|||a
-Gilliatt|||a
-Gillott|||a
-Wilcock|||a
 Wilkie|||a
-Willes|||a
-Willets|||a
 Arminius|||an
 Clancy|||a
-Bastia|||a
-BES Islands|||a
-Harlee|||a
 Merkozy|||a
-Suky|||a
 Borôro|||a
-Hancocks|||a
-Hancox|||a
-Hankin|||a
-Jaggs|||a
-Jeanes|||a
-Jeynes|||a
-Joinson|||a
-Joynson|||a
-Jennison|||a
-Jennens|||a
-Jennett|||a
-Jenns|||a
-Johncock|||a
-Ianson|||an
 Angor|||an
 Masr|||a
-Angaataha|||an
-Abar|||an
 Morori|||a
 Ghaznavid|||a
-Dabb|||a
-Dobb|||a
-Dobby|||a
-Dobie|||a
-Hobb|||a
-Nobb|||a
-Dobbie|||a
-Hobbis|||a
 Hobbs|||a
-Nobbs|||a
-Nobes|||a
-Robbs|||a
-Dabson|||a
-Dopson|||a
-Rabson|||a
-Rapson|||a
 Robeson|||a
-Robbens|||a
-Robarts|||a
-Dabinett|||a
-Dobbin|||a
-Dobbing|||a
-Dobbinson|||a
-Dobinson|||a
-Dobkin|||a
-Hopkin|||a
-Hopkinson|||a
-Hoblyn|||a
-Hobbins|||a
-Roblett|||a
-Roblin|||a
 Alberton|||an
 Anahita|||an
 Swarga|||a
 Green Monday|||a
 Arachosia|||an
-Zou|||a
 Drangiana|||a
 Sattagydia|||a
 Chorasmia|||a
 Khazaria|||a
-Dickason|||a
-Dickeson|||a
-Dickel|||a
-Dickin|||a
-Diggin|||a
-Diggle|||a
-Dickings|||a
-Dickins|||a
-Diggens|||a
-Diggles|||a
-Digges|||a
-Dickison|||a
-Dixey|||a
-Hickes|||a
-Hicken|||a
-Hickin|||a
-Hicking|||a
-Hicklin|||a
-Hickling|||a
-Higgitt|||a
-Higgon|||a
-Hitchcox|||a
-Hitchen|||a
-Hiskett|||a
-Hitchin|||a
-Hitching|||a
-Hitchon|||a
-Hichens|||a
-Hitchens|||a
-Hitchings|||a
-Hitchins|||a
-Hitches|||a
-Hitchinson|||a
-Higson|||a
-Icke|||an
-Reacher|||a
-Riches|||a
-Rickson|||a
-Rixon|||a
-Ritson|||a
 Abernethy|||an
-Plato's Cave|||a
 Elohist|||an
 Townsend|||a
 Montagnais|||a
-Jonquière|||a
-Fayyumic|||a
-Bororo|||a
 Ama|||an
-Heartbreak Kid|||a
 Kollywood|||a
 Crouchy|||a
-Keano|||a
-Daykin|||a
-Dawkin|||a
-Dawkes|||a
-Daukes|||a
-McDavid|||a
 McHenry|||a
-Davys|||a
-Dawe|||a
-Daws|||a
-Dayes|||a
-Deyes|||a
-Dayson|||a
-Dowson|||a
-Harriot|||a
-Herriot|||a
-Hendrey|||a
-Hendrie|||a
-Hawkin|||a
-Doidge|||a
-Dodgeon|||a
-Dodgin|||a
-Hodgen|||a
-Hodgeon|||a
-Hodgett|||a
-Hodgin|||a
-Dodgshon|||a
-Hodgetts|||a
-Hodgkiss|||a
-Hodgskin|||a
-Hodkin|||a
-Hotchin|||a
-Hotchkin|||a
-Hadgkiss|||a
-Hodgkison|||a
-Hodgkisson|||a
-Hodkinson|||a
-Rodgerson|||a
-Addey|||an
-Adey|||an
-Adnett|||an
-Adnitt|||an
-Adkin|||an
-Aicken|||an
 Aiken|||an
-Aikin|||an
-Aikins|||an
-Aitkens|||an
-Aitkins|||an
-Hadcock|||a
-Aitchison|||an
-Atcheson|||an
-Haddy|||a
-Keddie|||a
-Keddy|||a
-Lady Liberty|||a
-Pascuan|||a
-Jamaican Creole|||a
-Townson|||a
-Tamblin|||a
-Tambling|||a
-Tamblyn|||a
-Tamlin|||a
-Tamlyn|||a
-Tamplin|||a
-Thompsett|||a
-Thomsett|||a
-Tomalin|||a
-Tombling|||a
-Tompsett|||a
-Tomsett|||a
-Thomerson|||a
-Thomlinson|||a
-Tomkinson|||a
-Tompkinson|||a
-Tomson|||a
-Tomkies|||a
-Mazdaism|||a
-Tomkys|||a
-Tomlins|||a
 Cao Dai|||a
-Caodaism|||a
-Manny|||a
-Samothrace|||a
-Patmos|||a
-Paphos|||a
-Nicopolis|||a
 Euthemia|||an
 Neonomianism|||a
 Mideast|||a
-Halson|||a
-Hawe|||a
-Hawson|||a
-Macadam|||a
-MacAdam|||a
-McGaw|||a
-McCaw|||a
-Megaw|||a
-Addyman|||an
-Tombs|||a
-Toombes|||a
-Tommis|||a
-Thom|||a
 Frobisher Bay|||a
-McCavish|||a
-MacTavish|||a
 McComb|||a
 Quebec City|||a
-McCombe|||a
-McCombie|||a
-McComie|||a
-McOmie|||a
 RomneyCare|||a
-Higgens|||a
-McRitchie|||a
-Rickers|||a
 Nuxálk|||a
 Bella Coola|||a
 Mkhedruli|||a
 Karagiozis|||a
-Vitoria|||a
-Teruel|||a
-Girona|||a
-State of Israel|||a
-Logroño|||a
-La Rioja|||a
-Loja|||a
 Chipewyan|||a
-FeedBurner|||a
 Baklahorani|||a
-Wallis Island|||a
-Sofana|||a
 Unas|||an
 Penobscot|||a
-Western Abenaki|||a
-WIPO|||a
-OHIM|||an
 Albyn|||an
-Caz|||a
-Sorbonne|||a
-Sorrento|||a
 Bihu|||a
 Orcus|||an
 Camagüey|||a
 Mayagüez|||a
-Fingalian|||a
-Britrock|||a
 Markland|||a
 Helluland|||a
 Hulkamania|||a
-Alioth|||an
-xDSL|||a
 Polis|||a
 Lower Silesian|||a
 Kew|||a
 Civil War|||a
-Silesian German|||a
 TASS|||a
-Dumbfuckistan|||a
-Po valley|||a
-Khevsureti|||a
 Guria|||a
-Usakhelauri|||an
 parseltongue|||a
 South Tibet|||a
 South Manchuria|||a
-Agrippina|||an
 Varuzhan|||a
 Suku|||a
-Tsukuyomi|||a
-Eurocrem|||an
-Appomattox|||an
-Pashons|||a
-Southwest Asia|||a
-Alviri-Vidari|||an
-Puy-de-Dôme|||a
-Lot-et-Garonne|||a
-Haute-Loire|||a
-Eure-et-Loir|||an
-Chartres|||a
-Haute-Vienne|||a
 Pasadena|||a
-West Hollywood|||a
-Valmiera|||a
 Copperopolis|||a
-Puseyism|||a
 Paracel Islands|||a
 Zhou|||a
-Beej|||a
-Billy Jean|||a
-Billy Bob|||a
-Hanja|||a
 Iztaccíhuatl|||an
 Passage Islands|||a
-Zev|||a
-G++|||a
-Kussmaul|||a
 Chaplin|||a
 MI9|||a
-Timor Sea|||a
 Ségou|||a
 Mandela|||a
 NoSQL|||a
@@ -9957,176 +6195,79 @@ Lotusland|||a
 North Caucasus|||a
 Nantucket|||a
 Senones|||a
-Tiburon|||a
 Cormick|||a
 Yidiny|||a
 Macushi|||a
-Lushootseed|||a
 Manam|||a
 Buli|||a
 Coatzacoalcos|||a
-Yael|||a
 A-Pucikwar|||an
 Abun|||an
 Ahwai|||an
-Aka-Bo|||an
-Ake|||an
-Akpes|||an
-Amarakaeri|||an
-Amdang|||an
 Angami|||an
 Pucikwar|||a
-Alaba-K'abeena|||an
-Abelam|||an
 East Frisian|||an
-Falange|||a
-Phalange|||a
 Woi|||a
 Krio|||a
 Chromium|||a
-Azawad|||an
 Hathor|||a
 Bastet|||a
 Sekhmet|||a
-Mizo|||a
 Olorun|||an
 Ogun|||an
-Joanie|||a
 OK Corral|||an
 Susanoo|||a
-Bursa|||a
-Mbuji-Mayi|||a
-Mosul|||a
 Taizhou|||a
-Khulna|||a
-Kozhikode|||a
-Mandalay|||a
-Gadang|||a
-Senegambia|||a
 Lepcha|||a
-Babungo|||a
-Babuza|||a
-Bafanji|||a
-Bafut|||a
 Bagirmi|||a
-Ogoniland|||an
 ǃOǃKung|||a
-SYLK|||a
 Vengo|||a
-Ligue 1|||a
-John o' Groats|||a
-Mull of Kintyre|||a
-Zep|||a
-Portishead|||a
-Motty|||a
 Deeside|||a
-Glendale|||a
 Radney|||a
 Weaver|||a
 ǁXegwi|||a
 Gcwi|||a
 Post-Zionism|||a
 Canaanism|||a
-Trisagion|||a
-Sanctus|||a
 Bourbon|||a
 Paducah|||a
-Cyndi|||a
 Georgios|||a
-Fulda|||a
-Philippi|||a
 Angelos|||an
 Agdistis|||an
-Neogothic|||a
-Yaya|||a
-Mongo|||a
-Lutetia|||a
 Isan|||an
-Ust-Luga|||an
-Bats|||a
 Khiva|||a
-Islamiyat|||an
-Herat|||a
-Wrangel Island|||a
 Príncipe|||a
 Kwajalein|||a
 Kwaj|||a
-Cecina|||a
-Sassarese|||a
-Yarkand|||a
-Abergavenny|||an
-Otomanguean|||an
-Hocktide|||a
 Kaingang|||a
 Eastie|||an
 eastie|||an
-Dadibi|||a
-Mkhobosa|||a
 Narmada|||a
 Godavari|||a
 Adad|||an
-Banglish|||a
-Spitzbergen|||a
-Tungabhadra|||a
-Nagavali|||a
 Mahanadi|||a
-Mossad|||a
-La Verne|||a
 La Vergne|||a
-Lavern|||a
 Cinque Ports|||a
-Rudyard|||a
 Kipling|||a
-Åland Islands|||a
-La Toya|||a
-Alora|||an
 Rhaeto-Romance|||a
 Dongola|||a
-EPT|||an
 WPT|||a
-NAPT|||a
 Murugan|||a
-Monnow|||a
 Triple Goddess|||a
-Saddar|||a
-Epictetus|||an
-Apostles' Creed|||an
 cheapdate|||a
-Faunus|||a
-Brahmo Samaj|||a
-Xiaomin|||a
 Riksdag|||a
-Ramayana|||a
-Abuna|||an
-Abu Simbel|||an
 Academy|||an
-Central Germany|||a
-Boyne|||a
 Billy Yank|||a
 Benzaiten|||a
 Fukurokuju|||a
 Astraeus|||an
 Leatherhead|||a
 Nyankole|||a
-Nkore|||a
-Libyan Arabic|||a
-Ispir|||an
 Justin|||a
 Zarma|||a
 Ababda|||an
-Elfdalian|||an
-Augean stables|||an
 Wirral|||a
-Urum|||an
-HQL|||a
 Abenlen|||an
-Chittoor|||a
-Nellore|||a
-Kurnool|||a
-Srikakulam|||a
-Kadapa|||a
-Vali|||a
-Janaki|||a
 Menaka|||a
 Abipón|||an
 Rāma|||a
@@ -10143,11 +6284,14 @@ Vasilis|||a
 Theofanis|||a
 Sotiris|||a
 Sokratis|||a
+Giannis|||a
+Kalomoira|||a
+Vasilikas|||a
+Dimitra|||a
 Styliani|||a
 Evanthia|||an
 Eleni|||an
 Eirini|||an
-Spyridon|||a
 Savva|||a
 Vasilios|||a
 Panagiotis|||a
@@ -10155,173 +6299,92 @@ Athanasios|||an
 Ekaterini|||an
 Konstadinos|||a
 Kalliopi|||a
-Angada|||an
 Agastya|||an
-Bharata|||a
-Kaqchikel|||a
-Redonda|||a
 Viet Minh|||a
 Arundhati|||an
-Brihaspati|||a
-Daksha|||a
 Hari|||a
-Tata|||a
-Bhishma|||a
-Satyavati|||a
-Vyasa|||a
 Subhadra|||a
-Abhimanyu|||an
 Abongo|||an
 Abor|||an
-Teges|||a
-Sugriva|||a
 Ganapati|||a
-Law of Demeter|||a
 Standard Model|||a
-Abor-Miri|||an
-Jessamyn|||a
-Sãotomense|||a
-Xiongnu|||a
 Threeness|||a
 Absaroka|||an
 Diedre|||a
 Koschei|||a
 Haida Gwaii|||a
 Hecate Strait|||a
-Georgia Strait|||a
 Chrislam|||a
-Shia Islam|||a
-Kennemerland|||a
 Roubaix|||a
 Party of No|||a
 Blue Mountains|||a
 Tabarchin|||a
-Cwmbran|||a
-Jesselton|||a
-Langkawi|||a
-Arau|||an
-Pipil|||a
 Tenebrae|||a
 Lomography|||a
-Venite|||a
-Bullom So|||a
 Surtsey|||a
-Blue Banana|||a
-Xquic|||a
 Kolob|||a
-Coatlicue|||a
-left coast|||a
-Jezza|||a
-Cindi|||a
 Rukmini|||a
 Devaki|||a
 Vasudeva|||a
 Seleucus|||a
 Seleucia|||a
-Yagnobi|||a
-Turfan|||a
 Sarmatia|||a
 Roncesvalles|||a
 Bancroft|||a
-Circassia|||a
 Itala|||an
-Bharati braille|||a
-Milyan|||a
 Hayasa|||a
 Mysia|||a
 Porajmos|||a
-Juǀ'hoan|||a
 Songhai|||a
-Epsom|||an
 Hasidism|||a
 Gammon|||a
-Tofino|||a
 Anchises|||an
 52 pickup|||a
-Arinj|||an
 Ahnenerbe|||an
 Ogdoad|||an
 Mangareva|||a
 Bina|||a
-Kakheti|||a
-Safed|||a
 Tsat|||a
-Kigiryama|||a
 Üsküdar|||a
 Southern Tier|||a
 Samsung|||a
-Svaneti|||a
 Crown|||a
 Stahlism|||a
 Bosha|||a
 Domari|||a
 Skikavich|||a
 SNOBOL|||a
-Ngumbin|||a
-Boxgrove|||a
 Birtism|||a
-Paradise Island|||a
 Graham's number|||a
 Kanienkehaka|||a
-Nevin|||a
-Cumae|||a
-Andromache|||an
-Angel Falls|||an
-Antrim|||an
-Nazca Lines|||a
 Jawi|||a
-Rumi|||a
 Diaoyu Islands|||a
 Sandalwood|||a
 Kryvyi Rih|||a
-Gaye|||a
-Shagaluf|||a
-Spratly Islands|||a
-Challenger Deep|||a
-Abung|||an
-Xibalba|||a
 Beringia|||a
 Bering|||a
-Bozrah|||a
 Borscht Belt|||a
-Storting|||a
-Zululand|||a
 High Sierra|||a
 Amidah|||an
-AIVD|||an
 Semipelagianism|||a
-Fala|||a
-Termez|||a
 Nero|||a
-Lefkosia|||a
 Qin|||a
 Issyk Kul|||an
 Uvs Lake|||an
 Drona|||a
-Yamuna|||a
-Shayna|||a
 Tiddles|||a
-Tapehanek|||a
-Mani|||a
 Bennifer|||a
 TomKat|||a
 Robsten|||a
-Montecristo|||a
 Almería|||an
-Mweru|||a
 ǂHoan|||a
 Yeltsin|||a
 Anemoi|||an
 Astra Planeta|||an
 O'Casey|||an
-Abeokuta|||an
 Saïda|||a
-Byblos|||a
 Karaim|||a
 Montana Salish|||a
-Eckankar|||an
-Abingdon|||an
-Anjer|||an
 Indo-Hittite|||an
 Italo-Celtic|||an
 Thraco-Dacian|||a
@@ -10329,226 +6392,100 @@ Daco-Thracian|||a
 Graeco-Armenian|||a
 Graeco-Aryan|||a
 Indo-Greek|||an
-Cadix|||a
 Risan|||a
 Golden Gate|||a
-Horta|||a
 Dothraki|||a
-Austrasia|||an
-dot-com bubble|||a
-Wye|||a
-Viking Age|||a
-Teide|||a
-Mulhacén|||a
-Sierra Nevada|||a
 Menae|||a
 Caecias|||a
-Palencia|||a
-Kentish|||a
-Painter|||a
-Bhupathiraju|||a
-State of Kuwait|||a
-Tulare|||a
-Jinny|||a
-Yaroslav|||a
-Yaquina|||a
-Tlaloc|||a
-Abscam|||an
-Zamora|||a
-Albacete|||an
-Cáceres|||a
 Tibetan Plateau|||a
 North China Sea|||a
 Wintu|||a
 Klamath-Modoc|||a
-JAWS|||a
 Oto-Manguean|||an
-Mazar-i-Sharif|||a
-Narbonne|||a
-Slieve Donard|||a
-Brașov|||a
 Orwell|||an
 Plautdietsch|||a
 Phlegethon|||a
-Puss in Boots|||a
-DOMA|||a
 Midewiwin|||a
 Balaam|||a
 Dobruja|||a
 Mureș|||a
 Sauk|||a
 Gangnam|||a
-Shushi|||a
-Pine Tree State|||a
-Old Line State|||an
-Exe|||an
 Cerealia|||a
-FA Cup|||a
 Zamalek|||a
 Samland|||a
 Cavuto|||a
-Prince of Wales|||a
 Burns|||a
 Bishop|||a
-Shepherd|||a
-Snyder|||a
 Shelton|||a
-Sloan|||a
 Stark|||a
 Tate|||a
-Truman|||a
 Gore|||a
 Boone|||a
-Cranston|||a
 Jessamy|||a
-Grey Lady|||a
-Hearst|||a
 Holiday|||a
 Hurley|||a
-Good|||a
 Golden|||a
 Inman|||an
-Irvin|||an
-Lockwood|||a
-Raju|||a
 Undecimber|||an
-Sandhya|||a
-Shankar|||a
-Lienux|||a
-Chaitra|||a
-Vaisakha|||a
-Jyeshta|||a
-Aashaadha|||an
-Shraavana|||a
-Bhadrapada|||a
-Aswayuja|||an
-Kartika|||a
-Margashirsha|||a
-Pausha|||a
-Magha|||a
-Phalguna|||a
 Quraniyoon|||a
-Prathama|||a
-Dwitiya|||a
-Tritiya|||a
 Chaturthi|||a
-Panchami|||a
-Shashti|||a
-Saptami|||a
-Ashtami|||an
-Navami|||a
-Dashami|||a
-Vijayadashami|||a
-Geoweb|||a
 Ekadashi|||an
 Dwadashi|||a
 Thrayodashi|||a
-Jagannath|||a
 Chaturdashi|||a
 Purnima|||a
-Amavasya|||an
-Acharya|||an
 Mamaroneck|||a
-Halmahera|||a
-Hargeisa|||a
-Lubumbashi|||a
-Huambo|||a
-Port Harcourt|||a
-Auhelawa|||an
-Chandrika|||a
-Mithila|||a
 Kanakangi|||a
 Ratnangi|||a
-Rongelap|||a
 Roi|||a
 Roi-Namur|||a
 Ganamurti|||a
-Pikermi|||a
 Vanaspati|||a
-Maddox|||a
-Mitch|||a
 Shiloh|||a
-Bhabhi|||a
 Manavati|||a
 Tanarupi|||a
 Senavati|||a
 Hanumatodi|||a
-Artina|||an
 Hubbard|||a
 Orr|||an
 Hooker|||a
 Dhenuka|||a
-Ozzie|||an
 Clair|||a
 Natakapriya|||a
 Billings|||a
-Brazos|||a
 Kokilapriya|||a
 Rupavati|||a
 Salamis|||a
 Winters|||a
-Neiden|||a
 Gayakapriya|||a
 Vakulabharanam|||a
-Chang|||a
-Ratna|||a
-Sindhu|||a
 Salzkammergut|||a
-Venkata|||a
-Venkateswara|||a
 Vijaya|||a
-Chasu|||a
-Jayasri|||a
-Jayantha|||a
 Jersey Dutch|||a
-Janani|||a
 Einang stone|||an
-Nagaraju|||a
 Narasimha|||a
 Karna|||a
-Narada|||a
-Bahá'í Faith|||a
-Cape|||a
-Kurzweil|||a
 Lapita|||a
-Upper Egypt|||an
-Lower Egypt|||a
 Srikalahasti|||a
-Kailasa|||a
-Artemisium|||an
 Abydos|||an
-Abyssian|||an
 Kroni|||a
-AAFES|||an
-ACCPDS|||an
 Fayum|||a
-Putrakameshti|||a
-Sarala|||a
-Sukhona|||a
-Mayamalavagowla|||a
 Malwa|||a
 Chakravakam|||a
 Suryakantam|||a
-Sodor|||a
 Hatakambari|||a
 Hiranyagarbha|||a
-Macca's|||a
 Balaton|||a
-Ginnie Mae|||a
 Tisza|||a
-Aditi|||an
 Amaravati|||an
 Nicephorus|||a
 Rati|||a
-Preeti|||a
-Sruti|||a
-Jyotsna|||a
 Duane syndrome|||a
 Achelous|||an
 Aether|||an
 goatse|||a
 Cosmas|||a
-Emon|||an
 Chuukese|||a
 Spartacus|||a
 Fakkanci|||a
@@ -10558,245 +6495,85 @@ Natabhairavi|||a
 Lake|||a
 Keeravani|||a
 Min|||a
-Taliabu|||a
 Min Dong|||a
 Kharaharapriya|||a
 Gourimanohari|||a
-Manohar|||a
-Bidzina|||a
-Vani|||a
-Palakonda|||a
 Varunapriya|||a
-Varun|||a
 Mararanjani|||a
 Charukesi|||a
 Sarasangi|||a
 Srihari|||a
 Sriharikota|||a
 Harikambhoji|||a
-Ramachandra|||a
-Rotwelsch|||a
 Naganandini|||a
 Sardanapalus|||a
 Blin|||a
 Hemera|||a
 Monchique|||a
-Davos|||a
-Ross Sea|||a
 Macdonald triad|||a
 Acacian|||an
 Valley|||a
-Ponta Delgada|||a
 Linux|||a
-Prabhu|||a
 Pax|||a
 Stenian|||a
 Angoumois|||an
-Mehitabel|||a
-USAID|||an
-Heidelberg|||a
-Cumrun|||a
-Schaerbeek|||a
 Macaria|||a
 Melinoe|||a
-Lucan|||a
-PCX|||a
 Pahlavi|||a
 Mania|||a
 Plummer|||a
-Ploutos|||a
-Enders|||an
-Deano|||a
 Pomona|||a
-Giza|||a
-Abgar|||an
-Rayleigh|||a
 Ekpe|||an
-Castner|||a
 Rabaul|||a
-Hallstatt|||a
-Humphry|||a
 Vigo|||a
 Hokan|||a
-Tucanoan|||a
 Munda|||a
-Gaziantep|||a
-Konya|||a
-Diyarbakır|||a
 jQuery|||a
-Chandragiri|||a
-Sitanagaram|||a
-Gurramkonda|||a
-Ramasamudram|||a
 Anantagiri|||an
-Ananta|||an
-Kashan|||a
 Quaoar|||a
 Donaustadt|||a
-Laquisha|||a
 Draper|||a
-Romagnol|||a
-Lucania|||a
-Syr Darya|||a
 Joelyn|||a
-Lakeshia|||a
-Lakesha|||a
-Lakisha|||a
-La Coruña|||a
 Plate|||a
-Morgannwg|||a
 Leibniz|||a
-Ourense|||an
 bitcoin|||a
-Düna|||a
 Rapa|||a
 Pukapukan|||a
-Vaeakau-Taumako|||a
 Mehetabel|||a
-IFAD|||an
-Oxnard|||an
 Juvember|||a
 Pechora|||a
 Encaenia|||an
 Pauling|||a
 Kamo River|||a
-Vanikoro|||a
-Kalao|||a
 Pictland|||a
-Hwange|||a
 Duluth|||a
-AACB|||an
-AACBC|||an
-AACBP|||an
-AACCLA|||an
-AACCP|||an
-AACDP|||an
-AACE|||an
-AACFO|||an
-Low Sunday|||a
-White Sunday|||a
-Buckie|||a
-Pears|||a
 Pierson|||a
-Perkin|||a
-Purkins|||a
-Perot|||a
-Perrett|||a
-Parren|||a
-Perrins|||a
-Peat|||a
-Peate|||a
-Peddie|||a
-Pether|||a
-Pither|||a
-Pithers|||a
-Pethers|||a
-Pells|||a
-Parrell|||a
 Petrock|||a
-Pedrick|||a
-Petherick|||a
-Pethick|||a
 Arik|||an
-U-RP|||an
-Yinglish|||a
-Italese|||an
-Tinglish|||a
-Namlish|||a
 Niflheim|||a
-Filkin|||a
-Phillott|||a
-Phillpot|||a
-Phillpott|||a
-Phillpots|||a
-Phillpotts|||a
-Philpots|||a
-Philpotts|||a
-Philps|||a
-Philson|||a
-Filson|||a
-Phipson|||a
-Phips|||a
-Phipp|||a
-Phippen|||a
-Philbin|||a
-Philpin|||a
-Philcox|||a
-Phippard|||a
-Lugg|||a
-Lucks|||a
-Lukeman|||a
-Luckman|||a
-Locket|||a
-Lockitt|||a
 Amun|||an
 Pennsyltucky|||a
-Delmarva|||a
 Russlish|||a
-Upper Silesia|||an
-Carlee|||a
-Carli|||a
-Karly|||a
-Karlie|||a
-Karli|||a
-Karley|||a
-Karlee|||a
-Carleigh|||a
-Karleigh|||a
-Hollee|||a
-Holli|||a
-Hollye|||a
-Sukey|||a
-Sukie|||a
 Omak|||an
 Cocytus|||a
-Antenor|||an
 Fafnir|||a
 Gullinbursti|||a
 Muninn|||a
 Jael|||a
-Rishabha|||a
-Deianira|||a
 Auburn|||an
-Beckles|||a
-Collingwood|||a
 Eaton|||an
-Gainsborough|||a
 Greenwood|||a
 Hatfield|||a
-Hedley|||a
 Hershey|||a
 Lindon|||a
-Lynwood|||a
 Mercer|||a
 Redding|||a
 Spooner|||a
-Starkey|||a
 Staunton|||a
 Waddington|||a
 Piaget|||a
-Kerman|||a
 Semele|||a
 Holden|||a
-Marlon|||a
-McPhail|||a
-Mackfall|||a
-MacPhail|||a
-McFall|||a
-McFaul|||a
-Fyall|||a
-Pawling|||a
-Quayle|||a
-Quail|||a
-Quaile|||a
-Paulley|||a
-Pawlett|||a
-Powley|||a
-Pawson|||a
-Poulsom|||a
-Polson|||a
-Powles|||a
-Pollins|||a
 Poll|||a
 Dimity|||a
 Sol I|||a
@@ -10805,23 +6582,15 @@ Sol IV|||a
 Sol V|||a
 Engadin|||an
 Kimye|||a
-Perusia|||a
 Jerusha|||a
-Zebak|||a
 Tsarnaev|||a
-Orson|||an
 Lyle|||a
 Irrawaddy|||an
 Joss|||a
 Jinnah|||a
-Nine Bows|||a
 Molucca|||a
-Saoirse|||a
 Nedward|||a
 Tenrikyo|||a
-Ofudesaki|||an
-Buddy|||a
-Amano|||an
 Amatsumara|||an
 Kajishin|||a
 Amanomahitotsu|||an
@@ -10829,11 +6598,7 @@ Enma|||an
 Ame-no-Uzume|||an
 Jurōjin|||a
 Hotei|||a
-Bishamonten|||a
 Ebisu|||an
-Arans|||an
-Middle Egyptian|||a
-Veii|||a
 Veientes|||a
 Veintines|||a
 Hygieia|||a
@@ -10841,163 +6606,79 @@ Kagutsuchi|||a
 Queens County|||a
 Yakushi Nyorai|||a
 Nibelung|||a
-Spreewald|||a
-Amsterdam Time|||an
-Dutch Time|||a
 touch-move rule|||a
 Rif|||a
 Hadith|||a
-Christlam|||a
 Zichyújfalu|||a
 ABAKO|||an
 Mastichochoria|||a
-Annaba|||an
 Merida|||a
 Mascara|||a
 Aeolis Mons|||an
 Aeolis Palus|||an
-Hachiman|||a
 Songkran|||a
 Peace Vallis|||a
 Muldergate|||a
-DHSS|||a
-Hindenburg|||a
 Ryūjin|||a
-Crimean Gothic|||a
-South Picene|||a
-Occopirmus|||an
-Radaune|||a
-Radunia|||a
-Wituland|||a
-State of Qatar|||a
 Lumbee|||a
 Rubygate|||a
-West Bromwich|||a
-West Brom|||a
 White Nile|||a
 Blue Nile|||a
-Cuenca|||a
-Madiba|||a
 Nala|||a
 Carline|||a
-Derbent|||a
 Jonestown|||a
 Chudskoye|||a
 Antes|||an
 Kannon|||a
 Amida Nyorai|||an
-Khövsgöl Nuur|||a
 Canadia|||a
-Verne|||a
-Flaubert|||a
-Great Successor|||a
 Charminar|||a
-Yeardley|||a
-Guale|||a
-Sadakhlo|||a
 Kadesh|||a
-Slavia Romana|||a
-Slavia Latina|||a
 Palenque|||a
-Mombasa|||a
-Mopan|||a
-Mopan Maya|||a
-Shimada|||a
-Cherie|||a
-Le Roy|||a
-LeRoi|||a
-Le Roi|||a
 Leeroy|||a
-LeeRoy|||a
-Lee Roy|||a
 Bukhari|||a
 Holohoax|||a
 Hesychius|||a
 Shahryar|||a
-Minnehaha|||a
 Moody County|||a
 Ramesses|||a
 Chione|||a
-Achuar|||an
 Ossining|||an
-Montauk|||a
 Chappaqua|||a
 Taconic|||a
 Rockaway|||a
 Zargari|||a
-Yiddishland|||a
 War|||a
 Conquest|||a
 Famine|||a
-Gonski|||a
-Khaghkhagh|||a
-Metsamor|||a
 Douro|||a
-Rollie|||a
 Stribog|||a
 Soweto|||a
-Whitetrashistan|||a
-Dunwoody|||a
-Latakia|||a
 Jinsha|||a
-Kinsha Kiang|||a
-Chin-sha Chiang|||a
 Sea Peoples|||a
 Anglish|||an
-Kealy|||a
 Walcott|||a
 Azad Kashmir|||an
 Kashmir Valley|||a
-Baltistan|||a
 Azhdahak|||an
-Walsall|||a
 Doctor Google|||a
-Asaph|||an
-Insubria|||an
-Podhale|||a
-Gwadar|||a
 Wagah|||a
-Resian|||a
-Resia|||a
-Rhodopes|||a
 Jughashvili|||a
-Old Indic|||an
 Line of Control|||a
 Aksai Chin|||an
 Umbri|||an
 Basler|||a
 Twitter|||a
-Arunachala|||an
 East Punjab|||an
 West Punjab|||a
-Rina|||a
-Funningur|||a
 Tacey|||a
 Hualien|||a
 Nantou|||a
 Pingtung|||a
-Taitung|||a
-Imbolc|||an
-Midsummer|||a
-Summer Solstice|||a
-Litha|||a
-Bashar|||a
-Antibes|||an
-Cervantes|||a
-Cabot|||a
 Bwiti|||a
-Escher|||an
 Salacia|||a
-Noam|||a
 Penghu|||a
-Gulf of Naples|||a
-Maaloula|||a
 Mallwart|||a
-Pennine Alps|||a
-wall game|||a
-field game|||a
-Gori|||a
-Dicty|||a
 Jephthah|||a
 Chthonia|||a
 Siachen Glacier|||a
@@ -11005,73 +6686,46 @@ Wooster|||a
 Coeur d'Alene|||a
 Claddagh|||a
 Tati|||a
-Pammie|||a
 Tatum|||a
-Sharjah|||a
 Bechdel test|||a
 Amalthea|||an
 Birds' Wedding|||a
-Paamese|||a
 Defoe|||a
-Cañar|||a
-Azuay|||an
-Otavalo|||an
-Cuzco|||a
-Pechora Sea|||a
 Musubi|||a
 Epione|||an
 Musubi-no-Kami|||a
 Tenjin|||a
 Raijin|||a
 Fūjin|||a
-Kajin|||a
-Suijin|||a
-Dojin|||a
-Nova Gorica|||a
 Lettrism|||a
 Eurospeak|||an
 Mush|||a
-Prešov|||a
-Váh|||a
 Wake|||a
-Hyrum|||a
 OWS|||an
 Hindutva|||a
 Ōyamatsumi|||a
 Dažbog|||a
-Chandpur|||a
 Sokoto|||a
-Bauchi|||a
-Kumiko|||a
 ZOG|||a
 Jewsrael|||a
 Shinigami|||a
 Kitinen|||a
 Hela|||a
 Hel|||a
-WASAPI|||a
-Tenedos|||a
-Kabarda|||a
 River|||a
 Horae|||a
 Charites|||a
 Furies|||a
 Moros|||a
 Eileithyia|||an
-Amirani|||an
 Gay-Lussac|||a
 Lucina|||a
-Kariba|||a
-Pandia|||a
 Hedone|||a
 Voluptas|||a
 Invidia|||an
-Kratos|||a
 Zelus|||a
 Uelen|||an
-Polus|||a
 Caelus|||a
-Zinder|||a
 Erinyes|||an
 Dirae|||a
 Oneiroi|||an
@@ -11088,62 +6742,37 @@ Paidia|||a
 Pandaisia|||a
 Pannychis|||a
 Phaenna|||a
-Leipon|||a
-Gharibashvili|||a
-Bakradze|||a
-Panjikidze|||a
-Saakashvili|||a
 Phobetor|||a
 Ikelos|||an
 Phantasos|||a
 Peitho|||a
-Natori|||a
 Eastern Canada|||an
 Prairies|||a
-Bemidji|||a
-Ramallah|||a
-Kassidy|||a
-Orphne|||an
 Minthe|||a
 Tangut|||a
-Laramidia|||a
-Mawlid|||a
-Kaladze|||a
 Tisiphone|||a
-Alecto|||an
 Aonia|||an
 Moutai|||a
-Middle Japanese|||a
-Gortyn|||a
-Ezhou|||an
-Wuchang|||a
-Negev|||a
 Yunling|||a
 Lake Dian|||a
 Kunming Lake|||a
 Aurora County|||an
 Alpheus|||an
-Woleaian|||a
 Zhongdu|||a
 Beijingese|||a
 Xicheng|||a
 Mkhitar|||a
 Penglai|||a
-Mount Penglai|||a
-West Lake|||a
-Lake Tai|||a
 Santa Muerte|||a
 Coq|||a
 Three Rivers|||a
 Chang'an|||a
 Taiye Lake|||a
-South Vietnam|||a
 Girl|||a
 Emptiness|||an
 Roof|||a
 Encampment|||an
 Black Turtle|||a
-Rhondda|||a
 Trasyanka|||a
 Surzhyk|||a
 Ashkharhabar|||an
@@ -11151,176 +6780,86 @@ Bushbama|||a
 Miniconjou|||a
 Ananke|||an
 Hvar|||a
-Berbera|||a
-Righale|||a
 Hodge theory|||a
-Savita|||a
-Draa|||a
-Iguazu|||an
 Neisse|||a
-Dudinka|||a
-Ubangi|||an
 Waikato|||a
-Qelt|||a
-Uatumã|||an
-Forquilha|||a
-Zeya|||a
 Bogan|||a
 Eucumbene|||an
-Jenolan|||a
 Frome|||a
 Torrens|||a
 Warragamba|||a
 Yass|||a
 Alexiares|||an
 Anicetus|||an
-Aceso|||an
 Iaso|||an
 Meditrina|||a
 Machaon|||a
 Aratus|||an
 Podaleirios|||a
 Telesphoros|||a
-Jamila|||a
 Rockhampton|||a
-Benin City|||a
-Galich|||a
 Eirene|||an
 Thallo|||a
 Carpo|||a
 Core|||a
-Corrinne|||a
 Justitia|||a
-Borjomi|||a
-Akhalkalaki|||an
-Telavi|||a
-Surami|||a
-Mtskheta|||a
 Poti|||a
 Rupnagar|||a
-Aventine Hill|||an
-Adrianople|||an
 Edirne|||an
-Anti-Taurus|||an
 Yeraskh|||a
 Akhaltsikhe|||an
 Bab el Mandeb|||a
 Mahmud|||a
 Pantanal|||a
-Heligoland|||a
 Kizzy|||a
-Vetka|||a
 Granicus|||a
 Longshan|||a
 Yanzi|||a
 Mount of Olives|||a
-Golden Horn|||a
-Imereti|||an
-Kvemo Kartli|||a
-Shida Kartli|||a
-Rustavi|||a
-Zugdidi|||a
-Ozurgeti|||an
-Marneuli|||a
-Kobuleti|||a
-Malatya|||a
-Kayseri|||a
 Guigang|||a
-Gui County|||a
-Gui Hsien|||a
-Guixian|||a
 Qinzhou|||a
 Tsinchow|||a
-Kapan|||a
-Kermanshah|||a
-Kyzylorda|||a
 Kyzyl Kum|||a
-Loir|||a
 Spice Islands|||a
-Namaqua|||a
-Bryony|||a
 Onega|||an
 Azania|||an
 Pindus|||a
 Trabzon|||a
-Trapezus|||a
 Şanlıurfa|||a
-Pharos|||a
 Feodosiya|||a
 Theodosia|||a
 Hamadan|||a
-Aurangabad|||an
 Cheops|||a
-Sidnee|||a
-Paulena|||a
 Tai Long|||a
-Alytus|||an
 Corpus Christi|||a
 Elu|||an
-Queluz|||a
-Xanthi|||a
-Yugosphere|||a
 Yi Jing|||a
-Pontefract|||a
-Usupashvili|||a
-Clean Monday|||a
-Queensferry|||a
 Changhua|||a
 Ying Zheng|||a
-Fuji|||a
-Ngaatjatjarra|||a
-Khodorkovsky|||a
-Türkmenabat|||a
-Shamakhi|||a
 Schmidt Island|||a
-Mantjiltjara|||a
 Augeas|||an
-Bebel|||a
-Ancus|||an
-Marcius|||a
 Antigone|||an
 Appius|||an
 Arius|||an
 Farewell Rock|||a
-Numunuu|||a
-Arcadius|||an
 Ascanius|||an
-Atilius|||an
-Iyaric|||an
 Green Hmong|||a
-Old Delhi|||an
-Hmong Daw|||a
 White Hmong|||a
 Ferozepur|||a
 Amritsar|||an
 Faridkot|||a
-Bathinda|||a
 Jalandhar|||a
 Mansa|||a
 Fatehgarh Sahib|||a
-Ludhiana|||a
-Wakhan Corridor|||a
-Gulf of Kutch|||a
 Jafar|||a
 Queenstown|||a
-Kensiu|||a
-Afanasy|||an
 Athanasius|||an
-Aetius|||an
-Dagbani|||a
 J. Random|||a
-Bibulus|||a
 Rahim Yar Khan|||a
 Rajanpur|||a
 Layyah|||a
 Muzaffargarh|||a
-Valens|||a
-Varus|||a
-Gihon|||a
-Vasily|||a
 Belisarius|||a
-Veniamin|||a
-Gavriil|||a
 Hamilcar|||a
 Hasdrubal|||a
 Hegel|||a
@@ -11328,437 +6867,181 @@ Hecuba|||a
 Helenus|||a
 Haemus|||a
 Heraclius|||a
-Herbart|||a
 Menelaus|||a
 Herostratus|||a
 Hesperides|||a
-Ozona|||an
 Galena|||a
-Plano|||a
 Gordias|||a
-Gracchus|||a
-Grigory|||a
 Hus|||a
-Daniil|||a
-Desiderius|||a
-Duilius|||a
 Eusebius|||an
 Eugenius|||an
-Yevgeny|||a
-Stroma|||a
-Yazdegerd|||a
-Yelizaveta|||a
-Yelisei|||a
 Epiphanes|||an
-Yeremei|||a
-Yefrem|||a
-Zakhar|||a
-Zakhary|||a
-Zeuxis|||a
 Zerubbabel|||a
-Ignaty|||an
-Ilya|||an
 Ely|||an
 Bode|||a
-Koichi|||a
-Arielle|||an
 Keres|||a
-Buccos|||a
 Dauria|||a
-Afrasiab|||an
-Chaya|||a
-Ritsa|||a
-Kodori Gorge|||a
-Kodori|||a
-Bazardüzü|||a
-İsmayıllı|||a
-Thembuland|||a
-Palouse|||a
 Iolanthe|||an
 Min Bei|||a
-Cayce|||a
 Musubi no Kami|||a
-Sete Cidades|||a
 Prokletije|||a
-Sylfaen|||a
-Ytterby|||a
 Water Banquet|||a
 Anbar|||an
-Penglish|||a
 Arabish|||an
-Populuxe|||a
 Chavril|||a
 Gusu|||a
 Liao|||a
-Rovaniemi|||a
 ISIS|||an
 Camillagate|||a
 Karpos|||a
 Favonius|||a
-Shelbi|||a
 Gaddafi|||a
 Muammar|||a
 Maninka|||a
-Shilha|||a
 Neo-Aramaic|||a
 Alala|||an
 Glaucus|||a
 Gaddafism|||a
-Farewell Sermon|||a
 Medford|||a
-Old Iranian|||an
 Middle Iranian|||a
 Dawna|||a
 Mazdakism|||a
-Gulf of Aden|||a
-Porkopolis|||a
-Dogpatch|||a
 Barnard's Star|||a
-Shaolin|||a
 Spokane|||a
 K Street|||a
-Sawndip|||a
-Oghenewome|||an
-Ani|||an
 Vígríðr|||a
 Zahiri|||a
-Durrell|||a
 Waco|||a
-Tsolak|||a
-Air Cav|||an
-Legal|||a
 Alamut|||an
 Pazend|||a
 Malabar Coast|||a
-Gazakh|||a
-Dodonovo|||a
-Ubykhia|||an
-Vujicsics|||a
-Vujičić|||a
-Vujicic|||a
 Zagreus|||a
 Borok|||a
-Tesla|||a
 Alborz|||an
 Rust Belt|||a
-Ninoshka|||a
-Ninotchka|||a
 Diegueño|||a
-Kavalan|||a
-Bay of Pigs|||a
 Cove|||a
 Emmet|||an
-Lamesa|||a
-Bernese Alps|||a
 Thun|||a
 Shatt al-Arab|||a
 Fallon|||a
-Abbay|||an
-Abastumani|||an
 Vangroovy|||a
-Abqaiq|||an
-Ras Tanura|||a
-Agana|||an
-Agarak|||an
-Aginskoye|||an
 Transbaikal|||a
 Jayoncé|||a
 Barrington|||a
-Meithei|||a
-Española|||an
-Noble Sanctuary|||a
-Knaanic|||a
-Monro|||a
-ROTT|||a
 Kikai|||a
 Ragaba|||a
 Gerasena|||a
-BDS|||a
-Apartheid Wall|||an
 Marston|||a
 Jansen|||a
 Lopez|||a
-Hrachya|||a
-Hrach|||a
-Welly|||a
 Cirencester|||a
-Cocama|||a
-Sexgate|||a
-Stourbridge|||a
-Orion Arm|||an
-Lake Zurich|||a
-Roya|||a
 Pope Joan|||a
-Chatham Islands|||a
-Ega|||an
-Mohan|||a
-Anjaneyulu|||an
 Balder|||a
 Astrape|||an
 Bronte|||a
 Fulgora|||a
-Dnipro|||a
-Apsáalooke|||an
-Khukhrain|||a
-Keely|||a
-Zennor|||a
-Petrarch|||a
 Shota|||a
 Sookie|||a
 Oso|||an
 Cochrane|||a
 Ingersoll|||an
-Cup Final|||a
-Yevpatoria|||a
 Midway|||a
-Podolia|||a
-Stephenville|||a
 Thunor|||a
-Negropont|||a
 Widmannstetter|||a
 Bakhchisaray|||a
 Troc|||a
 Buraq Wall|||a
-Terramare|||a
-Scutari|||a
 Cybele|||a
-Blanktown|||a
-Blankville|||a
 Gabelsberger|||a
 Gallipoli|||a
-Embla|||an
-Mukden|||a
 Johnna|||a
-Cooper Creek|||a
-Chesapeake Bay|||a
-Longs Peak|||a
 Midland|||a
-Brantford|||a
 Brant|||a
-Brantville|||a
-Goldenville|||a
-Tracyton|||a
 Soufrière|||a
-Taro|||a
 Spring|||a
 Qingming|||a
 Knidos|||a
-Oshawa|||an
-Mourning Day|||a
-Ancestors' Day|||an
 Belleville|||a
-Wawa|||a
-Moosonee|||a
-Timmins|||a
-Kapuskasing|||a
-Mattawa|||a
-Temagami|||a
-Latchford|||a
 Ryley|||a
-Banff|||a
-Olds|||an
 Hays|||a
 Komi-Zyrian|||a
 Ensign|||an
-Sana'a|||a
 Erickson|||an
 Riverton|||a
 Flin Flon|||a
 Humboldt|||a
 Duff|||a
-Leoville|||a
 Roxbury|||a
-Knutsford|||a
 Kamloops|||a
 Warrenton|||a
-Woolford|||a
-Yerington|||a
-Fernley|||a
-Winnemucca|||a
-Carlin|||a
-Miramichi|||a
-Kuroki|||a
-Yorkton|||a
-Edmundston|||an
-Flagstaff|||a
-Nogales|||a
-Eagar|||an
-Eagarville|||an
 Burnsville|||a
 Fudō Myōō|||a
 Sherbrooke|||a
-Schefferville|||a
 Magog|||a
-Potton|||a
 Stanstead|||a
-Chibougamau|||a
-Matagami|||a
-Chisasibi|||a
-Salluit|||a
-Nemaska|||a
-Waswanipi|||a
-Waskaganish|||a
 Hazen|||a
-Hazenmore|||a
 Subbuteo|||a
-Angleton|||an
-Weaverville|||a
 Neo|||a
 Red River|||a
 Yuan River|||a
 Yuanjiang|||a
-Rada|||a
 squeeze theorem|||a
-Slovyansk|||a
-Mariupol|||a
-Horlivka|||a
-Yenakiyeve|||a
-Makiyivka|||a
-Druzhkivka|||a
 Novorossiya|||a
 Praxiteles|||a
-Jew York|||a
-Tagish|||a
-Deline|||a
-Alert|||an
-Kimmirut|||a
-Rainbow Nation|||a
-Toshigami|||a
 Sanbō Kōjin|||a
 Slavi|||a
 Euromaidan|||an
 Ōkuninushi|||a
-Masset|||a
 Hazelton|||a
-Stewiacke|||a
-Kentville|||a
 Eastville|||an
 Tioga|||a
-Putinstan|||a
 Garrison|||a
 Lovington|||a
-Nackawic|||a
 Caliente|||a
-Pioche|||a
 Helheim|||a
 Kanoé|||a
-Kissimmee|||a
 Eustis|||an
 Gillette|||a
-Vaux|||a
 Wadewitz|||a
-Wissant|||a
-Balaklava|||a
-Putler|||a
 Belphegor|||a
-Te Ao Māori|||a
-Kostiantynivka|||a
-R'lyehian|||a
 Harappa|||a
 St Kilda|||a
-Jenilyn|||a
 Nerissa|||a
-Jacintha|||a
-Mr. Irrelevant|||a
 Seventy|||a
 New Edinburgh|||a
-Ludden|||a
 Rovinj|||a
 Toutatis|||a
 Guirl|||a
 Edgerton|||an
 Evansville|||an
-Shitsville|||a
-Esquiline|||an
-Artio|||an
-Cygnet|||a
-Zhongli|||a
-Hemmingford|||a
 Beloit|||a
 Vanimo|||a
-Gwoyeu Romatzyh|||a
-Tapuria|||a
-Tabaristan|||a
 Ersa|||an
-Cabra|||a
 Cancún|||a
 Abrek|||an
 Lunyu|||a
 Analects|||an
-Angolar|||an
 Adamstown|||an
-Semnan|||a
-Yazd|||a
-Fars|||a
-Sooretama|||a
 Springbrook|||a
 Hartville|||a
-Harlowton|||a
-Eatonia|||an
-Wakaw|||a
-Ponteix|||a
-Turtleford|||a
-Turtle|||a
-Telangana|||a
-Pripyat|||a
 Desdemona|||a
 Kwyjibo|||a
 New Thought|||a
-Thao|||a
-14-18|||a
-Zhivar|||a
-Trev|||a
 Bebhionn|||a
-Adrastea|||an
-Thyone|||a
-Aitne|||an
-Aoede|||an
 Surtur|||a
 Balachka|||a
 Schaghticoke|||a
 Wau|||a
-Kuajok|||a
 Ramciel|||a
 Perryville|||a
-Cecilton|||a
 Rockville|||a
 Lords Spiritual|||a
 Hongapore|||a
 Guy Fawkes Day|||a
-Ishbel|||an
-Bibbey|||a
-Bibby|||a
-Ebbetts|||an
-Hibble|||a
-Ibell|||an
-Isbill|||an
-Hibbett|||a
-Hibbit|||a
-Hibbitt|||a
-Hibbott|||a
-Hibbs|||a
-Ibbett|||an
-Ibbitt|||an
-Ibbott|||an
-Ibbs|||an
-Hibberson|||a
-Hipperson|||a
-Ibberson|||an
-Ibbeson|||an
-Ibbetson|||an
-Ibbison|||an
-Ibbitson|||an
-Ibbotson|||an
-Ibeson|||an
-Ibison|||an
-Ibitson|||an
-Ibotson|||an
-Ibson|||an
 Paraclete|||a
 Saladin|||a
-Sandaun|||a
 Conestee|||a
-Sevettijärvi|||a
 Sakurajima|||a
 Arya|||an
 Margaery|||a
@@ -11767,85 +7050,26 @@ Tansy|||a
 NZMC|||a
 Gundeshapur|||a
 Badakhshan|||a
-Tibb|||a
-Tibbatts|||a
-Tibbets|||a
-Tibbett|||a
-Tibbey|||a
-Tibbits|||a
-Tibbitts|||a
-Tibbott|||a
-Tibbotts|||a
-Tibbs|||a
-Tibbetts|||a
-Tibbins|||a
-Tippins|||a
-Tipson|||a
-Dibben|||a
-Dibbens|||a
-Dibbins|||a
-Tebb|||a
-Tebbs|||a
-Theobalds|||a
-Tidball|||a
-Tidboald|||a
-Tudball|||a
-Tebboth|||a
-Tebbut|||a
-Tebbutt|||a
-Dible|||a
-Diboll|||a
-Dipple|||a
-Dyball|||a
-Dybell|||a
-Dyble|||a
-Tebbet|||a
-Tebbett|||a
-Tebbit|||a
-Tebbitt|||a
-Tibballs|||a
-Tibble|||a
-Tibbles|||a
-Tippell|||a
-Tipple|||a
-Tipples|||a
-Hibberd|||a
-Ilbert|||an
 Danvers|||a
 Ryvita|||a
 Oshnavieh|||an
-Cracker Night|||a
-Ushuaia|||an
 Trei Asar|||a
 Aria|||an
 Multics|||a
-Judeo-Italian|||a
 Jiading|||a
-Khujand|||a
-Shevardnadze|||a
-Cieszyn|||a
-Taygeta|||a
-Prahova County|||a
 Instagram|||an
-Bod|||a
-St Catz|||a
 Pawtucket|||a
-Cetinje|||a
 Songjiang|||a
-Mount Tamalpais|||a
 Taiping|||a
 Cottonwood|||a
 Kuaiji|||a
-Euxine Sea|||an
 Shaoxing|||a
 Sers|||a
-Springton|||a
 Bear Flag|||a
 Overman|||an
 Yuecheng|||a
 Qiantang|||a
 Pescadores|||a
-Dongsha|||a
 Pratas|||a
 Green Island|||a
 Acridophagi|||an
@@ -11855,65 +7079,44 @@ Gushan|||a
 K&R|||a
 Aetna|||an
 Asclepiades|||an
-Twisp|||a
-Coplay|||a
 Greenville|||a
 Vindemiatrix|||a
 Akhuryan|||an
 Rehal|||a
 Yandang|||a
 Honeyville|||a
-Ridgely|||a
-Ridgeley|||a
 Crump|||a
 Harmony|||a
-Essexville|||an
 Prince's Flag|||a
 Aegle|||an
 Philistia|||a
 Cosa Nostra|||a
 Unix time|||an
-Wetaskiwin|||a
 Galahad|||a
 Circleville|||a
-Gehinnom|||a
-Maphilindo|||a
 Tolowa|||a
 Hupa|||a
 Hoopa Valley|||a
 Chilula|||a
 Chimariko|||a
-Avlabari|||an
-Dawro|||a
-Neusiok|||a
 Montrose|||a
 Minisink|||a
-Scooby Doo|||a
 Allegheny|||an
 Ford Nation|||a
-Rexford|||a
 Modi|||a
 Winnie the Pooh|||a
 Fuxi|||a
-Coffeeville|||a
-Cheboygan|||a
 Middle America|||a
-Douai|||a
 Stikine|||a
 Paracelsus|||a
-High Holidays|||a
 Jeju|||a
 Fenella|||a
 Gaya|||a
-Wauja|||a
-Shug Monkey|||a
-Druskininkai|||a
 Teec Nos Pos|||a
 Niggerville|||a
 Niggertown|||a
 High Dutch|||a
 Logos|||a
-Karafuto|||a
 Lake Wobegon|||a
 Ianthe|||an
 Arethusa|||an
@@ -11923,103 +7126,55 @@ Klytia|||a
 Feronia|||a
 Panopaea|||a
 Danae|||a
-Elpis|||an
 Concordia|||a
 Melete|||a
 Nysa|||a
-Yumeko|||a
-Mellona|||a
-Coharie|||a
-Secotan|||a
 Aristaeus|||an
 Tyche|||a
-Stheno|||a
-Fulbe|||a
 Pistis|||a
 Mohegan|||a
 Kitchawan|||a
 Dies|||a
 Elmira|||an
-Winchcombe|||a
 Wallace Line|||a
 Portus|||a
 Presteigne|||a
-Pemon|||a
 Islamic State|||an
-Geechee|||a
-Mwotlap|||a
 Singhbonga|||a
 Jinhua|||a
 Holodomor|||a
-Golodomor|||a
-Kinbasket|||a
 Blorenge|||a
 Goldilocks|||a
-Pipple|||a
-Ilovaisk|||an
-Vitallium|||a
 Mayhem Parva|||a
 Yulemonth|||a
-Sonomarin|||a
-Contragate|||a
-Irangate|||an
 Marfa|||a
-Debaltseve|||a
 MAVEN|||a
 Datex2|||a
 Vetus Latina|||a
-Muslimstan|||a
-Sachsgate|||a
 Lauenburg|||a
 Lüneburg|||a
-McCartney|||a
-Chimpy|||a
 Chabad|||a
-Palenquero|||a
 Wayleen|||a
-Las Palmas|||a
 Gretna Green|||a
 Fames|||a
 Dilmun|||a
-Xiangtan|||a
 Xuthus|||a
-Malvi|||a
-Terrassa|||a
-Algeciras|||an
-Utsjoki|||an
 Tyrrhenia|||a
-Hog's Back|||a
-Bugun|||a
 Nazca|||a
-Fuenlabrada|||a
-Getafe|||a
-Marbella|||a
-Lleida|||a
 Dos Hermanas|||a
-Parla|||a
-Mataró|||a
 Micawber|||a
 Side|||a
-Shemini Atzeret|||a
 Tithi|||a
 Alazani|||an
 EDD|||an
 Óðr|||a
-Acarnania|||an
 Soviet Russia|||a
 Forestier|||a
 Monster group|||a
-Lumberton|||a
-Tessier|||a
-Neudorf|||a
 Rouleau|||a
-Belcarra|||a
-Whistler|||a
 Jonesville|||a
-Root|||a
 al-Kanadi|||an
 Kitara|||a
-Killam|||a
 Ob-Ugric|||an
 NoHo|||a
 Kobane|||a
@@ -12027,247 +7182,107 @@ Actium|||an
 Saint John|||a
 Vinnifer|||a
 Speidi|||a
-S1000D|||a
-Molls|||a
 Melachim|||a
-Bunbury|||a
 Smithers|||a
 8x8 rule|||a
-Wymysorys|||a
-Planet Thanet|||a
 Ded Moroz|||a
 Ullr|||an
-Simmental|||a
 Giresun|||a
-Black Peter|||a
 Bates method|||a
 Bowen technique|||a
 Buteyko method|||a
-C. of E.|||a
-Hamtramck|||a
-Sokar|||a
-Xapuri|||a
 Joliet|||a
-Dirty Thirties|||a
-Brampton|||a
 East London|||an
 Lyubavichi|||a
 Gra|||a
-Vilna Gaon|||a
 Vertumnus|||a
 American South|||an
-Fotini|||a
 Dunbar's number|||a
-Hirschy|||a
 indyref|||an
 Soar|||a
 Ashford|||an
-Abcde|||an
 Wusun|||a
 Yuezhi|||a
-Ciudad Real|||a
-Guipúzcoa|||a
-Lugo|||a
-Pontevedra|||a
-Soria|||a
-Úbeda|||a
 Franeker|||a
 Krampus|||a
 Andronovo|||an
-Up Helly Aa|||an
-Spingo|||a
 Ruscism|||a
-Alegranza|||an
 Stir-up Sunday|||a
 Mary Ann|||a
 Mary Anne|||a
-XMPP|||a
 Deep Web|||a
-Hidden Web|||a
 Surface Web|||a
-Clearnet|||a
-Indexable Web|||an
-Jorhat|||a
 Hazarika|||a
 Raków|||a
-Mongkok|||a
-Konkan|||a
-Agartha|||an
 Aertex|||an
 Iaxartes|||an
-Aldreth|||an
 Hawaiki|||a
-Huai'an|||a
-Linyi|||a
-Huaibei|||a
 SYRIZA|||a
 Gyumri|||a
-Burrillville|||a
-Burrill|||a
-Goris|||a
-Dilijan|||a
-Artashat|||an
-Syunik|||a
-Aragatsotn|||an
-Armavir|||an
-Tavush|||a
-Gegharkunik|||a
-Kotayk|||a
-Shirak|||a
-Aparan|||an
-Alaverdi|||an
 Gelao|||a
 Clarke belt|||a
 Mexamerica|||a
 Metabolism|||a
 Robur Carolinum|||a
-Semigallia|||a
-Selonia|||a
-Sportianity|||a
-Varvara|||a
 Zaitsev's rule|||a
-Samothraki|||a
-Antikeros|||an
-Mandab Strait|||a
-Bass Strait|||a
 Ak Koyunlu|||an
 Grexit|||a
-Wei River|||a
 Price equation|||a
-RTMP|||a
-Clute|||a
-Avalonia|||an
 Last Messenger|||a
 Matthew effect|||a
 Orangeville|||an
-Renfrew|||a
-Petawawa|||a
-Ratho|||a
-Athabasca|||an
 barber paradox|||a
-Elouise|||an
 Trager approach|||a
-Paracel|||a
-Paracels|||a
 Welshpool|||a
 Lojbanistan|||a
-Knowles|||a
 Snider|||a
-Wiley|||a
-Torrey|||a
 Manti|||a
-Weblish|||a
-Bellamy salute|||a
-Binner|||a
 Saraikistan|||a
 Apocrypha|||an
-Dalhart|||a
 North Vietnam|||a
-Corsicana|||a
-Ferrier|||a
-Impero tedesco|||an
-Secondo Reich|||a
-Plotinus|||a
 Segou|||a
 Segu|||a
-Zahir|||a
-Amisk|||an
-Nobleford|||a
-Hattusa|||a
-Leo Belgicus|||a
 Quinton|||a
-Wawota|||a
-Nipawin|||a
 Obomber|||an
 Blumberg sign|||a
-Rexy|||a
 Steggy|||a
-Trike|||a
-Urubú-Kaapor|||an
-Nambikwara|||a
-Kinikinao|||a
-Guajajara|||a
-Ponoka|||a
 Canara|||a
 Uttara Kannada|||an
-North Canara|||a
 Alderson|||an
 Crowder|||a
 Savanilla|||a
-Yeager|||a
-Pollywood|||a
-Tollygunge|||a
 Keyes|||a
 Wellywood|||a
-Ghallywood|||a
 Mollywood|||a
-Dhallywood|||a
-United Queendom|||an
-Karim|||a
 Bowen's disease|||a
-Lambeth|||a
-Wilks's theorem|||a
 Dagenham|||a
 Mímir|||a
-Utica|||an
-Nineties|||a
-Rangpur|||a
-Bodoland|||a
-Igboland|||an
-Yorubaland|||a
-Esanland|||an
 Esan|||an
 North Downs|||a
-Shibuya|||a
 Sky Fairy|||a
 Hoo|||a
-Mopti|||a
-Samegrelo|||a
 King Mob|||a
 Taliesin|||a
-Chur|||a
-North York|||a
-Diggerese|||a
 Woozle effect|||a
 Staines|||a
 Stylites|||a
 tweetosphere|||a
 Simon effect|||a
-Lüderitz|||a
 Ore's theorem|||an
-Lepel|||a
-Arjun|||an
 Harper Woods|||a
-Pecos|||a
 Plebgate|||a
 Leishman stain|||a
-Levana|||a
-Early Tripuri|||an
 Lombard effect|||a
-Itanic|||an
 Garawa|||a
-Twelverism|||a
-Akedah|||an
 Virchow's triad|||a
 Virchow's law|||a
-Niort|||a
 Pig War|||a
 Beaver Wars|||a
-Gravesend|||a
 Pirc Defence|||a
 Pi Day|||a
-Poo|||a
-Vicksburg|||a
-Boulogne|||a
-Sidonia|||a
-Bhima|||a
 Balfour|||a
-Albemarle|||an
 Armine|||an
-Endymion|||an
-PGLAF|||a
 Leith|||a
-Viet|||a
 Kebnekaise|||a
 Aramaneak|||an
 Tzetzes|||a
@@ -12275,396 +7290,175 @@ GNC|||a
 Zend|||a
 Liangguang|||a
 Law of Jante|||a
-Swahililand|||a
-Lake Victoria|||a
-Staffs.|||a
 Strathclyde|||a
 Yulefest|||a
 Mephibosheth|||a
 Tarsus|||a
 Pastagate|||a
-Yavne|||a
 Ibsenism|||an
-Yom Teruah|||a
 York Rite|||a
-Great White Way|||a
 Gaystapo|||a
 Krupp process|||a
 Patriots' Day|||a
 Ricœur|||a
-Rodinal|||a
-Gwydion|||a
-Milner|||a
-Eibar|||an
-Bear State|||a
 Becchi's test|||a
-Bell process|||a
 Biela's Comet|||a
-Big Bend State|||a
-Woz|||a
 Nobili's rings|||a
 Mazdak|||a
 Pasteur's fluid|||a
 Payne's process|||a
-Auntie Beeb|||an
-Krnov|||a
-Thomson process|||a
 Triger process|||a
 Manhès process|||a
 Carnot's cycle|||a
-Irvington|||an
-Cooperstown|||a
-Rarotonga|||a
 Mahdism|||a
-Zante|||a
 Alb Sunday|||an
-Psara|||a
-Kalymnos|||a
-Paros|||a
 Harvey process|||a
 word method|||a
 Eau Claire|||an
 Squeenix|||a
 Chalmette|||a
-Oenus|||an
-en-US|||an
-Camões|||a
-Bergen op Zoom|||a
 Hasaean|||a
-Lothringia|||a
 Frankia|||a
 Ahura|||an
 Nephthys|||a
 Chicagoese|||a
-John Q. Law|||a
-Johnny Law|||a
 Blucher|||a
-Hymietown|||a
-Hijazi|||a
-Chaush|||a
 Grolier|||a
 Devonwall|||a
-Pill|||a
-Sigatoka|||a
-Mizzou|||a
 Jodo Shinshu|||a
-Netlish|||a
-RATM|||a
-Samee|||a
-Gwendy|||a
-UATP|||an
 Hill Mari|||a
 Meadow Mari|||a
-Hubal|||a
-Sobranje|||a
-Cracker State|||a
 basic process|||a
 N' Orlins|||a
 N'Orlins|||a
 Norlins|||a
 Hakhel|||a
-Texarkana|||a
 Ninty|||a
 CNN|||a
-AIG|||an
-Etan|||an
-Patz|||a
 Metatron|||a
-ISWAP|||an
 Thingyan|||a
-Suckerville|||a
 Cozumel|||a
-Kamtok|||a
-Atafu|||an
 Trololo|||a
-Octomom|||an
 Snotley|||a
 Bratley|||a
 Azazel|||an
-Zenati|||a
-Danaus|||a
 Kafka|||a
-Bigs|||a
 Chuuk|||a
-Tindi|||a
-Karata|||a
 Gottschee|||a
-Nyimang|||a
 Gretta|||a
-Paropamisus|||a
 Strathspey|||a
 McOndo|||a
 Denali|||a
-Erenhot|||an
-Nösnerland|||a
-Judeo-Tat|||a
-Winter War|||a
 Tris|||a
 Vlad|||a
-Cascadia|||a
 Herzeg-Bosnia|||a
-Jewland|||a
-Pashtunwali|||a
 P5+1|||a
 Winkler test|||a
-Bloomsbury|||a
 Yerba Buena|||a
-CNBC|||a
-EDS|||an
-GTE|||a
-ING|||an
-JVC|||a
 Rade|||a
 Nyulnyulan|||a
-Worrorran|||a
-Bunuban|||a
-Mobil|||a
 Kyrylo|||a
 Nausicaa|||a
-Mackeson|||a
-Chaoyang|||a
-Tianfu|||a
 Wagogo|||a
-Sequani|||a
-Haredi Judaism|||a
-Songhai Empire|||a
-Loess Plateau|||a
 Clutha|||a
 Chaz|||a
 Local Fluff|||a
 Local Volume|||a
-Flevo|||a
-Zalmoxis|||a
 Apostolic Age|||an
-Sabbateanism|||a
-Vorarlberg|||a
-Gonio|||a
 Ball's Pyramid|||a
-Hotlanta|||a
-Mayanism|||a
 Disumbrationism|||a
-great white rat|||a
 Sinagua|||a
 Mogollon|||a
 Sonoran Desert|||a
-Great Recession|||a
-Grimsey|||a
 GAPO syndrome|||a
-Taroudant|||a
-Shirin|||a
-Shireen|||a
 Warharmi|||a
 Frunze|||a
 Sinte Romani|||a
-Viacom|||a
 Wishkah|||a
 Khaleesi|||a
 Daenerys|||a
-Katavi|||a
-Khalil|||a
-Khalid|||a
 Ordos|||an
 East Africa|||an
-Chol HaMoed|||a
-Outer Banks|||an
 Kraken Mare|||a
 Sugar Creek|||a
 Sugaw Creek|||a
 Joaquin|||a
-Exxon|||an
 Roko's basilisk|||a
-Huberta|||a
 Weinergate|||a
 Tenderloin|||a
 Combat Zone|||a
-NWOAHM|||a
-Sancerre|||a
 Angkor|||an
 Orff-Schulwerk|||an
-Ctimene|||a
-Sudhakar|||a
 Evans technique|||an
 Hud|||a
-Sudha|||a
 Rudra|||a
 Saleh|||a
 Shuaib|||a
 Uthman|||an
-Verizon|||a
 Abu Bakr|||an
 Dark Web|||a
 Deep Net|||a
 Restoration|||a
-Wuhu|||a
-Raghu|||a
-Raghuvamsa|||a
-Lavrov|||a
-Tsez|||a
 Mecklenburgish|||a
-Nanchong|||a
-Tikopia|||a
-Annapurna|||an
 Ravi|||a
-Kunti|||a
-Ramanavami|||a
-Ramanuja|||a
-Sol System|||a
-Chelone|||a
-Luxor|||a
-Nejd|||a
-Najd|||a
-First Sea Lord|||a
-Fuerteventura|||a
 Regge theory|||a
-Eurojust|||an
 Shukra|||a
-Flansy|||a
 Renuka|||a
-Pohnpei|||a
-Lata|||a
 Kosraean|||a
 Kosrae|||a
 Vegetius|||a
 Lalita|||a
-Hemingway|||a
 Ironton|||an
-Nisswa|||a
 Androcles|||an
-Aswan|||an
-Manglish|||a
-Lavanya|||a
-Żywiec|||a
-Werther effect|||a
-Enkidu|||an
 Onionland|||an
 Overton window|||an
 Suda|||a
 Themistius|||a
-PETSCII|||a
-Hine-nui-te-po|||a
 Ferber method|||a
-black bitch|||a
-Kalpana|||a
 Yamnaya|||a
 Cochimi|||a
 Muphry's law|||a
-White Day|||a
-Amelia Island|||an
 Freedonia|||a
-Hamid|||a
 Khorasan|||a
 Gallurese|||a
-Nuorese|||a
-Pericú|||a
-Aoyama|||an
 Pavani|||a
 Rasikapriya|||a
 Kosalam|||a
 Kosala|||a
-Padmaja|||a
-Vanaja|||a
-Jalaja|||a
 Sonderweg|||a
-Duklja|||a
 Gamergate|||a
-Hara|||a
-Secunderabad|||a
-Murph|||a
 Hullish|||a
-Union Square|||an
-Nadsat|||a
 China proper|||a
-Hayagriva|||a
 J-Lo|||a
-Li-Lo|||a
-Posh and Becks|||a
-Dhanat|||a
-Datooga|||a
-Su-Bo|||a
-A-Rod|||an
-Rojava|||a
-Paranan|||a
-Neapoli|||a
 Nabeul|||a
-Naucratis|||a
 Sinop|||a
-Matariki|||a
-Sagunto|||a
-Enola|||an
-Western Asia|||a
 Asparukh|||an
 Swabian Turkey|||a
-Périgord|||a
-Gackle|||a
 Shuka|||a
-Raffles|||a
-Pausanias|||a
-Pecksniff|||a
-Yeezy|||a
-Ricci calculus|||a
 Sathmar|||a
 Elizabeth Tower|||an
 Fienen|||a
-Foieni|||a
 Donets|||a
-Trolox|||a
-Kandice|||a
-Seax|||a
-Twin Cities|||a
 Nyabinghi|||a
-Romer's gap|||a
-Troilus|||a
-Dalrymple|||a
 Fremont|||a
-Chitragupta|||a
-Manasseh|||a
 Antinous|||an
-Plautus|||a
-Lysander|||a
-Siyan|||a
-Indira|||an
 Capernaum|||a
-Gethsemane|||a
 Bouyei|||a
-Aryaman|||an
-Daron|||a
-Savai'i|||a
-Upolu|||an
 Pride|||a
 Peraia|||a
-Goya|||a
 Rohirric|||a
 Revlon mode|||a
 Revlon|||a
 Jumada I|||a
-Frémy's salt|||a
 Proto-Mayan|||a
 Proto-Human|||a
-Mysłowice|||a
-Groveland|||a
-Mikkeli|||a
-Porvoo|||a
-Racibórz|||a
-Roddie|||a
 Rabi II|||a
-Lysistrata|||a
-Amram|||an
-Rameswaram|||a
 Rambam|||a
 Baden-Baden|||a
 Dogg|||a
-Cheshunt|||a
-Mughal Empire|||a
-Rashad|||a
 Kingdomtide|||a
-Bhavani|||a
-Kamakshi|||a
-Magadha|||a
-Frisian Islands|||a
-Sona|||a
 Atri|||an
 Janaka|||a
-Old Yishuv|||an
 Manuelgate|||a
 Khomeini|||a
 Khamenei|||a
@@ -12672,50 +7466,17 @@ Bell's theorem|||a
 Liberland|||a
 Sinbad|||a
 Nazir|||a
-Jining|||a
-Arpitania|||an
 Rohini|||a
-Hebonics|||a
-Rizhao|||a
 Fayettenam|||a
-Fayetteville|||a
-Kumārajīva|||a
-Wadowice|||a
-Tigran|||a
 Bahasa|||a
-Bahasa Malaysia|||a
 FreeBSD|||a
-Engsh|||an
-Sheng|||a
-Franssen effect|||a
-OpenBSD|||an
-Sagan's number|||a
 Ladder of Jacob|||a
-Merkabah|||a
-PC-BSD|||a
-DragonFly BSD|||a
 NetBSD|||a
-Middle Cornish|||a
-Gay Nineties|||a
-Wolbach|||a
-Lansford|||a
-Bucyrus|||a
-Anamoose|||an
-Prester John|||a
 Typhonomachy|||a
 Marigold|||a
 Gorgan|||a
-Old Danish|||an
-Middle Danish|||a
-Modern Danish|||a
 Subartu|||a
 Sosipater|||a
-Jablunkov|||a
-Rusty|||a
-Buzz|||a
-Evernet|||an
-Sharm el-Sheikh|||a
-Banbury|||a
 Daesh|||a
 Vaganova method|||a
 Sol VI|||a
@@ -12724,7 +7485,6 @@ Sol VIII|||a
 Sol IX|||a
 Sol X|||a
 Bagheera|||a
-Shunem|||a
 Scott's trick|||a
 Gorringe|||a
 Rent's rule|||a
@@ -12735,47 +7495,25 @@ Zonaras|||a
 Zannone|||a
 Dasharatha|||a
 Yandex|||a
-Chiumbi|||a
-Zedekiah|||a
 M62 corridor|||a
 Rasch model|||a
 Coandă effect|||a
-Partium|||a
 Bir Tawil|||a
 Binns|||a
 Siyi|||a
-Ostpolitik|||an
 Joret line|||a
 Dusner|||a
-Bayburt|||a
-Mirabel|||a
 Pravda|||a
 Eau|||an
 Harpocrates|||a
-Daily Heil|||a
 Greats|||a
 Yogachara|||a
-Kvirikashvili|||a
-Kermode|||a
-Altiplano|||an
-Amberlynn|||an
-Emberlynn|||an
 Mobilegeddon|||a
-Aidos|||an
 H2G2|||a
-Phaeacia|||a
-Chakradhar|||a
 Argad'z|||an
-Raffi|||a
-Quirinal Hill|||a
-Istakhr|||an
 Dizi|||a
 Ahvaz|||an
 Rab|||a
-Langston|||a
-Eartha|||an
 Hardred|||a
-Melo|||a
 Planet Earth|||a
-Thames River|||a
 Trumpism|||a
