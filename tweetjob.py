@@ -7,9 +7,9 @@ import authsec
 class samsatweet(webapp2.RequestHandler):
   def get(self):
     f = tweetposter.construct_tweet("Metamorphosis")
-    # url = 'https://api.twitter.com/1.1/statuses/update.json?status='+urllib.quote_plus(f)
-    # home_timeline = tweetposter.oauth_req( url, authsec.con_keysam, authsec.con_secretsam, authsec.tok_keysam, authsec.tok_secretsam )
-    # logging.info(home_timeline)
+    url = 'https://api.twitter.com/1.1/statuses/update.json?status='+urllib.quote_plus(f)
+    home_timeline = tweetposter.oauth_req( url, authsec.con_keysam, authsec.con_secretsam, authsec.tok_keysam, authsec.tok_secretsam )
+    logging.info(home_timeline)
     self.response.write('')
     logging.info('tweep!')
     logging.info(f)
@@ -17,9 +17,9 @@ class samsatweet(webapp2.RequestHandler):
 class generaltweet(webapp2.RequestHandler):
   def get(self):
     f = tweetposter.construct_tweet()
-    # url = 'https://api.twitter.com/1.1/statuses/update.json?status='+urllib.quote_plus(f)
-    # home_timeline = tweetposter.oauth_req( url, authsec.con_keyope, authsec.con_secretope, authsec.tok_keyope, authsec.tok_secretope)
-    # logging.info(home_timeline)
+    url = 'https://api.twitter.com/1.1/statuses/update.json?status='+urllib.quote_plus(f)
+    home_timeline = tweetposter.oauth_req( url, authsec.con_keyope, authsec.con_secretope, authsec.tok_keyope, authsec.tok_secretope)
+    logging.info(home_timeline)
     self.response.write('')
     logging.info('tweep!')
     logging.info(f)

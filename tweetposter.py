@@ -48,7 +48,6 @@ def construct_tweet(title=False):
   f = orig % tuple(words)
 
   f = f[0].upper() + f[1:]
-  f = f.capitalize()
   ppp = len(orig % tuple(words))
   if ppp > 140:
     logging.info(ppp)
