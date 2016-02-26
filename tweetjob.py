@@ -24,10 +24,17 @@ class generaltweet(webapp2.RequestHandler):
     logging.info('tweep!')
     logging.info(f)
 
+#an attempt to get the server to wake up so ope will actually tweet every three hours
+class wakeup(webapp2.RequestHandler):
+  def get(self):
+    self.response.write('')
+    logging.info('wake up!')
+
 app = webapp2.WSGIApplication( [
   # make a dang tweet
   ("/maketweet/samsa/$", samsatweet),
-  ("/maketweet/general/$", generaltweet)
+  ("/maketweet/general/$", generaltweet),
+  ("/maketweet/wakeup/$", wakeup)
 
 ], debug=True)
 
