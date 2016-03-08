@@ -53,3 +53,27 @@ def construct_tweet(title=False):
     logging.info(ppp)
 
   return f
+
+def wrong_pluralization():
+  word = ""
+  z = open('dictionary/Noun.txt')
+  x = z.readlines()
+  while " " not in word:
+    num = random.randint(0,len(x)) - 1
+    l = x[num][:-1].split('|||')
+    word = l.pop(0)
+  word = word.split(' ')
+  if word[0][-1] in ['s', 'h', 'x', 'z']:
+    pl = 'es'
+  elif word[0][-1] in ['y'] and word[0][-2] not in ['a','e','i','o','u']:
+    word[0] = word[0][0:-1]
+    pl = 'ies'
+  else:
+    pl = 's'
+  if "'" in word[0]:
+    word[0] = word[0].replace("'", "")
+    word[0] = word[0] + "'"
+    pl = ''
+  word[0] = word[0]+pl
+  word = ' '.join(word)
+  return "Actually, the correct pluralization is "+word+"."
