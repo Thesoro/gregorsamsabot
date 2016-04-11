@@ -2,6 +2,7 @@ import oauth2
 import quotesources
 import quotereqs
 import random
+import logging
 
 
 def oauth_req(url, key, secret, tokenkey, tokensecret, http_method="POST", post_body='status: "SMARF"', http_headers=None):
@@ -13,8 +14,10 @@ def oauth_req(url, key, secret, tokenkey, tokensecret, http_method="POST", post_
 
 def construct_tweet(title=False):
   if not title:
-    title = random.choice(quotesources.l.keys())
+    r = random.randint(0,len(quotesources.l.keys())) - 1
+    title = quotesources.l.keys()[r]
   m = quotesources.l[title]
+  logging.info(title)
   reqs = m['reqs']
   orig = m['orig']
   words = []
@@ -35,9 +38,15 @@ def construct_tweet(title=False):
         num = random.randint(0,len(x)) - 1
         l = x[num][:-1].split('|||')
         word = l.pop(0)
+        if pos == "Noun":
+          l[1] = l[1].split('`')[0]
+        l = "|||".join(l)
+
         for f in a.valuesearchers:
-          if f and not f in l or (f == "yes" and "both" not in l and "yes" not in l):
+          if f and not f in l:
             valuechecks = False
+          if (f == "yes" or f == "no") and "both" in l:
+            valuechecks = True
         if a.needsarticle:
           word = l[-1]+ ' ' + word
       words.append(word)

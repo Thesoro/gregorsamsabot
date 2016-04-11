@@ -42,7 +42,6 @@ class badplur(webapp2.RequestHandler):
     logging.info(home_timeline)
     logging.info('tweep!')
     logging.info(f)
-    self.response.write(f)
 
 #an attempt to get the server to wake up so ope will actually tweet every three hours
 class wakeup(webapp2.RequestHandler):
