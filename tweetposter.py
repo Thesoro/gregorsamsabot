@@ -48,7 +48,7 @@ def construct_tweet(title=False):
           if (f == "yes" or f == "no") and "both" in l:
             valuechecks = True
         if a.needsarticle:
-          word = l[-1]+ ' ' + word
+          word = l.split("|||")[-1] + ' ' + word
       words.append(word)
 
   for item in dupelist:
