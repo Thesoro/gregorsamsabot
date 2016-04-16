@@ -48,7 +48,6 @@ app = webapp2.WSGIApplication( [
   ("/maketweet/samsa/$", samsatweet),
   ("/maketweet/general/$", generaltweet),
   ("/maketweet/badplur/$", badplur),
-  ("/maketweet/wakeup/$", wakeup)
 
 ], debug=True)
 
