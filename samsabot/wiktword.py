@@ -77,7 +77,8 @@ class Word:
                   '|steroid','[[ban]]', 'fandom ', 'A medication', 'prodrug', 'dated form of', '|dated', '{dated',
                   'antibody', 'steroid', '|cytology', '|law', '|historic', "|physiology",
                   'monophosphate', 'guanosine', 'amphetamine', 'antiprotozoal', 'antibacterial'
-                  'veterinary medicine', 'pharmacology', 'eye dialect', '|formal']
+                  'veterinary medicine', 'pharmacology', 'eye dialect', '|formal', 'scotland', 'mathematics',
+                  ]
     for d in self.defs:
       if any(xz.lower() in d.lower() for xz in badstrings):
         pass

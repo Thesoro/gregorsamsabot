@@ -11,3 +11,7 @@ cron:
 - description: bad plurals
   url: /maketweet/badplur/
   schedule: every 3 hours
+
+- description: blants
+  url: /maketweet/blants/
+  schedule: every 3 hours

@@ -86,3 +86,28 @@ def wrong_pluralization():
   word[0] = word[0]+pl
   word = ' '.join(word)
   return "Actually, the correct pluralization is "+word+"."
+
+
+def blants_tweet():
+  word = ""
+  z = open('dictionary/Noun.txt')
+  x = z.readlines()
+  num = random.randint(0,len(x)) - 1
+  l = x[num][:-1].split('|||')
+  word = l.pop(0)
+
+  if random.randint(0,20) == 1:
+  # if True:
+    return word.capitalize() + ", " + word + ", what hast thou donst."
+
+  p = ["bless", "thank"]
+  ch = random.choice(p)
+
+  origword = word
+  while word[0] not in ['a','e','i','o','u','y']:
+    word = word[1:]
+
+  word = ch[0:2] + word
+
+  return ch.capitalize() + " you, " + origword + ". " + word.capitalize() + "."
+
